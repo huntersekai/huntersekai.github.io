@@ -1,0 +1,45 @@
+---
+layout: search
+---
+
+<style>
+body {
+            animation: fadeInAnimation ease 1s;
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+        }
+        @keyframes fadeInAnimation {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+  
+</style>
+</body>
+
+  <article>
+<h1>Hasil Pencarian</h1><br>
+        <ul id="search-results"></ul>
+ </article>
+
+<script>
+  window.store = {
+    {% for post in site.posts %}
+      "{{ post.url | slugify }}": {
+        "title": "{{ post.title | xml_escape }}",
+        "date": "{{ post.date | xml_escape }}",
+        "eps": "{{ post.eps | xml_escape }}",
+        "url": "{{ post.url | xml_escape }}"
+      }
+      {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  };
+const search-results = window.store;
+search-results.sort();
+document.getElementById("search-results").innerHTML = window.store;
+</script>
+<script src="/assets/js/prod/lunr.min.js"></script>
+<script src="/assets/js/prod/search.js"></script>

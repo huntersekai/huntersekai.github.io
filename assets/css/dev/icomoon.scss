@@ -1,0 +1,154 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('../../font/icomoon.eot?m1n6');
+  src: url('../../font/icomoon.eot?m1n6#iefix') format('embedded-opentype'),
+  url('../../font/icomoon.ttf?m1n6') format('truetype'),
+  url('../../font/icomoon.woff?m1n6') format('woff'),
+  url('../../font/icomoon.svg?m1n6#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-menu:before {
+  content: "\f03a";
+}
+  
+.icon-envelope-o:before {
+  content: "\f003";
+}
+
+.icon-home:before {
+  content: "\f015";
+}
+
+.icon-twitter:before {
+  content: "\f099";
+}
+
+.icon-facebook:before {
+  content: "\f09a";
+}
+
+.icon-facebook-f:before {
+  content: "\f09a";
+}
+
+.icon-feed:before {
+  content: "\f09e";
+}
+
+.icon-rss:before {
+  content: "\f09e";
+}
+
+.icon-google-plus:before {
+  content: "\f0d5";
+}
+
+.icon-linkedin:before {
+  content: "\f0e1";
+}
+
+.icon-angle-left:before {
+  content: "\f104";
+}
+
+.icon-angle-right:before {
+  content: "\f105";
+}
+
+.icon-tumblr:before {
+  content: "\f173";
+}
+
+.icon-stumbleupon:before {
+  content: "\f1a4";
+}
+
+.icon-delicious:before {
+  content: "\f1a5";
+}
+
+.icon-digg:before {
+  content: "\f1a6";
+}
+
+.icon-reddit-alien:before {
+  content: "\f281";
+}
+
+.tags {
+  list-style: none;
+  margin: 0;
+  overflow: hidden;
+  padding: 0;
+  background: #fdf6e3;
+  color: #2a7ae2
+}
+
+.tags li {
+  float: left;
+}
+
+.tag {
+  background: #eee;
+  border-radius: 3px 0 0 3px;
+  color: #999;
+  display: inline-block;
+  height: 26px;
+  line-height: 26px;
+  padding: 0 20px 0 23px;
+  position: relative;
+  margin: 0 10px 10px 0;
+  text-decoration: none;
+  -webkit-transition: color 0.2s;
+}
+
+.tag::before {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
+  content: '';
+  height: 6px;
+  left: 10px;
+  position: absolute;
+  width: 6px;
+  top: 10px;
+}
+
+.tag::after {
+  background: #fdf6e3;
+  border-bottom: 13px solid transparent;
+  border-left: 10px solid #eee;
+  border-top: 13px solid transparent;
+  content: '';
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.tag:hover {
+  background-color: crimson;
+  color: white;
+  text-decoration: none;
+}
+
+.tag:hover::after {
+   border-left-color: crimson;
+}

@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<style>
+body {
+            animation: fadeInAnimation ease 1s;
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+        }
+        @keyframes fadeInAnimation {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+  
+</style>
+</body>
+
+  <article>
+<h1>Arsip Rilisan</h1>   
+    {% capture posts %}
+  {% for post in site.posts %}
+        |<ul><li><a href="{{ site.baseurl }}{{ post.url }}" class="h4" li>{{ post.title }}</a></li></ul>
+{% endfor %}{% endcapture %}
+              
+{% assign sortedposts = posts | split: '|' | sort %}
+{% for post in sortedposts %}
+    {% assign postitems = post | split: '#' %}
+    <a href="{{ postitems[1] }}">{{ postitems[0] }}</a><br>
+{% endfor %}
+ </article>
