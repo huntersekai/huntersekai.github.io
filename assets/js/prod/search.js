@@ -9,7 +9,6 @@
       if (key in cache) return cache[key];
       else return cache[key] = f.apply(this, arguments);
     };
-  }
         
         for (var i = 0; i < results.length; i++) {  // Iterate over the results
           var item = store[results[i].ref];
