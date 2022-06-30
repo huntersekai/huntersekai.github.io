@@ -1,7 +1,6 @@
 ---
 layout: article
 title: Aharen-san wa Hakarenai (WEB) - 01-05
-eps: 5
 date: 2022-05-02 23:55:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/895646034225688636/969912955183460382/mpv-shot0072.jpg
 ---
