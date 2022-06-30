@@ -7,7 +7,6 @@
         
         for (var i = 0; i < results.length; i++) {  // Iterate over the results
           var item = store[results[i].ref];
-          store.sort();
           appendString += '<li><a href="' + item.url + '" class="h4">' + item.title + '</a></li><br>';
         }
         
@@ -50,7 +49,7 @@
         'date': window.store[key].date
       });
 
-      var results = idx.search(searchTerm); // Get lunr to perform a search
+      var results = idx.search(searchTerm); results.sort(); // Get lunr to perform a search
       displaySearchResults(results, window.store); // We'll write this in the next section
     }
   }
