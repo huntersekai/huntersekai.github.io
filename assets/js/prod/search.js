@@ -7,10 +7,10 @@
         
         for (var i = 0; i < results.length; i++) {  // Iterate over the results
           var item = store[results[i].ref];
-          document.getElementById('appendString').innerHTML = store;
           appendString += '<li><a href="' + item.url + '" class="h4">' + item.title + '</a></li><br>';
         }
-
+        
+        store.sort();
         searchResults.innerHTML = appendString;
       } else {
         searchResults.innerHTML = '<li class="h4">Tidak ada.</li>';
