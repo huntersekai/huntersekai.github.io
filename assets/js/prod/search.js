@@ -6,7 +6,7 @@
         var appendString = '';
         
         for (var i = 0; i < results.length; i++) {  // Iterate over the results
-          results.sort();
+          var results.sort();
           var item = store[results[i].ref];
           appendString += '<li><a href="' + item.url + '" class="h4">' + item.title + '</a></li><br>';
         }
