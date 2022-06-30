@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Shijou Saikyou no Daimaou, Murabito A ni Tensei suru (WEB) - 02
-date: 2022-05-02 01:43:00 +0700
+date: 2022-05-01 01:39:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/895646034225688636/964111026083729488/mpv-shot0067.jpg
 ---
 
