@@ -1,13 +1,31 @@
 ---
 layout: search
 ---
-<form action="/search.html" method="get">
-  <label for="search-box">Search</label>
-  <input type="text" id="search-box" name="query">
-  <input type="submit" value="search">
-</form>
 
-<ul id="search-results"></ul>
+<style>
+body {
+            animation: fadeInAnimation ease 1s;
+            animation-iteration-count: 1;
+            animation-fill-mode: forwards;
+        }
+        @keyframes fadeInAnimation {
+            0% {
+                opacity: 0;
+            }
+            100% {
+                opacity: 1;
+            }
+        }
+  
+</style>
+</body>
+
+  <article>
+<h1>Hasil Pencarian</h1><br>
+        <ul id="search-results"></ul>
+<span class= "article__date">*Masih dalam tahap pengembangan, hasil pencarian tampil acak.</span>
+ </article>
+
 
 <script>
   window.store = {
@@ -23,5 +41,5 @@ layout: search
     {% endfor %}
   };
 </script>
-<script src="/js/lunr.min.js"></script>
-<script src="/js/search.js"></script>
+<script src="/assets/js/prod/lunr.min.js"></script>
+<script src="/assets/js/prod/search.js"></script>
