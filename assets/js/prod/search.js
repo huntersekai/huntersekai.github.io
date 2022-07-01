@@ -38,19 +38,18 @@
     // a boost of 10 to indicate matches on this field are more important.
     var idx = lunr(function () {
       this.field('title');
-      this.field('date', { boost: 10 });
       this.field('id');
     });
 
     for (var key in window.store) { // Add the data to lunr
       idx.add({
         'id': key,
-        'title': window.store[key].title,
-        'date': window.store[key].date
+        'title': window.store[key].title
       });
 
       var results = idx.search(searchTerm); // Get lunr to perform a search
       displaySearchResults(results, window.store); // We'll write this in the next section
+      results.sort();
     }
   }
 })();
