@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Shadows House 2nd Season (WEB) - 01
-date: 2022-07-11 15:58:00+0700
+date: 2022-07-10 15:58:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/995594464057905233/mpv-shot0093.jpg
 ---
 
