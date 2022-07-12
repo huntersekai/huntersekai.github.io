@@ -16,4 +16,4 @@ Sisanya: Rokhiq
 Unduh WEB 900p
 
 ---
-[Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Panas%202022/%5BWEB%5D/%5BA-1%5D%20Shadows%20House%202nd%20Season%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Shadows%20House%202nd%20Season%20-%2001%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5B85B4169A%5D.mkv) - [Telegram](https://t.me/a1fansubweeklies/102)
+[Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Panas%202022/%5BWEB%5D/%5BA-1%5D%20Shadows%20House%202nd%20Season%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Shadows%20House%202nd%20Season%20-%2001%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5B85B4169A%5D.mkv){:target="_blank"} - [Telegram](https://t.me/a1fansubweeklies/102){:target="_blank"}
