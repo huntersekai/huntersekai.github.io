@@ -7,7 +7,7 @@ coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/9955944640
 
 ![](https://cdn.discordapp.com/attachments/970663117057032232/995594464057905233/mpv-shot0093.jpg)
 
-Musim kedua dari serial Shadows House.
+Musim kedua dari serial [Shadows House](https://a-1fansub.github.io/Shadows-House-Paketan).
 
 Pengolah Video: Azkaxfannx
 <br>
