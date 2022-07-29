@@ -11,6 +11,7 @@ layout: htmlCompressor
   <meta name="description" content="{% if page.title %}{{ page.content | strip_html | slice: 0, 150 }}{% elsif site.description %}{{ site.description }}{% endif %}">
 
   <!-- Meta for robots -->
+  <meta name="theme-color" content="#33b41a">
   <meta charset="UTF-8">
   <meta name="revisit-after" content="1 days">
   <meta name="robots" content="index, follow">
@@ -23,13 +24,13 @@ layout: htmlCompressor
   <meta itemprop="description" content="">
 
   <!-- Open Graph(Facebook, Pinterest) -->
+  <meta property="og:theme-color" content="#33b41a">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ site.baseurl }}{{ page.url }}">
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% elsif site.name %}{{ site.name }}{% endif %}">
   <meta property="og:locale" content="{{ site.locale }}">
   <meta property="og:site_name" content="{{ site.name }}">
   <meta property="og:description" content="">
-  <meta property="og:theme-color" content="#33b41a">
 
   <!-- Twitter -->
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% elsif site.name %}{{ site.name }}{% endif %}">
