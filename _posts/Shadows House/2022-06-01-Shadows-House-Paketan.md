@@ -2,11 +2,10 @@
 layout: article
 title: Shadows House (BD) - Paketan
 date: 2022-06-01 19:19:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/981531071344689182/wp9110852-shadows-house-wallpapers.png
-tags: [Shadows House]
+coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664979641237574/mpv-shot0109.jpg
 ---
 
-![](https://cdn.discordapp.com/attachments/970663117057032232/981531071344689182/wp9110852-shadows-house-wallpapers.png)
+![](https://cdn.discordapp.com/attachments/970663117057032232/1003664979641237574/mpv-shot0109.jpg)
 
 Mansion yang berada di atas bukit yang dikenal dengan nama Rumah Bayangan, rumah dari bayangan yang hidup layaknya bangsawan. Mereka mengeksperesikan emosinya dengan Boneka Hidup yang sekaligus menjadi pelayan.
 
