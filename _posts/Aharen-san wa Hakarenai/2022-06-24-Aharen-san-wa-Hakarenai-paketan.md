@@ -2,10 +2,10 @@
 layout: article
 title: Aharen-san wa Hakarenai (WEB) - Paketan
 date: 2022-06-24 03:11:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/895646034225688636/989616467114868846/unknown.png
+coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664980295569478/mpv-shot0107.jpg
 ---
 
-![](https://cdn.discordapp.com/attachments/895646034225688636/989616467114868846/unknown.png)
+![](https://cdn.discordapp.com/attachments/970663117057032232/1003664980295569478/mpv-shot0107.jpg)
 
 Cerita dimulai dari keseharian tak terduga antara si pendiam Aharen Reina dan Raidou yang duduk bersebelahan.
 Aharen tidak pandai bergaul dengan orang sekitar, membuat Raidou merasa ada jarak di antara mereka berdua.
