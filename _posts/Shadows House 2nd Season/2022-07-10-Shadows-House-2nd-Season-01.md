@@ -2,10 +2,10 @@
 layout: article
 title: Shadows House 2nd Season (WEB) - 01
 date: 2022-07-10 15:58:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/995594464057905233/mpv-shot0093.jpg
+coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003988628491472947/mpv-shot0112.jpg
 ---
 
-![](https://cdn.discordapp.com/attachments/970663117057032232/995594464057905233/mpv-shot0093.jpg)
+![](https://cdn.discordapp.com/attachments/970663117057032232/1003988628491472947/mpv-shot0112.jpg)
 
 Musim kedua dari serial [Shadows House](https://a-1fansub.github.io/Shadows-House-Paketan).
 
