@@ -34,7 +34,7 @@ coverPhoto: "/assets/img/banner.jpg"
       <span class="article__date">
         {% if site.lang == "id" %}
           {% assign m = post.date | date: "%-m" %}
-          {{ A-1 Fansub · post.date | date: "%-d" }} 
+          {{ post.date | date: "%-d" }} 
           {% case m %}
             {% when "1" %}Januari 
             {% when "2" %}Februari
