@@ -8,7 +8,6 @@ layout: default
   <!-- Article title -->
   <h1>{{ page.title }}</h1>
 
-<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   <!-- Article date -->
   <span class= "article__date"> 
     {% if site.lang == "id" %}
@@ -32,7 +31,7 @@ layout: default
     {% else %}
       {{ page.date | date_to_long_string | upcase }}
     {% endif %}
-  </span><span id="busuanzi_value_site_pv"></span>x Dilihat</span>
+  </span>
 
   <!-- Article description -->
   <section>{{ page.content }}
