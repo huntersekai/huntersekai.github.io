@@ -28,11 +28,11 @@ layout: default
         {% when "11" %}November
         {% when "12" %}Desember
       {% endcase %}
-      {{ page.date | date: "%Y, %H:%M" · }}
+      {{ page.date | date: "%Y, %H:%M" }}
     {% else %}
       {{ page.date | date_to_long_string | upcase }}
     {% endif %}
-  </span><span class="article__date" id="busuanzi_value_site_pv">x Dilihat</span>
+  </span><div class="article__date"> · <span id="busuanzi_value_site_pv"></span><>x Dilihat</span></div>
 
   <!-- Article description -->
   <section>{{ page.content }}
