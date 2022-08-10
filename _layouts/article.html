@@ -10,7 +10,7 @@ layout: default
 
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
   <!-- Article date -->
-  <span class= "article__date"> 
+  <div class="article__date"> 
     {% if site.lang == "id" %}
       {% assign m = page.date | date: "%-m" %}
       {{ page.date | date: "%-d" }} 
@@ -31,8 +31,7 @@ layout: default
       {{ page.date | date: "%Y, %H:%M" }} ·
     {% else %}
       {{ page.date | date_to_long_string | upcase }}
-    {% endif %}
-	</span> <div class="article__date"><span id="busuanzi_value_site_pv"></span>x Dilihat</span></div>
+    {% endif %} <span id="busuanzi_value_site_pv"></span>x Dilihat</span></div>
 
   <!-- Article description -->
   <section>{{ page.content }}
