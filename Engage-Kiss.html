@@ -5,9 +5,7 @@ layout: default
 <div>
   {% for post in site.categories['Engage Kiss'] %}
     <article>
-      <h1>
-          <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      </h1>
+          <a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
       <div class="entry">
         {{ post.excerpt }}
       </div>
