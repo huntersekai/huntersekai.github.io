@@ -46,9 +46,9 @@ layout: htmlCompressor
 
   <!-- If article has a cover photo -->
   {% if page.coverPhoto %}
-    <meta itemprop="image" content="{{ page.coverPhoto }}">
-    <meta property="og:image" content="{{ page.coverPhoto }}">
-    <meta name="twitter:image" content="{{ page.coverPhoto }}">
+    <meta itemprop="image" content="{% if page.coverPhoto %}{{ page.coverPhoto }}{% elsif banner %}{{ site.baseurl }}/assets/img/banner.jpg{% endif %}">
+    <meta property="og:image" content="{% if page.coverPhoto %}{{ page.coverPhoto }}{% elsif banner %}{{ site.baseurl }}/assets/img/banner.jpg{% endif %}">
+    <meta name="twitter:image" content="{% if page.coverPhoto %}{{ page.coverPhoto }}{% elsif banner %}{{ site.baseurl }}/assets/img/banner.jpg{% endif %}">
   {% endif %}
 
   <!-- iOS web app -->
