@@ -45,9 +45,9 @@ layout: htmlCompressor
   <meta name="twitter:description" content="">
 
   <!-- If article has a cover photo -->
-  <meta itemprop="image" content="{% if page.coverPhoto %}{{ page.coverPhoto }}{% elsif banner %}{{ site.baseurl }}/assets/img/banner.jpg{% endif %}">
-  <meta property="og:image" content="{% if page.coverPhoto %}{{ page.coverPhoto }}{% elsif banner %}{{ site.baseurl }}/assets/img/banner.jpg{% endif %}">
-  <meta name="twitter:image" content="{% if page.coverPhoto %}{{ page.coverPhoto }}{% elsif banner %}{{ site.baseurl }}/assets/img/banner.jpg{% endif %}">
+  <meta itemprop="image" content="{% if page.coverPhoto %}{{ page.coverPhoto }}{% elsif site.baseurl %}{{ site.baseurl }}/assets/img/banner.jpg{% endif %}">
+  <meta property="og:image" content="{% if page.coverPhoto %}{{ page.coverPhoto }}{% elsif site.baseurl %}{{ site.baseurl }}/assets/img/banner.jpg{% endif %}">
+  <meta name="twitter:image" content="{% if page.coverPhoto %}{{ page.coverPhoto }}{% elsif site.baseurl %}{{ site.baseurl }}/assets/img/banner.jpg{% endif %}">
 
   <!-- iOS web app -->
   <meta name="format-detection" content="telephone=yes">
