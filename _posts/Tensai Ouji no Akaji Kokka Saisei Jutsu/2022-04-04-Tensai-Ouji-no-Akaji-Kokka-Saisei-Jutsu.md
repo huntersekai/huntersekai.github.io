@@ -3,6 +3,7 @@ layout: article
 title: Tensai Ouji no Akaji Kokka Saisei Jutsu (WEB) - Paketan
 date: 2022-04-03 01:22:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664980043898930/mpv-shot0108.jpg
+category: Tensai Ouji no Akaji Kokka Saisei Jutsu
 ---
 
 ![](https://cdn.discordapp.com/attachments/970663117057032232/1003664980043898930/mpv-shot0108.jpg)
