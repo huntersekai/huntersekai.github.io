@@ -4,6 +4,7 @@ title: Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita (BD) -
 date: 2022-03-20 03:29:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664979347656774/mpv-shot0110.jpg
 category: Slime-Taoshite-300-nen,-Shiranai-Uchi-ni-Level-Max-ni-Nattemashita
+tags: Paketan
 ---
 
 ![](https://cdn.discordapp.com/attachments/970663117057032232/1003664979347656774/mpv-shot0110.jpg)
