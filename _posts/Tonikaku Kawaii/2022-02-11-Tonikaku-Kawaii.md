@@ -4,6 +4,7 @@ title: Tonikaku Kawaii (BD) - Paketan
 date: 2022-02-11 00:32:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664979087593492/mpv-shot0111.jpg
 category: Tonikaku-Kawaii
+tags: Paketan
 ---
 
 ![](https://cdn.discordapp.com/attachments/970663117057032232/1003664979087593492/mpv-shot0111.jpg)
