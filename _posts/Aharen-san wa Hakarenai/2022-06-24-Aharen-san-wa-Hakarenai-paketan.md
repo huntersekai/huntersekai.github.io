@@ -3,7 +3,7 @@ layout: article
 title: Aharen-san wa Hakarenai (WEB) - Paketan
 date: 2022-06-24 03:11:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664980295569478/mpv-shot0107.jpg
-category: [Aharen-san wa Hakarenai, Paketan]
+category: Aharen-san-wa-Hakarenai
 ---
 
 ![](https://cdn.discordapp.com/attachments/970663117057032232/1003664980295569478/mpv-shot0107.jpg)
