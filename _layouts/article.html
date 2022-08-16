@@ -30,7 +30,7 @@ layout: default
       {{ page.date | date: "%Y, %H:%M" }}
     {% else %}
       {{ page.date | date_to_long_string | upcase }}
-	  {% endif %}</a></span> - <a href"https://a-1fansub.github.io/kategori/Shadows-House-2nd-Season">{{ page.category }}</a>
+	  {% endif %}</a></span> - <a href="{{ site.url }}/{{ page.category }}">{{ page.category }}</a>
 
   <!-- Article description -->
   <section>{{ page.content }}
