@@ -30,7 +30,7 @@ layout: default
       {{ page.date | date: "%Y, %H:%M" }}
     {% else %}
       {{ page.date | date_to_long_string | upcase }}
-	  {% endif %}</a></span>
+	  {% endif %}</a> - <a href"{{ site.baseurl }}{{ page.category }}">{{ page.category }}</a></span>
 
   <!-- Article description -->
   <section>{{ page.content }}
