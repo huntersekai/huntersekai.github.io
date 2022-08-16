@@ -4,6 +4,7 @@ title: Majo no Tabitabi (BD) - Paketan
 date: 2021-12-21 05:40:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664978689130557/mpv-shot0075.jpg
 category: Majo-no-Tabitabi
+tags: Paketan
 ---
 
 ![](https://cdn.discordapp.com/attachments/970663117057032232/1003664978689130557/mpv-shot0075.jpg)
