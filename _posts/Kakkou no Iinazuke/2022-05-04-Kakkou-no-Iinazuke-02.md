@@ -3,7 +3,7 @@ layout: article
 title: Kakkou no Iinazuke (WEB) - 02
 date: 2022-05-04 22:12:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/991700187670130728/unknown.png
-category: Kakkou no Iinazuke
+category: Kakkou-no-Iinazuke
 ---
 
 ![](https://cdn.discordapp.com/attachments/852096360287043644/991700187670130728/unknown.png)
