@@ -32,7 +32,7 @@ layout: default
       {{ page.date | date_to_long_string | upcase }}
 	  {% endif %} •</span><span> <a href="{{ site.url }}/kategori/{{ page.category }}" class="article__date">{{ page.category }}</a></span>
 	
-  <span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span>
+  <span class="ar-content" style="background-image: url({{ page.coverPhoto }});"></span>
 	
   <!-- Article description -->
   <section>{{ page.content }}
