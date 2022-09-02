@@ -6,8 +6,6 @@ coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/9684987011
 category: Kakkou-no-Iinazuke
 ---
 
-![](https://cdn.discordapp.com/attachments/902952031923347497/968498701163175967/unknown.png)
-
 Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.
 
 Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek){:target="_blank"}
