@@ -6,8 +6,6 @@ coverPhoto: https://cdn.discordapp.com/attachments/895646034225688636/9622337421
 category: Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru
 ---
 
-![](https://cdn.discordapp.com/attachments/895646034225688636/962233742108282962/mpv-shot0064.jpg)
-
 Sebagai perwujudan kekuasaan sepanjang masa, Raja Iblis Varvatos menganggap hidupnya sangat keruh. Dia bertindak dengan sendirinya dan memutuskan bereinkarnasi. Dia menyesuaikan kekuatan sihir dengan sempurna hingga rata-rata. Tapi, dunia yang baru sangatlah lemah, dan membuatnya menjadi yang terhebat lagi! Dilahirkan dengan nama Ard, dia memiliki gadis penjilat bersamanya, keluarga kerajaan memintanya menjadi raja selanjutnya, tapi pelayannya bersikeras membunuhnya?! Tapi, Ard tetap pada pendiriannya, dan tak akan berhenti hingga tujuan utamanya tercapai!
 
 
