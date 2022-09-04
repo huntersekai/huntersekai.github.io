@@ -16,7 +16,7 @@ Tata Rias: Rokhiq
 <br>
 Penyelaras Waktu: KiryuuNii
 
-Unduh WEB
+Unduh BD
 
 ---
 [PerpusIndo (1080p)](https://www.perpusindo.info/berkas/53vAN0Ee){:target="_blank"} - [PerpusIndo (720p)](https://www.perpusindo.info/berkas/dVOiC44B){:target="_blank"}
