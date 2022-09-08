@@ -4,8 +4,10 @@ layout: default
 
 <article>
 <h1>Rilisan Terbaru</h1>   
-    
+        {% capture posts %}
+  {% for post in site.posts %}
         <ul><li><a href="{{ site.baseurl }}{{ post.url }}" class="h4" li>{{ post.title }}</a></li></ul><br>
+{% endfor %}{% endcapture %}
 
  </article>
 
