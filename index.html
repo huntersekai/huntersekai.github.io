@@ -1,13 +1,30 @@
 ---
 layout: default
+coverPhoto: "/assets/img/banner.jpg"
 ---
 
-<article>
-<h1>Rilisan Terbaru</h1>   
-        
-        <ul><li><a href="{{ site.baseurl }}{{ post.url }}" class="h4" li>{{ post.title }}</a></li></ul><br>
+<!-- Don't show pagination bar in homepage -->
+{% if paginator.page > 1 %}
 
- </article>
+{% endif %}
+
+<!-- Loop for posts by paginator -->
+{% for post in paginator.posts %}
+
+  <!-- Article -->
+  <article>
+
+    <!-- Article title -->
+    <ul>
+            <li><a href="{{ site.baseurl }}{{ post.url }}" class="h4">{{ post.title }}</a><br>
+    </ul>
+
+  </article><!-- article -->
+
+{% endfor %}
+    
+<!-- Include pagination bar -->
+{% include pagination.html section="bottom" %}
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-9PNC9JT63S"></script>
