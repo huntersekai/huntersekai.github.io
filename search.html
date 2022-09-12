@@ -3,7 +3,24 @@ layout: search
 ---
 
   <article>
-<h1>Hasil Pencarian</h1><br>
+<h1>Cari Apa?</h1><br>
+        
+    <style type="text/css">
+    form {
+      margin:25px auto;
+    }
+    .search {
+      padding:5px 14px;
+      width: 85%;
+      color: #171717
+    }
+  </style>
+   </head>
+<body>
+   <form action="/search.html" method="get">
+    <input class="search h6" type="text" placeholder="Cari di sini ...." id="search-box" name="query">
+</form>
+
         <ul id="search-results"></ul>
  </article>
 
