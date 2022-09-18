@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Kakkou no Iinazuke (BD) - 05
-date: 2022-09-18 19:94:00+0700
+date: 2022-09-18 19:04:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/991700370826989608/unknown.png
 category: Kakkou-no-Iinazuke
 ---
