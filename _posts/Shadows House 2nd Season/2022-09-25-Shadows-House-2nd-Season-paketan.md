@@ -4,6 +4,7 @@ title: Shadows House 2nd Season (WEB) - Paketan
 date: 2022-09-24 23:44:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1023090125556678706/unknown.png
 category: Shadows-House-2nd-Season
+tags: Paketan
 ---
 
 Musim kedua dari serial [Shadows House](https://a-1fansub.github.io/Shadows-House-Paketan).
