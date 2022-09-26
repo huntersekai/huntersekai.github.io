@@ -18,7 +18,7 @@ Dan dimulailah kisah kekonyolan komedi-romantis dan hubungan tak biasa di antara
 
 Alih Bahasa, Tata Rias, Lirik: Rokhiq
 <br>
-Pengolah Video: Azka
+Pengolah Video: Azkaxfannx, Rokhiq
 <br>
 Penyelaras Akhir: KiryuuNii
 
