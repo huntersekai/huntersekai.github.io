@@ -15,7 +15,7 @@ layout: htmlCompressor
   <meta name="theme-color" content="#202020">
   <meta name="revisit-after" content="1 days">
   <meta name="robots" content="index, follow">
-  <meta name="author" content="{% if post.author %}{{ post.author }}{% elsif site.author %}{{ site.author }}">
+  <meta name="author" content="{% if post.author %}{{ post.author }}{% elsif site.author %}{{ site.author }}{% endif %}">
   <meta name="generator" content="Jekyll v{{ jekyll.version }}">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
@@ -40,7 +40,7 @@ layout: htmlCompressor
   <meta name="twitter:url" content="{{ site.baseurl }}{{ page.url }}">
   <link rel="icon" href="https://a-1fansub.github.io/assets/img/favicon.ico">
   <meta name="msapplication-TileImage" content="https://a-1fansub.github.io/assets/img/favicon.ico">
-  <meta name="twitter:creator" content="{% if post.author %}{{ post.author }}{% elsif site.author %}{{ site.author }}">
+  <meta name="twitter:creator" content="{% if post.author %}{{ post.author }}{% elsif site.author %}{{ site.author }}{% endif %}">
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:description" content="">
 
