@@ -4,6 +4,7 @@ title: Engage Kiss (BD) - 03
 date: 2022-10-01 02:54:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/998057540682264728/mpv-shot0097.jpg
 category: Engage-Kiss
+author: Rokhiq
 ---
 
 Kota Bayron, kota metropolitan melayang yang dibangun 'tuk mencari sumber energi terbarukan.
