@@ -4,6 +4,7 @@ title: Shijou Saikyou no Daimaou, Murabito A ni Tensei suru (WEB) - 04
 date: 2022-06-28 16:59:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/991281377322487918/mpv-shot0088.jpg
 category: Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru
+epsname: Duel
 ---
 
 Sebagai perwujudan kekuasaan sepanjang masa, Raja Iblis Varvatos menganggap hidupnya sangat keruh. Dia bertindak dengan sendirinya dan memutuskan bereinkarnasi. Dia menyesuaikan kekuatan sihir dengan sempurna hingga rata-rata. Tapi, dunia yang baru sangatlah lemah, dan membuatnya menjadi yang terhebat lagi! Dilahirkan dengan nama Ard, dia memiliki gadis penjilat bersamanya, keluarga kerajaan memintanya menjadi raja selanjutnya, tapi pelayannya bersikeras membunuhnya?! Tapi, Ard tetap pada pendiriannya, dan tak akan berhenti hingga tujuan utamanya tercapai!
