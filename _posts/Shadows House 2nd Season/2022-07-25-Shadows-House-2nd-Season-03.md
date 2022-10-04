@@ -4,6 +4,7 @@ title: Shadows House 2nd Season (WEB) - 03
 date: 2022-07-25 18:42:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1000275818053910679/mpv-shot0098.jpg
 category: Shadows-House-2nd-Season
+epsname: Pembersihan Massal
 ---
 
 Musim kedua dari serial [Shadows House](https://a-1fansub.github.io/Shadows-House-Paketan).

@@ -4,6 +4,7 @@ title: Shadows House 2nd Season (WEB) - 09
 date: 2022-09-04 22:45:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1015493968890437642/mpv-shot0134.jpg
 category: Shadows-House-2nd-Season
+epsname: Pelajaran Terakhir
 ---
 
 Musim kedua dari serial [Shadows House](https://a-1fansub.github.io/Shadows-House-Paketan).

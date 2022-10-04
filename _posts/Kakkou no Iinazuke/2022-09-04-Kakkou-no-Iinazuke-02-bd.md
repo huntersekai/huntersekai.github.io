@@ -4,6 +4,7 @@ title: Kakkou no Iinazuke (BD) - 02
 date: 2022-09-04 20:02:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/991700187670130728/unknown.png
 category: Kakkou-no-Iinazuke
+epsname: Aku takkan menikah denganmu
 ---
 
 Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.

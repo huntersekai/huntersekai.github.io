@@ -4,6 +4,7 @@ title: Kakkou no Iinazuke (WEB) - 04
 date: 2022-06-07 17:42:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/991700293098160228/unknown.png
 category: Kakkou-no-Iinazuke
+epsname: Maukah kamu jalan bersamaku ...?
 ---
 
 Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.

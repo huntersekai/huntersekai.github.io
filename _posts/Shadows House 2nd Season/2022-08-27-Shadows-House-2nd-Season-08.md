@@ -4,6 +4,7 @@ title: Shadows House 2nd Season (WEB) - 08
 date: 2022-08-27 14:30:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1012987687814303794/mpv-shot0130.jpg
 category: Shadows-House-2nd-Season
+epsname: Identitas Nona Bergaun
 ---
 
 Musim kedua dari serial [Shadows House](https://a-1fansub.github.io/Shadows-House-Paketan).

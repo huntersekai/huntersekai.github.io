@@ -4,6 +4,7 @@ title: Kakkou no Iinazuke (WEB) - 01
 date: 2022-04-26 19:36:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/968498701163175967/unknown.png
 category: Kakkou-no-Iinazuke
+epsname: Kamu akan menjadi pasanganku
 ---
 
 Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.

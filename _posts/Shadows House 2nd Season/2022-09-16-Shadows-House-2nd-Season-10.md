@@ -4,6 +4,7 @@ title: Shadows House 2nd Season (WEB) - 10
 date: 2022-09-16 22:45:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1018011888375828640/mpv-shot0138.jpg
 category: Shadows-House-2nd-Season
+epsname: Teman Bernilai
 ---
 
 Musim kedua dari serial [Shadows House](https://a-1fansub.github.io/Shadows-House-Paketan).
