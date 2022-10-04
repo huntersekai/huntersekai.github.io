@@ -1,0 +1,56 @@
+---
+layout: default
+---
+
+<div>
+  {% for post in site.categories['Kage-no-Jitsuryokusha-ni-Naritakute'] %}
+    <article>
+
+    <!-- Article title -->
+    <a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
+
+      <!-- If article has a cover photo -->
+      {% if post.coverPhoto %}
+
+        <!-- Article image with aspect ratio -->
+        <a href="{{ site.baseurl }}{{ post.url }}" class="ar-container">
+          <span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span>
+        </a><!-- .ar-container -->
+
+      {% endif %}
+
+    <!-- Article date & article continue reading button container -->
+    <div class="article__bottom">
+
+      <!-- Article date -->
+      <span class="article__date">
+        {% if site.lang == "id" %}
+          {% assign m = post.date | date: "%-m" %}
+          {{ post.date | date: "%-d" }} 
+          {% case m %}
+            {% when "1" %}Januari 
+            {% when "2" %}Februari
+            {% when "3" %}Maret
+            {% when "4" %}April 
+            {% when "5" %}Mei 
+            {% when "6" %}Juni 
+            {% when "7" %}Juli 
+            {% when "8" %}Agustus 
+            {% when "9" %}September
+            {% when "10" %}Oktober
+            {% when "11" %}November
+            {% when "12" %}Desember 
+          {% endcase %}
+          {{ post.date | date: "%Y" }}
+        {% else %}
+          {{ post.date | date_to_long_string | upcase }}
+        {% endif %}
+      </span>
+   
+      <!-- Article continue reading button -->
+      <a class="article__button" href="{{ site.baseurl }}{{ post.url }}">{% if site.lang == "tr" %}DEVAMINI OKU{% else %}SELENGKAPNYA{% endif %}</a>
+      
+      </div>
+    </article>
+  {% endfor %}
+</div>
