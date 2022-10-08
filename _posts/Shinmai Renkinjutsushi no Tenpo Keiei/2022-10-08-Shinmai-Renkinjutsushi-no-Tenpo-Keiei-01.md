@@ -18,4 +18,4 @@ Penyelaras Akhir: KiryuuNii
 Unduh WEB
 
 ---
-[PerpusIndo 7200p](https://www.perpusindo.info/berkas/EpAnKKFq){:target="_blank"} - [PerpusIndo (1080p)](https://www.perpusindo.info/berkas/qldcxixU){:target="_blank"}
+[PerpusIndo (720p)](https://www.perpusindo.info/berkas/EpAnKKFq){:target="_blank"} - [PerpusIndo (1080p)](https://www.perpusindo.info/berkas/qldcxixU){:target="_blank"}
