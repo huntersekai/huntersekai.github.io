@@ -15,7 +15,7 @@ timezone: Asia/Jakarta
 paginateLabel: halaman
 paginate_path: "halaman/:num"
 permalink: /:title
-baseurl: https://a-1fansub.github.io
+baseurl: https://a-1.fansub.id
 
 # Includes
 addthisId: ""
