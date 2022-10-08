@@ -9,6 +9,7 @@ epsname: Kamu tinggal sendiri, 'kan?
 
 Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.
 
+```
 Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek){:target="_blank"}
 <br>
 Alih Bahasa, Pengolah Video, Penyelaras Akhir: Leqek
@@ -16,6 +17,7 @@ Alih Bahasa, Pengolah Video, Penyelaras Akhir: Leqek
 Tata Rias: Rokhiq
 <br>
 Penyelaras Waktu: KiryuuNii
+```
 
 Unduh BD
 
