@@ -15,7 +15,8 @@ Alih Bahasa, Tata Rias: Rokhiq<br>
 Pengecek Terjemahan, Pengolah Video: Leqek<br>
 Penyelaras Akhir: KiryuuNii
 
-Unduh WEB
+Unduh
 
 ---
-[PerpusIndo (720p)](https://www.perpusindo.info/berkas/EpAnKKFq){:target="_blank"} - [PerpusIndo (1080p)](https://www.perpusindo.info/berkas/qldcxixU){:target="_blank"}
+1080p: [PerpusIndo](https://www.perpusindo.info/berkas/qldcxixU){:target="_blank"}<br>
+720p: [PerpusIndo](https://www.perpusindo.info/berkas/EpAnKKFq){:target="_blank"}

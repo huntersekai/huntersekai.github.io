@@ -22,10 +22,9 @@ Pengolah Video: Azkaxfannx, Rokhiq
 <br>
 Penyelaras Akhir: KiryuuNii
 
-Unduh WEB 900p
+Unduh
 
 ---
-Paketan: [Acefile](https://acefile.co/f/84579174/a-1-engage-kiss-webx264-900paac-7z
-){:target="_blank"} - [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Engage%20Kiss%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D.7z){:target="_blank"}
-<br>
-Eceran: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Panas%202022/%5BWEB%5D/%5BA-1%5D%20Engage%20Kiss%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/){:target="_blank"} - [Telegram](https://t.me/a1fansub/153){:target="_blank"}
+900p Paketan: [Acefile](https://acefile.co/f/84579174/a-1-engage-kiss-webx264-900paac-7z
+){:target="_blank"} [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Engage%20Kiss%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D.7z){:target="_blank"}<br>
+900p Eceran: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Panas%202022/%5BWEB%5D/%5BA-1%5D%20Engage%20Kiss%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/){:target="_blank"} [Telegram](https://t.me/a1fansub/153){:target="_blank"}

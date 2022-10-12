@@ -18,7 +18,8 @@ Tata Rias: Rokhiq
 <br>
 Penyelaras Waktu: KiryuuNii
 
-Unduh WEB
+Unduh
 
 ---
-[PerpusIndo (1080p)](https://www.perpusindo.info/berkas/aKxGKFEd){:target="_blank"} - [PerpusIndo (720p)](https://www.perpusindo.info/berkas/HrIyzN02){:target="_blank"}
+1080p: [PerpusIndo](https://www.perpusindo.info/berkas/aKxGKFEd){:target="_blank"}<br>
+720p: [PerpusIndo](https://www.perpusindo.info/berkas/HrIyzN02){:target="_blank"}
