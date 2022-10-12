@@ -22,7 +22,7 @@ Pengolah Video: Azkaxfannx, Rokhiq
 <br>
 Penyelaras Akhir: KiryuuNii
 
-{% if page.epsname %}Episode: {{ page.epsname }}{% elsif Unduh %}Unduh{% endif %}
+{% if page.epsname %}Episode: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran {% endif %}
 
 ---
 900p Paketan: [Acefile](https://acefile.co/f/84579174/a-1-engage-kiss-webx264-900paac-7z
