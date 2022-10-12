@@ -20,7 +20,7 @@ Pengolah Video: KiryuuNii, Azkaxfannx
 <br>
 Penyelaras Akhir: KiryuuNii
 
-Unduh
+{% if page.epsname %}Episode: {{ page.epsname }}{% elsif Unduh %}Unduh{% endif %}
 
 ---
 900p Paketan: [Acefile](https://acefile.co/f/77725188/a-1-aharen-san-wa-hakarenai-webx264-900paac-7z){:target="_blank"} [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D.7z){:target="_blank"}<br>

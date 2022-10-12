@@ -17,7 +17,7 @@ Tata Rias: Rokhiq
 <br>
 Penyelaras Waktu: KiryuuNii
 
-Unduh
+{% if page.epsname %}Episode: {{ page.epsname }}{% elsif Unduh %}Unduh{% endif %}
 
 ---
 1080p: [PerpusIndo](https://www.perpusindo.info/berkas/53vAN0Ee){:target="_blank"}<br>
