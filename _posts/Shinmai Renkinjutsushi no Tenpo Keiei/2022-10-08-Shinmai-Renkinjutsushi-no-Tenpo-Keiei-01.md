@@ -15,7 +15,7 @@ Alih Bahasa, Tata Rias: Rokhiq<br>
 Pengecek Terjemahan, Pengolah Video: Leqek<br>
 Penyelaras Akhir: KiryuuNii
 
-Episode 01: {{ page.epsname }}
+{% if page.epsname %}{{ page.title }}: {{ page.epsname }}{% elsif %}Unduh{% endif %}
 
 ---
 1080p: [PerpusIndo](https://www.perpusindo.info/berkas/qldcxixU){:target="_blank"}<br>
