@@ -32,6 +32,16 @@ layout: default
     <iframe id="naotimes-project" src="https://panel.naoti.me/embed?id=970006592173002852#accent=pink&dark=true">
     
 </div>
+</article>
+
+<!-- If addthisId declared -->
+{% if site.addthisId != "" %}
+
+  <!-- Addthis -->
+  <div class="addthis_sharing_toolbox mt"></div>
+  <script async src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-{{ site.addthisId }}"></script>
+
+{% endif %}
 
 <!-- If disqusUsername declared -->
 {% if site.disqusUsername != "a-1fansub" %}
@@ -64,4 +74,3 @@ layout: default
   </div><!-- .full -->
 
 {% endif %}
-</article>
