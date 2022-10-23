@@ -19,7 +19,7 @@ layout: default
             // Ambil element iframe via `id`
             const iframe = document.getElementById("naotimes-project");
             if (data.action === "resize") {
-                iframe.height = "100%";
+                iframe.height = data.height;
                 iframe.width = "100%";
                 iframe.scrolling = "no";
                 iframe.style.opacity = "1";
