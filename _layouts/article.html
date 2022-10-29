@@ -33,7 +33,9 @@ layout: default
 	  {% endif %} •</span><span> <a href="{{ site.url }}/kategori/{{ page.category }}" class="article__date">#{{ page.category }}</a></span>
 	
   <!-- Article description -->
-  <section><p><img src={{ page.coverPhoto }} alt=""></p>
+  <section>
+    <p><img src={{ page.coverPhoto }} alt style="position: absolute; filter: blur(20px);"></p>
+    <p><img src={{ page.coverPhoto }} alt style="position: relative"></p>
 
 	  {{ page.content }}
 	<br>
