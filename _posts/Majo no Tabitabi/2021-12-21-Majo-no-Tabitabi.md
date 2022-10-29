@@ -11,7 +11,7 @@ Terinspirasi dari buku favorit yang sering ia baca, Elaina berusaha melihat semu
 
 Soloyolo: Rokhiq
 
-{% if page.epsname %}Episode: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran {% endif %}
+{% if page.epsname %}Episode: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
 
 ---
 900p Paketan: [Acefile](https://acefile.co/f/73180317/elaina-majo-no-tabitabi-bdx265-900pflac-7z

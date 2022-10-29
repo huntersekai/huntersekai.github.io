@@ -16,7 +16,7 @@ Penyelaras Waktu: KiryuuNii, Rokhiq
 <br>
 Pengolah Video, Penyelaras Akhir: Rokhiq
 
-{% if page.epsname %}Episode: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran {% endif %}
+{% if page.epsname %}Episode: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
 
 ---
 900p: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Shijou%20Saikyou%20no%20Daimaou,%20Murabito%20A%20ni%20Tensei%20suru%20%5BWEB%5D%5Bx265%20900p%5D%5BAAC%5D/%5BA-1%5D%20Shijou%20Saikyou%20no%20Daimaou,%20Murabito%20A%20ni%20Tensei%20suru%20-%2005%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5BCE72415B%5D.mkv){:target="_blank"} [Telegram](https://t.me/a1fansubweeklies/100){:target="_blank"}

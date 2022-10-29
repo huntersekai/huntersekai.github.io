@@ -11,7 +11,7 @@ Mansion yang berada di atas bukit yang dikenal dengan nama Rumah Bayangan, rumah
 
 Soloyolo: Rokhiq
 
-{% if page.epsname %}Episode: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran {% endif %}
+{% if page.epsname %}Episode: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
 
 ---
 900p Paketan: [Acefile](https://acefile.co/f/76075409/a-1-shadows-house-bdx265-900ptruehd-7z
