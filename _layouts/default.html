@@ -21,7 +21,7 @@ layout: htmlCompressor
 
   <!-- Google+ -->
   <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% elsif site.name %}{{ site.name }}{% endif %}">
-  <meta itemprop="description" content="{{ page.epsname }}">
+  <meta itemprop="description" content="{% if page.epsname %}{{ page.epsname }}{% elseif page.title %}{{ page.title }}{% endif %}">
 
   <!-- Open Graph(Facebook, Pinterest) -->
   <meta property="og:type" content="website">
@@ -31,7 +31,7 @@ layout: htmlCompressor
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% elsif site.name %}{{ site.name }}{% endif %}">
   <meta property="og:locale" content="{{ site.locale }}">
   <meta property="og:site_name" content="{{ site.name }}">
-  <meta property="og:description" content="{{ page.epsname }}">
+  <meta property="og:description" content="{% if page.epsname %}{{ page.epsname }}{% elseif page.title %}{{ page.title }}{% endif %}">
 
   <!-- Twitter -->
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% elsif site.name %}{{ site.name }}{% endif %}">
@@ -42,7 +42,7 @@ layout: htmlCompressor
   <meta name="msapplication-TileImage" content="{{ site.baseurl }}/assets/img/favicon.ico">
   <meta name="twitter:creator" content="{{ site.author }}">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:description" content="{{ page.epsname }}">
+  <meta name="twitter:description" content="{% if page.epsname %}{{ page.epsname }}{% elseif page.title %}{{ page.title }}{% endif %}">
 
   <!-- If article has a cover photo -->
   <meta itemprop="image" content="{% if page.coverPhoto %}{{ page.coverPhoto }}{% elsif site.baseurl %}{{ site.baseurl }}/assets/img/banner.jpg{% endif %}">
