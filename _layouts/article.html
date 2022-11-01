@@ -34,7 +34,12 @@ layout: default
 	
   <!-- Article description -->
   <section>
-    <p><img src={{ page.coverPhoto }}></p>
+    <p><img src={{ page.coverPhoto }} style="
+      position: absolute;
+      filter: blur(30px);
+      opacity: 0.3;"></p>
+    <p><img src={{ page.coverPhoto }} style="
+      position: relative;"></p>
 
 	  {{ page.content }}
 	<br>
