@@ -5,54 +5,76 @@ coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1023966446
 ---
 
 <div>
-  {% for post in site.categories['Engage-Kiss'] %}
-    <article>
+  <article>
+<h1>{{ page.title }}</h1>
 
-    <!-- Article title -->
-    <a href="{{ site.baseurl }}{{ post.url }}" class="h1">{{ post.title }}</a>
+<section>
+  <div class="fade-in"><p><img src={{ page.coverPhoto }} style="
+    position: absolute;
+    filter: blur(30px);
+    opacity: 0.5;"></p></div>
+  <p><img src={{ page.coverPhoto }} style="
+    position: relative;"></p>
 
-      <!-- If article has a cover photo -->
-      {% if post.coverPhoto %}
+<p>Kota Bayron, kota metropolitan melayang yang dibangun ‘tuk mencari sumber energi terbarukan.<br>
 
-        <!-- Article image with aspect ratio -->
-        <a href="{{ site.baseurl }}{{ post.url }}" class="ar-container">
-          <span class="ar-content" style="background-image: url({{ post.coverPhoto }});"></span>
-        </a><!-- .ar-container -->
+  Shuu, pemuda pemilik sekaligus pengelola bisnis kecil di area ini, menjalani hidup dengan sedikit pengeluaran karena kesembronoannya. Kisara, gadis yang selalu mengunjungi kantor dan rumahnya Shuu kar’na khawatir dengannya. Dia bekerja sambil menimba ilmu di SMA Kota Bayron, dia bisa melakukan segala hal mulai dari menyelesaikan tugas administrasi sampai tugas rumah tangga. Ayano, mantan pacar Shuu sekaligus senior rekan kerja di perusahaan sebelumnya, sama-sama punya rasa khawatir dengannya.<br>
+  
+  Dan dimulailah kisah kekonyolan komedi-romantis dan hubungan tak biasa di antara mereka bertiga yang terjadi di pulau buatan yang terletak di Samudra Pasifik ini.<br>
+  
+  Alih Bahasa, Tata Rias, Lirik, Pengolah Video: Rokhiq<br>
+  Penyelaras Akhir: KiryuuNii</p>
 
-      {% endif %}
+<p>Unduh</p>
+<hr>
+<p>
+{% for post in site.categories['Engage-Kiss'] %}
+<a href="{{ site.baseurl }}{{ post.url }}" class="p">{{ post.title }}</a><br>
+{% endfor %}
+</p>
+<br>
+Ikuti kami di: <a href="https://discord.gg/8QeuePwYgV" target="_blank">Discord</a> <a href="https://fb.me/a1fansub" target="_blank">Facebook</a> <a href="https://t.me/a1fansub" target="_blank">Telegram</a><br>
+Cek kondisi garapan di <a href="{{ site.url }}/kondisi-garapan">sini</a>
+</article>
 
-    <!-- Article date & article continue reading button container -->
-    <div class="article__bottom">
+<!-- If addthisId declared -->
+{% if site.addthisId != "" %}
 
-      <!-- Article date -->
-      <span class="article__date">
-        {% if site.lang == "id" %}
-          {% assign m = post.date | date: "%-m" %}
-          {{ post.date | date: "%-d" }} 
-          {% case m %}
-            {% when "1" %}Januari 
-            {% when "2" %}Februari
-            {% when "3" %}Maret
-            {% when "4" %}April 
-            {% when "5" %}Mei 
-            {% when "6" %}Juni 
-            {% when "7" %}Juli 
-            {% when "8" %}Agustus 
-            {% when "9" %}September
-            {% when "10" %}Oktober
-            {% when "11" %}November
-            {% when "12" %}Desember 
-          {% endcase %}
-          {{ post.date | date: "%Y" }}
-        {% else %}
-          {{ post.date | date_to_long_string | upcase }}
-        {% endif %}
-      </span>
-   
-      <!-- Article continue reading button -->
-      <a class="article__button" href="{{ site.baseurl }}{{ post.url }}">{% if site.lang == "tr" %}DEVAMINI OKU{% else %}SELENGKAPNYA{% endif %}</a>
-      
-      </div>
-    </article>
-  {% endfor %}
+<!-- Addthis -->
+<div class="addthis_sharing_toolbox mt"></div>
+<script async src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-{{ site.addthisId }}"></script>
+
+{% endif %}
+
+<!-- If disqusUsername declared -->
+{% if site.disqusUsername != "a-1fansub" %}
+
+<!-- Full width -->
+<div class="full">
+
+  <!-- Disqus -->
+  <div id="disqus_thread" class="mt mb"></div>
+  <script>
+  /**
+  *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+  *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+  /*
+  var disqus_config = function () {
+  this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+  this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+  };
+  */
+  (function() { // DON'T EDIT BELOW THIS LINE
+  var d = document, s = d.createElement('script');
+  s.src = 'https://a-1fansub.disqus.com/embed.js';
+  s.setAttribute('data-timestamp', +new Date());
+  (d.head || d.body).appendChild(s);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+  <script async src="//{{ site.disqusUsername }}.disqus.com/embed.js"></script>
+
+</div><!-- .full -->
+
+{% endif %}
 </div>
