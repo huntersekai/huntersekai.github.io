@@ -17,11 +17,11 @@ layout: htmlCompressor
   <meta name="robots" content="index, follow">
   <meta name="author" content="{{ site.author }}">
   <meta name="generator" content="Jekyll v{{ jekyll.version }}">
-  <meta name="viewport" content=""width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
 
   <!-- Google+ -->
   <meta itemprop="name" content="{% if page.title %}{{ page.title }}{% elsif site.name %}{{ site.name }}{% endif %}">
-  <meta itemprop="description" content="{% if page.epsname %}{{ page.epsname }}{% elsif page.title %}{{ page.title }}{% endif %}">
+  <meta itemprop="description" content="{{ page.epsname }}">
 
   <!-- Open Graph(Facebook, Pinterest) -->
   <meta property="og:type" content="website">
@@ -31,7 +31,7 @@ layout: htmlCompressor
   <meta property="og:title" content="{% if page.title %}{{ page.title }}{% elsif site.name %}{{ site.name }}{% endif %}">
   <meta property="og:locale" content="{{ site.locale }}">
   <meta property="og:site_name" content="{{ site.name }}">
-  <meta property="og:description" content="{% if page.epsname %}{{ page.epsname }}{% elsif page.title %}{{ page.title }}{% endif %}">
+  <meta property="og:description" content="{{ page.epsname }}">
 
   <!-- Twitter -->
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% elsif site.name %}{{ site.name }}{% endif %}">
@@ -42,7 +42,7 @@ layout: htmlCompressor
   <meta name="msapplication-TileImage" content="{{ site.baseurl }}/assets/img/favicon.ico">
   <meta name="twitter:creator" content="{{ site.author }}">
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:description" content="{% if page.epsname %}{{ page.epsname }}{% elsif page.title %}{{ page.title }}{% endif %}">
+  <meta name="twitter:description" content="{{ page.epsname }}">
 
   <!-- If article has a cover photo -->
   <meta itemprop="image" content="{% if page.coverPhoto %}{{ page.coverPhoto }}{% elsif site.baseurl %}{{ site.baseurl }}/assets/img/banner.jpg{% endif %}">
