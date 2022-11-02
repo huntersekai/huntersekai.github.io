@@ -12,11 +12,11 @@ title: Paketan
 <p>Garapan apa pun yang sudah tamat.</p>
 
 <p>Unduh</p>
-<hr>
+<hr><p>
     {% for post in site.tags['Paketan'] %}
-    <ul><li><a href="{{ site.baseurl }}{{ post.url }}" class="h4">{{ post.title }}</a></li></ul><br>
+    <a href="{{ site.baseurl }}{{ post.url }}" class="h4">{{ post.title }}</a><br>
     {% endfor %}
-<br>
+<br></p>
 Ikuti kami di: <a href="https://discord.gg/8QeuePwYgV" target="_blank">Discord</a> <a href="https://fb.me/a1fansub" target="_blank">Facebook</a> <a href="https://t.me/a1fansub" target="_blank">Telegram</a><br>
 Cek kondisi garapan di <a href="{{ site.url }}/kondisi-garapan">sini</a></section>
 </article>
