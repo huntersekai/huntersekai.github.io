@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Engage Kiss (BD) - 02
-eps: 02
+eps: 2
 date: 2022-10-01 02:53:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/995594463722352690/mpv-shot0094.jpg
 category: Engage-Kiss

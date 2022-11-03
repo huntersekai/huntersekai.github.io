@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Shinmai Renkinjutsushi no Tenpo Keiei (WEB) - 02
-eps: 02
+eps: 2
 date: 2022-10-30 21:17:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/1036280545316982864/mpv-shot0009.jpg
 category: Shinmai-Renkinjutsushi-no-Tenpo-Keiei

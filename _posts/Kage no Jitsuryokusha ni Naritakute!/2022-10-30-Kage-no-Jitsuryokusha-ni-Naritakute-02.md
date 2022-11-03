@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Kage no Jitsuryokusha ni Naritakute! (WEB) - 02
-eps: 02
+eps: 2
 date: 2022-10-30 14:41:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1036176197157138482/mpv-shot0163.jpg
 category: Kage-no-Jitsuryokusha-ni-Naritakute
