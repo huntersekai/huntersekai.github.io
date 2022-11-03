@@ -4,8 +4,8 @@ title: Kakkou no Iinazuke (BD) - 04
 eps: 4
 date: 2022-09-13 01:21:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/991700293098160228/unknown.png
-category: Kakkou-no-Iinazuke
-epsname: Maukah kamu jalan bersamaku ...?
+category: Kakkou-no-Iinazuke-bd
+epsname: Maukah kamu jalan bersamaku?
 ---
 
 Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.

@@ -4,7 +4,7 @@ title: Shadows House (BD) - Paketan
 eps: Paketan
 date: 2022-06-01 19:19:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664979641237574/mpv-shot0109.jpg
-category: Shadows-House
+category: Shadows-House-bd
 tags: Paketan
 ---
 
