@@ -1,5 +1,5 @@
 ---
-layout: categories
+layout: article
 title: Aharen-san wa Hakarenai
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664980295569478/mpv-shot0107.jpg
 ---
