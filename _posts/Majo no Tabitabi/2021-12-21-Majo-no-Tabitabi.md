@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Majo no Tabitabi (BD) - Paketan
+eps: Paketan
 date: 2021-12-21 05:40:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664978689130557/mpv-shot0075.jpg
 category: Majo-no-Tabitabi
@@ -11,7 +12,7 @@ Terinspirasi dari buku favorit yang sering ia baca, Elaina berusaha melihat semu
 
 Soloyolo: Rokhiq
 
-{% if page.epsname %}Episode: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
+{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
 
 ---
 900p Paketan: [Acefile](https://acefile.co/f/73180317/elaina-majo-no-tabitabi-bdx265-900pflac-7z

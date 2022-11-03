@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Aharen-san wa Hakarenai (WEB) - Paketan
+eps: Paketan
 date: 2022-06-24 03:11:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664980295569478/mpv-shot0107.jpg
 category: Aharen-san-wa-Hakarenai
@@ -20,7 +21,7 @@ Pengolah Video: KiryuuNii, Azkaxfannx
 <br>
 Penyelaras Akhir: KiryuuNii
 
-{% if page.epsname %}Episode: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
+{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
 
 ---
 900p Paketan: [Acefile](https://acefile.co/f/77725188/a-1-aharen-san-wa-hakarenai-webx264-900paac-7z){:target="_blank"} [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D.7z){:target="_blank"}<br>

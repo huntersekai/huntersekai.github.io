@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Engage Kiss (BD) - 03
+eps: 03
 date: 2022-10-01 02:54:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/998057540682264728/mpv-shot0097.jpg
 category: Engage-Kiss
@@ -19,7 +20,7 @@ Dan dimulailah kisah kekonyolan komedi-romantis dan hubungan tak biasa di antara
 Alih Bahasa, Tata Rias, Lirik, Pengolah Video: Rokhiq<br>
 Penyelaras Akhir: KiryuuNii
 
-{% if page.epsname %}Episode: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
+{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
 
 ---
 1080p: [GoogleDrive](https://drive.google.com/file/d/1lqDtCHXovKv8bkZHlRgHWuKdVpMgCYmQ/view?usp=sharing){:target="_blank"} [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Panas%202022/%5BBD%5D/%5BA-1%5D%20Engage%20Kiss%20%5BBD%5D%5B1080p%20TrueHD%5D/%5BA-1%5D%20Engage%20Kiss%20-%2003%20%5BBD%5D%5B1080p%20TrueHD%5D%5B8F7C8CE6%5D.mkv){:target="_blank"} [Telegram](https://t.me/a1fansubweeklies/147){:target="_blank"}

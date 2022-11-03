@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Kakkou no Iinazuke (BD) - 03
+eps: 03
 date: 2022-09-07 21:02:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/991700250089758790/unknown.png
 category: Kakkou-no-Iinazuke
@@ -17,7 +18,7 @@ Tata Rias: Rokhiq
 <br>
 Penyelaras Waktu: KiryuuNii
 
-{% if page.epsname %}Episode: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
+{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
 
 ---
 1080p: [PerpusIndo](https://www.perpusindo.info/berkas/w76VxDOC){:target="_blank"}<br>

@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Kakkou no Iinazuke (BD) - 01
+eps: 01
 date: 2022-08-28 19:36:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/968498701163175967/unknown.png
 category: Kakkou-no-Iinazuke
@@ -17,7 +18,7 @@ Tata Rias: Rokhiq
 <br>
 Penyelaras Waktu: KiryuuNii
 
-{% if page.epsname %}Episode: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
+{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
 
 ---
 1080p: [PerpusIndo](https://www.perpusindo.info/berkas/37pzoUil){:target="_blank"}<br>

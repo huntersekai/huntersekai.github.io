@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Engage Kiss (WEB) - Paketan
+eps: Paketan
 date: 2022-09-26 21:38:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1023966446465863700/mpv-shot0147.jpg
 category: Engage-Kiss
@@ -22,7 +23,7 @@ Pengolah Video: Azkaxfannx, Rokhiq
 <br>
 Penyelaras Akhir: KiryuuNii
 
-{% if page.epsname %}Episode: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
+{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
 
 ---
 900p Paketan: [Acefile](https://acefile.co/f/84579174/a-1-engage-kiss-webx264-900paac-7z

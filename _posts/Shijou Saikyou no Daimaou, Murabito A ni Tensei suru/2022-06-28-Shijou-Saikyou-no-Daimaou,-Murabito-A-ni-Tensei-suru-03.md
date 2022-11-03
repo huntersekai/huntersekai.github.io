@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Shijou Saikyou no Daimaou, Murabito A ni Tensei suru (WEB) - 03
+eps: 03
 date: 2022-05-02 01:43:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970327267018420255/970393186012901476/mpv-shot0006.jpg
 category: Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru
@@ -16,7 +17,7 @@ Penyelaras Waktu: KiryuuNii, Rokhiq
 <br>
 Pengolah Video, Penyelaras Akhir: Rokhiq
 
-{% if page.epsname %}Episode: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
+{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
 
 ---
 900p: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Shijou%20Saikyou%20no%20Daimaou,%20Murabito%20A%20ni%20Tensei%20suru%20%5BWEB%5D%5Bx265%20900p%5D%5BAAC%5D/%5BA-1%5D%20Shijou%20Saikyou%20no%20Daimaou,%20Murabito%20A%20ni%20Tensei%20suru%20-%2003%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5B8089F40F%5D.mkv){:target="_blank"} [Telegram](https://t.me/a1fansubweeklies/77){:target="_blank"}

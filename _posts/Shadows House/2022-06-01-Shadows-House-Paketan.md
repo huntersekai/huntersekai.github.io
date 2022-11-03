@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Shadows House (BD) - Paketan
+eps: Paketan
 date: 2022-06-01 19:19:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664979641237574/mpv-shot0109.jpg
 category: Shadows-House
@@ -11,7 +12,7 @@ Mansion yang berada di atas bukit yang dikenal dengan nama Rumah Bayangan, rumah
 
 Soloyolo: Rokhiq
 
-{% if page.epsname %}Episode: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
+{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
 
 ---
 900p Paketan: [Acefile](https://acefile.co/f/76075409/a-1-shadows-house-bdx265-900ptruehd-7z
