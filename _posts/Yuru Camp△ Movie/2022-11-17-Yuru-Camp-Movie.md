@@ -3,7 +3,7 @@ layout: article
 title: Yuru Camp△ Movie (WEB)
 date: 2022-11-17 01:43:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1042473339677069332/mpv-shot0166.jpg
-categories: Yuru-Camp-Movie
+category: Yuru-Camp-Movie
 ---
 
 Berniat meramaikan kembali tempat wisata yang ditinggalkan, Rin dan kawan-kawan berencana membangun perkemahan di tempat tersebut, namun ... selebihnya silakan nonton sendiri ketimbang kena spoiler nih sinopsis.
