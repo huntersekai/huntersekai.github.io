@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Yuru Camp△ Movie (WEB)
-date: 2022-17-11 01:34:00 +0700
+date: 2022-11-17 01:43:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1042473339677069332/mpv-shot0166.jpg
 categories: Yuru-Camp-Movie
 ---
