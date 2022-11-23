@@ -10,6 +10,8 @@ category: Tonikaku-Kawaii-Seifuku
 
 Episode OVA dari [Tonikaku Kawaii](https://a-1.fansub.id/Tonikaku-Kawaii)
 
+Soloyolo: Noromi
+
 Episode {{ page.eps }}: {{ page.epsname }}
 
 ---
