@@ -16,7 +16,7 @@ title: Arsip TV/WEB
     <li><a href="{{ site.baseurl }}/kategori/Shinmai-Renkinjutsushi-no-Tenpo-Keiei" class="h4">Shinmai Renkinjutsushi no Tenpo Keiei</a></li>
     <li><a href="{{ site.baseurl }}/kategori/Slow-Loop" class="h4">Slow Loop</a></li>
     <li><a href="{{ site.baseurl }}/kategori/Tensai-Ouji-no-Akaji-Kokka-Saisei-Jutsu" class="h4">Tensai Ouji no Akaji Kokka Saisei Jutsu</a></li>
-    <li><a href="{{ site.baseurl }}/kategori/Tonikaku-Kawaii-Seifuku" class="h4">Tonikaku Kawaii꞉ Seifuku (WEB)</a></li>
+    <li><a href="{{ site.baseurl }}/kategori/Tonikaku-Kawaii-Seifuku" class="h4">Tonikaku Kawaii꞉ Seifuku</a></li>
     <li><a href="{{ site.baseurl }}/kategori/Yuru-Camp-Movie" class="h4">Yuru Camp△ Movie</a></li>
   </ul>
 </section>
