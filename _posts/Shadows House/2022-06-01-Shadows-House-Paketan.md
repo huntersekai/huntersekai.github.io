@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Shadows House (BD) - Paketan
 eps: Paketan
 date: 2022-06-01 19:19:00+0700
@@ -10,7 +10,7 @@ tags: Paketan
 
 Mansion yang berada di atas bukit yang dikenal dengan nama Rumah Bayangan, rumah dari bayangan yang hidup layaknya bangsawan. Mereka mengeksperesikan emosinya dengan Boneka Hidup yang sekaligus menjadi pelayan.
 
-Soloyolo: Rokhiq
+Soloyolo: Noromi
 
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
 

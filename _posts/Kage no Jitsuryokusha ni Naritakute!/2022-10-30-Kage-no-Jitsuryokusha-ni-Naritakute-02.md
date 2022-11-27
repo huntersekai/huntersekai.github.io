@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Kage no Jitsuryokusha ni Naritakute! (WEB) - 02
 eps: 2
 date: 2022-10-30 14:41:00+0700
@@ -11,7 +11,7 @@ epsname: Formasi Shadow Garden
 Ketabrak truk, ke isekai punya kekuatan, jadi pemimpin organisasi belakang layar .... Intinya kebelet jadi Penguasa Bayangan.
 
 Alih Bahasa, Tata Rias, Pengolah Video: KiryuuNii<br>
-Sisanya: Rokhiq
+Sisanya: Noromi
 
 
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}

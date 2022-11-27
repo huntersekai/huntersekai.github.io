@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Kakkou no Iinazuke (WEB) - 03
 eps: 3
 date: 2022-05-29 05:32:00+0700
@@ -15,7 +15,7 @@ Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek){:target="_blank"}
 <br>
 Alih Bahasa, Pengolah Video, Penyelaras Akhir: Leqek
 <br>
-Tata Rias: Rokhiq
+Tata Rias: Noromi
 <br>
 Penyelaras Waktu: KiryuuNii
 

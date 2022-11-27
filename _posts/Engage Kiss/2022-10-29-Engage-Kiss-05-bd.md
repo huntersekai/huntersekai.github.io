@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Engage Kiss (BD) - 05
 eps: 5
 date: 2022-10-29 20:58:00+0700
@@ -17,7 +17,7 @@ Ayano, mantan pacar Shuu sekaligus senior rekan kerja di perusahaan sebelumnya, 
 Dan dimulailah kisah kekonyolan komedi-romantis dan hubungan tak biasa di antara mereka bertiga yang terjadi di pulau buatan yang terletak di Samudra Pasifik ini.
 
 
-Alih Bahasa, Tata Rias, Lirik, Pengolah Video: Rokhiq<br>
+Alih Bahasa, Tata Rias, Lirik, Pengolah Video: Noromi<br>
 Penyelaras Akhir: KiryuuNii
 
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}

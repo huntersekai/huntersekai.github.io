@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Shadows House 2nd Season (WEB) - 07
 eps: 7
 date: 2022-08-20 10:16:00+0700
@@ -12,7 +12,7 @@ Musim kedua dari serial [Shadows House](https://a-1fansub.github.io/Shadows-Hous
 
 Pengolah Video: Azkaxfannx
 <br>
-Sisanya: Rokhiq
+Sisanya: Noromi
 
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
 

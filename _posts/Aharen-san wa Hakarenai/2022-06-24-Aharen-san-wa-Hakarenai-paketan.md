@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Aharen-san wa Hakarenai (WEB) - Paketan
 eps: Paketan
 date: 2022-06-24 03:11:00 +0700
@@ -13,9 +13,9 @@ Aharen tidak pandai bergaul dengan orang sekitar, membuat Raidou merasa ada jara
 Suatu hari, saat Raidou mengambil penghapus Aharen yang jatuh, jarak di antara mereka berdua perlahan mulai menghilang.
 
 
-Alih Bahasa, Tata Rias: Rokhiq
+Alih Bahasa, Tata Rias: Noromi
 <br>
-Penyelaras Waktu: Rokhiq, KiryuuNii
+Penyelaras Waktu: Noromi, KiryuuNii
 <br>
 Pengolah Video: KiryuuNii, Azkaxfannx
 <br>

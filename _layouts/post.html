@@ -1,0 +1,15 @@
+---
+layout: default
+comments: true
+---
+
+<section class="post">
+  <h2>{{ page.title }}</h2>
+  <p><img src={{ page.coverPhoto }}></p>
+  {{ content }}
+  <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time> &middot;
+    <a href="/kategori/{{ page.categories }}">{{ page.categories }}</a></span>
+  {%- if site.disqus.shortname -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+</section>

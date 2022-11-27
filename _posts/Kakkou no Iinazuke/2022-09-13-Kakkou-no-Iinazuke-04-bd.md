@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Kakkou no Iinazuke (BD) - 04
 eps: 4
 date: 2022-09-13 01:21:00+0700
@@ -14,7 +14,7 @@ Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek){:target="_blank"}
 <br>
 Alih Bahasa, Pengolah Video, Penyelaras Akhir: Leqek
 <br>
-Tata Rias: Rokhiq
+Tata Rias: Noromi
 <br>
 Penyelaras Waktu: KiryuuNii
 
