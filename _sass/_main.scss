@@ -210,3 +210,23 @@ section {
 figcaption {
     font-size: smaller;
 }
+
+/* width */
+::-webkit-scrollbar {
+	width: 4px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+	background: #171717; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+	background: #f474b4; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+	background: #f474b4; 
+  }
