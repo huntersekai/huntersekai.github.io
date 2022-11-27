@@ -1,12 +1,12 @@
 links:
 - title: A-1 Fansub
   url: /
-- title: Arsip Takarir
-  url: https://github.com/A-1Fansub/A-1Subtitles
-- title: Arsip Bluray
+- title: Arsip BD
   url: /arsip-bd
 - title: Arsip TV/WEB
   url: /arsip-tvweb
+- title: Arsip Takarir
+  url: https://github.com/A-1Fansub/A-1Subtitles
 - title: Cari
   url: /search
 - title: Discord
