@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Arsip Bluray
+title: Arsip BD
 ---
 
 <section class="post">
