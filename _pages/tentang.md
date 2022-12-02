@@ -5,7 +5,7 @@ title: Tentang
 
 ### Awal Mula:
 
-Sebab rasa penasaran dengan subtitle anime yang ber TS, KFX, dan lain sebagainya, yang berujung membentuk sebuah fansub pada tanggal 1 Januari 2022
+Sebab rasa penasaran dengan subtitle anime yang ber TS, KFX, dan lain sebagainya, berujung pembentukan fansub ini pada tanggal 1 Januari 2022 ....
 
 ### Pengurus:
 
