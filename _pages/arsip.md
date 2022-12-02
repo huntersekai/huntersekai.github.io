@@ -1,7 +1,19 @@
 ---
 layout: page
-title: Arsip TV/WEB
+title: Arsip
 ---
+
+### Arsip BD
+
+- [Engage Kiss (BD)]({{ site.baseurl }}/kategori/Engage-Kiss-bd)
+- [Kakkou no Iinazuke (BD)]({{ site.baseurl }}/kategori/Kakkou-no-Iinazuke-bd)
+- [Majo no Tabitabi (BD)]({{ site.baseurl }}/kategori/Majo-no-Tabitabi-bd)
+- [Shadows House (BD)]({{ site.baseurl }}/kategori/Shadows-House-bd)
+- [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita (BD)]({{ site.baseurl }}/kategori/Slime-Taoshite-300-nen,-Shiranai-Uchi-ni-Level-Max-ni-Nattemashita-bd)
+- [takt op.Destiny (BD)]({{ site.baseurl }}/kategori/takt-op.Destiny-bd)
+- [Tonikaku Kawaii (BD)]({{ site.baseurl }}/kategori/Tonikaku-Kawaii-bd)
+
+### Arsip TV/WEB
 
 - [Aharen-san wa Hakarenai]({{ site.baseurl }}/kategori/Aharen-san-wa-Hakarenai)
 - [Engage Kiss]({{ site.baseurl }}/kategori/Engage-Kiss)
@@ -15,3 +27,7 @@ title: Arsip TV/WEB
 - [Tensai Ouji no Akaji Kokka Saisei Jutsu]({{ site.baseurl }}/kategori/Tensai-Ouji-no-Akaji-Kokka-Saisei-Jutsu)
 - [Tonikaku Kawaii꞉ Seifuku]({{ site.baseurl }}/kategori/Tonikaku-Kawaii-Seifuku)
 - [Yuru Camp△ Movie]({{ site.baseurl }}/kategori/Yuru-Camp-Movie)
+
+### Arsip Takarir
+
+- [Github Repository](https://github.com/A-1Fansub/A-1Subtitles)

@@ -3,7 +3,7 @@ links:
   url: /
 - title: Cari
   url: /search
-- title: Arsip BD
-  url: /arsip-bd
-- title: Arsip TV/WEB
-  url: /arsip-tvweb
+- title: Arsip
+  url: /arsip
+- title: Tentang
+  url: /tentang
