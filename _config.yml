@@ -13,6 +13,7 @@ author:
   email: #youremail
   url: #yoururl
 permalink: pretty
+timezone: Asia/Jakarta
 
 baseurl: ""
 
