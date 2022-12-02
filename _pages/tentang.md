@@ -9,8 +9,8 @@ Sebab rasa penasaran dengan subtitle anime yang ber TS, KFX, dan lain sebagainya
 
 ### Pengurus:
 
-- Noromi: Semua bagian<br>
-- KiryuuNii: Semua bagian<br>
+- Noromi: Semua Bagian<br>
+- KiryuuNii: Semua Bagian<br>
 - Azkaxfannx (Non-aktif ~~kayaknya~~): Pengolah Video<br>
 - Sabdi21 (Ngilang): Pengolah Video<br>
 

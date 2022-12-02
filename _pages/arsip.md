@@ -30,4 +30,4 @@ title: Arsip
 
 ### Arsip Takarir
 
-- [Github Repository](https://github.com/A-1Fansub/A-1Subtitles){:target="_blank"}
+- [GitHub Repository](https://github.com/A-1Fansub/A-1Subtitles){:target="_blank"}
