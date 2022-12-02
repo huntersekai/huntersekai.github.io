@@ -23,4 +23,4 @@ Penyelaras Akhir: KiryuuNii
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
 
 ---
-1080p: [GoogleDrive](https://drive.google.com/file/d/1dKa1G_AtMV0Hi2LtJKrTiIGtAIRUf1Td/view?usp=sharing){:target="_blank"} [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Panas%202022/%5BBD%5D/%5BA-1%5D%20Engage%20Kiss%20%5BBD%5D%5B1080p%20TrueHD%5D/%5BA-1%5D%20Engage%20Kiss%20-%2002%20%5BBD%5D%5B1080p%20TrueHD%5D%5B75696451%5D.mkv){:target="_blank"} [Telegram](https://t.me/a1fansubweeklies/146){:target="_blank"}
+1080p: [GoogleDrive](https://drive.google.com/file/d/1dKa1G_AtMV0Hi2LtJKrTiIGtAIRUf1Td/view?usp=sharing){:target="_blank"} [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Panas%202022/%5BBD%5D/%5BA-1%5D%20Engage%20Kiss%20%5BBD%5D%5B900p%20TrueHD%5D/%5BA-1%5D%20Engage%20Kiss%20-%2002%20%5BBD%5D%5B900p%20TrueHD%5D%5B75696451%5D.mkv){:target="_blank"} [Telegram](https://t.me/a1fansubweeklies/166){:target="_blank"}
