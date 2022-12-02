@@ -14,7 +14,7 @@ Berawal dari rasa penasaran dengan subtitle anime yang ber TS, KFX, dan lain seb
 - Azkaxfannx (Non-aktif ~~kayaknya~~): Pengolah Video<br>
 - Sabda21 (Ngilang): Pengolah Video<br>
 
-### Ikuti kami di:
+### Ikuti Kami di:
 
 - [Discord](https://discord.gg/8QeuePwYgV){:target="_blank"}
 - [Facebook](https://fb.me/a1fansub){:target="_blank"}
