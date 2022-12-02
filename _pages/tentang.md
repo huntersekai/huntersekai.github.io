@@ -12,7 +12,7 @@ Berawal dari rasa penasaran dengan subtitle anime yang ber TS, KFX, dan lain seb
 - Noromi: Semua Bagian<br>
 - KiryuuNii: Semua Bagian<br>
 - Azkaxfannx (Non-aktif ~~kayaknya~~): Pengolah Video<br>
-- Sabdi21 (Ngilang): Pengolah Video<br>
+- Sabda21 (Ngilang): Pengolah Video<br>
 
 ### Ikuti kami di:
 
