@@ -2,7 +2,7 @@
 layout: post
 title: Engage Kiss (BD) - 07
 eps: 7
-date: 2022-12-03 01:20:00+0700
+date: 2022-12-03 01:35:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1008099575158022334/unknown.png
 category: Engage-Kiss-bd
 epsname: Begitu Saja, Sudah Cukup
