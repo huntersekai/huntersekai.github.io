@@ -3,8 +3,6 @@ layout: page
 title: Tentang
 ---
 
-### Awal Mula:
-
 Berawal dari rasa penasaran dengan subtitle anime yang ber TS, KFX, dan lain sebagainya ... yang berujung pembentukan fansub ini pada tanggal 1 Januari 2022 ....
 
 ### Pengurus:
