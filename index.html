@@ -8,7 +8,6 @@ layout: default
   <li><img id="divtoshow" src="{{ post.coverPhoto }}"></img><a href="{{ site.baseurl }}{{ post.url }}" onmouseover="document.getElementById(divName).style.display=&quot;block&quot;" onmouseout="document.getElementById(divName).style.display=&quot;none&quot;">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d-%m-%Y" }}</time></li>
 {% endfor %}
 </ul>
-</section>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=G-9PNC9JT63S"></script>
@@ -34,3 +33,5 @@ layout: default
         }
     document.onmousemove = follow;
   </script>
+
+</section>
