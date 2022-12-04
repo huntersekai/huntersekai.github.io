@@ -5,7 +5,8 @@ layout: default
 <section class="posts">
 <ul>
 {% for post in site.posts %}
-  <li><a href="{{ site.baseurl }}{{ post.url }}" onmouseover="document.getElementById(divName).style.display=&quot;block&quot;" onmouseout="document.getElementById(divName).style.display=&quot;none&quot;">{{ post.title }}</a><img id="divtoshow" src="{{ post.coverPhoto }}></img><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d-%m-%Y" }}</time></li>
+  <img id="divtoshow" src="{{ post.coverPhoto }}></img>
+  <li><a href="{{ site.baseurl }}{{ post.url }}" onmouseover="document.getElementById(divName).style.display=&quot;block&quot;" onmouseout="document.getElementById(divName).style.display=&quot;none&quot;">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d-%m-%Y" }}</time></li>
 {% endfor %}
 </ul>
 </section>
