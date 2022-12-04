@@ -14,7 +14,7 @@ Pengolah Video: Azkaxfannx
 <br>
 Sisanya: Noromi
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
+{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}}Unduh{% endif %}
 
 ---
 900p: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Panas%202022/%5BWEB%5D/%5BA-1%5D%20Shadows%20House%202nd%20Season%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/%5BA-1%5D%20Shadows%20House%202nd%20Season%20-%2012%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5B2029E137%5D.mkv){:target="_blank"} [Telegram](https://t.me/a1fansubweeklies/137){:target="_blank"}

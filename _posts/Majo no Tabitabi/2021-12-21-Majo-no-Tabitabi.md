@@ -5,14 +5,13 @@ eps: Paketan
 date: 2021-12-21 05:40:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/980279959929102397/cropped-1920-1080-1120781.jpg
 category: Majo-no-Tabitabi-bd
-tags: Paketan
 ---
 
 Terinspirasi dari buku favorit yang sering ia baca, Elaina berusaha melihat semua isi dunia. Seperti sebuah daun yang tertiup angin, dia mengembara dari satu negeri ke negeri lain, karena ingin memuaskan rasa ingin tahunya dan mencari pengalaman yang baru. Dia dihadapkan dengan berbagai macam sifat manusia, entah aneh, atau emosional. Karena eksplorasi rasa ingin tahunya mendorongnya untuk terus mengembara, Kemana lagi Elaina akan pergi?
 
 Soloyolo: Noromi
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
+{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}}Unduh{% endif %}
 
 ---
 900p Paketan: [Acefile](https://acefile.co/f/73180317/elaina-majo-no-tabitabi-bdx265-900pflac-7z

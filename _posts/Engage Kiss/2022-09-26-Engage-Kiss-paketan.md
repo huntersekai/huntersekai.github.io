@@ -5,7 +5,6 @@ eps: Paketan
 date: 2022-09-26 21:38:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1047131346994204764/uwp2612334.jpeg
 category: Engage-Kiss
-tags: Paketan
 ---
 
 Kota Bayron, kota metropolitan melayang yang dibangun 'tuk mencari sumber energi terbarukan.
@@ -23,7 +22,7 @@ Pengolah Video: Azkaxfannx, Noromi
 <br>
 Penyelaras Akhir: KiryuuNii
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
+{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}}Unduh{% endif %}
 
 ---
 900p Paketan: [Acefile](https://acefile.co/f/84579174/a-1-engage-kiss-webx264-900paac-7z

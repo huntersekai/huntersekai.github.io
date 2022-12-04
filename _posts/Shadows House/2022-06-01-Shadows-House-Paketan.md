@@ -5,14 +5,13 @@ eps: Paketan
 date: 2022-06-01 19:19:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/981531071344689182/wp9110852-shadows-house-wallpapers.png
 category: Shadows-House-bd
-tags: Paketan
 ---
 
 Mansion yang berada di atas bukit yang dikenal dengan nama Rumah Bayangan, rumah dari bayangan yang hidup layaknya bangsawan. Mereka mengeksperesikan emosinya dengan Boneka Hidup yang sekaligus menjadi pelayan.
 
 Soloyolo: Noromi
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.tags %}{{ page.tags }} & Eceran{% else %}Unduh{% endif %}
+{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}}Unduh{% endif %}
 
 ---
 900p Paketan: [Acefile](https://acefile.co/f/76075409/a-1-shadows-house-bdx265-900ptruehd-7z
