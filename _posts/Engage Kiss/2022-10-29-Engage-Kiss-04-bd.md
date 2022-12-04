@@ -20,7 +20,7 @@ Dan dimulailah kisah kekonyolan komedi-romantis dan hubungan tak biasa di antara
 Alih Bahasa, Tata Rias, Lirik, Pengolah Video: Noromi<br>
 Penyelaras Akhir: KiryuuNii
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}}Unduh{% endif %}
+{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 900p: [GoogleDrive](https://drive.google.com/file/d/1QNq7QHWjkou3qz9hNXShCnoyt_B6AzRD/view?usp=share_link){:target="_blank"} [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Panas%202022/%5BBD%5D/%5BA-1%5D%20Engage%20Kiss%20%5BBD%5D%5B900p%20TrueHD%5D/%5BA-1%5D%20Engage%20Kiss%20-%2004%20%5BBD%5D%5B900p%20TrueHD%5D%5B9317341B%5D.mkv){:target="_blank"} [Telegram](https://t.me/a1fansubweeklies/168){:target="_blank"}

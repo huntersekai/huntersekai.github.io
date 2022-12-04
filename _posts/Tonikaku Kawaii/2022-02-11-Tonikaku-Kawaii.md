@@ -13,7 +13,7 @@ Setelah Tsukasa membantu menyembuhkan luka Nasa, Nasa mengutarakan perasaannya, 
 
 Solo: Noromi
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}}Unduh{% endif %}
+{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 900p Paketan: [Acefile](https://acefile.co/f/73180322/a-1-tonikaku-kawaii-bdx265-900pflac-7z){:target="_blank"} [GoogleDrive](https://drive.google.com/file/d/1BFztRZoLyZcOSgb6JE2s-kKO3F6FuQUr/view?usp=sharing){:target="_blank"} [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Tonikaku%20Kawaii%20%5BBD%5D%5Bx265%20900p%5D%5BFLAC%5D.7z){:target="_blank"} [MEGA](https://mega.nz/file/8nQhjB6J#0Cb0R-zZK4snNRCKqsh6xM6fFYxC7F_bbBD3SxMv0cg){:target="_blank"}<br>

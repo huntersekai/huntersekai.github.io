@@ -17,7 +17,7 @@ Penyelaras Waktu: KiryuuNii, Noromi
 <br>
 Pengolah Video, Penyelaras Akhir: Noromi
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}}Unduh{% endif %}
+{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 900p Paketan: [Acefile](https://acefile.co/f/73180315/a-1-tensai-ouji-no-akaji-kokka-saisei-jutsu-webx264-900paac-7z){:target="_blank"} [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Tensai%20Ouji%20no%20Akaji%20Kokka%20Saisei%20Jutsu%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D.7z){:target="_blank"}<br>

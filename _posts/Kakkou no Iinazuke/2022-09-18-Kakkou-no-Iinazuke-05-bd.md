@@ -18,7 +18,7 @@ Tata Rias: Noromi
 <br>
 Penyelaras Waktu: KiryuuNii
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}}Unduh{% endif %}
+{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 1080p: [PerpusIndo](https://www.perpusindo.info/berkas/D94D9bIV){:target="_blank"}<br>

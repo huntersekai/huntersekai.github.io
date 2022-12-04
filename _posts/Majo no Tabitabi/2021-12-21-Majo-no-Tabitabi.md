@@ -11,7 +11,7 @@ Terinspirasi dari buku favorit yang sering ia baca, Elaina berusaha melihat semu
 
 Soloyolo: Noromi
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}}Unduh{% endif %}
+{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 900p Paketan: [Acefile](https://acefile.co/f/73180317/elaina-majo-no-tabitabi-bdx265-900pflac-7z
