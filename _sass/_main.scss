@@ -234,3 +234,13 @@ figcaption {
   ::-webkit-scrollbar-thumb:hover {
 	background: #f474b4; 
   }
+
+  #thumbnailpreview{
+	position: absolute;
+	heigth: 70%;
+	width: 70;
+	border: 3px solid white;
+	display: none;
+  }
+
+  
