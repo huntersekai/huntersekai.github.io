@@ -28,7 +28,7 @@ layout: compress
   </script>
   <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js'></script>
   <script>
-        var images = ['/assets/banner/banner1.png','/assets/banner/banner2.png','/assets/banner/banner3.png',];
+        var images = ['{{ site.baseurl }}/assets/banner/banner1.png','{{ site.baseurl }}/assets/banner/banner2.png','{{ site.baseurl }}/assets/banner/banner3.png',];
         $('<img src="' + images[Math.floor(Math.random() * images.length)] + '">').appendTo('#banner-load');
     </script>
   </body>
