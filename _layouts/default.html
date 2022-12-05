@@ -9,6 +9,11 @@ layout: compress
     <main role="main">
 	    
       <div id="banner-load"></div>
+      <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js'></script>
+      <script>
+            var images = ['https://a-1.fansub.id/assets/banner/banner1.png','https://a-1.fansub.id/assets/banner/banner2.png','https://a-1.fansub.id/assets/banner/banner3.png',];
+            $('<img src="' + images[Math.floor(Math.random() * images.length)] + '">').appendTo('#banner-load');
+        </script>
     
 	    {% include navigation.html %}
 	    
@@ -16,9 +21,4 @@ layout: compress
         	    
     </main>  
   </body>
-  <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js'></script>
-  <script>
-        var images = ['https://a-1.fansub.id/assets/banner/banner1.png','https://a-1.fansub.id/assets/banner/banner2.png','https://a-1.fansub.id/assets/banner/banner3.png',];
-        $('<img src="' + images[Math.floor(Math.random() * images.length)] + '">').appendTo('#banner-load');
-    </script>
 </html>
