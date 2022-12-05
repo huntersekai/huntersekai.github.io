@@ -46,11 +46,6 @@
 
     gtag('config', 'G-9PNC9JT63S');
   </script>
-  <script type='text/javascript' src='http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js'></script>
-  <script>
-        var images = ['{{ site.baseurl }}/assets/banner/banner1.png','{{ site.baseurl }}/assets/banner/banner2.png','{{ site.baseurl }}/assets/banner/banner3.png',];
-        $('<img src="' + images[Math.floor(Math.random() * images.length)] + '">').appendTo('#banner-load');
-    </script>
   <style>
     {% capture include_to_scssify %}
       {% include inline.scss %}
