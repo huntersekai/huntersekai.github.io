@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Aharen-san wa Hakarenai (WEB) - Paketan
+title: Aharen-san wa Hakarenai (BD) - Paketan
 eps: Paketan
 date: 2022-06-24 03:11:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1047131346675445801/raidou_matsuboshi_reina_aharen_hd_aharen_san_wa_hakarenai.jpg
