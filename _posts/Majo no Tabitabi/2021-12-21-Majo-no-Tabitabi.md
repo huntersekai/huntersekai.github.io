@@ -15,5 +15,5 @@ Soloyolo: Noromi
 
 ---
 900p Paketan: [Acefile](https://acefile.co/f/73180317/elaina-majo-no-tabitabi-bdx265-900pflac-7z
-){:target="_blank"} [GoogleDrive](https://drive.google.com/file/d/1dKvLRdETMsa8Nu46HIgqKz2pnboZy3D-/view?usp=sharing){:target="_blank"} [Index](https://proyek.a-1ddl.workers.dev/1:/%5BElaina%5D%20Majo%20no%20Tabitabi%20%5BBD%5D%5Bx265%20900p%5D%5BFLAC%5D.7z){:target="_blank"} [MEGA](https://mega.nz/file/0n5AQaQS#5lBk4qKUUHNzPqWXqMbao8AGy4Samujsx8FaOqfg6ks){:target="_blank"}<br>
+){:target="_blank"} [GoogleDrive](https://drive.google.com/file/d/1-bpj97MJl16-pfP6bT9Npiz3GWMYFpzW/view?usp=share_link){:target="_blank"} [Index](https://proyek.a-1ddl.workers.dev/1:/%5BElaina%5D%20Majo%20no%20Tabitabi%20%5BBD%5D%5Bx265%20900p%5D%5BFLAC%5D.7z){:target="_blank"} [MEGA](https://mega.nz/file/0n5AQaQS#5lBk4qKUUHNzPqWXqMbao8AGy4Samujsx8FaOqfg6ks){:target="_blank"}<br>
 900p Eceran: [GoogleDrive](https://drive.google.com/drive/folders/1eIHVLZCstxrEWg1BUdd0dIYuwsVEusM6?usp=sharing){:target="_blank"} [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Gugur%202020/%5BBD%5D/%5BElaina%5D%20Majo%20no%20Tabitabi%20%5BBD%5D%5Bx265%20900p%5D%5BFLAC%5D/){:target="_blank"} [MEGA](https://mega.nz/folder/NqpVEQ6L#2YiMJ83AK3seo6UKhe8y_w){:target="_blank"} [Telegram](https://t.me/a1fansub/35){:target="_blank"}
