@@ -5,6 +5,7 @@ title: Arsip
 
 ### Arsip BD
 
+- [Aharen-san wa Hakarenai]({{ site.baseurl }}/kategori/Aharen-san-wa-Hakarenai-bd)
 - [Engage Kiss (BD)]({{ site.baseurl }}/kategori/Engage-Kiss-bd)
 - [Kakkou no Iinazuke (BD)]({{ site.baseurl }}/kategori/Kakkou-no-Iinazuke-bd)
 - [Majo no Tabitabi (BD)]({{ site.baseurl }}/kategori/Majo-no-Tabitabi-bd)
