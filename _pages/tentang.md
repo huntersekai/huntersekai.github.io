@@ -4,12 +4,12 @@ title: Tentang
 ---
 
 A-1 Fansub dibentuk pada tanggal **1 Januari 2022**, A-1 Fansub dibentuk karena alasan konyol, yaitu agar rilisan saya (Noromi) punya flag/tertanda :v, karenanya garapan pertama A-1 Fansub menggunakan flag nama karakter dari anime tersebut (Elaina), sebab saat garapan itu rilis, A-1 Fansub belum dibentuk.<br>
-Itu juga menjawab kenapa A-1 Fansub lama rilisnya/macet tengah jalan. Yah, sebab pada dasarnya A-1 Fansub dibentuk untuk **senang-senang** semata.
+Itu juga menjawab kenapa A-1 Fansub lama rilisnya/macet tengah jalan. Sebab pada dasarnya A-1 Fansub dibentuk untuk **senang-senang** semata.
 
 A-1 Fansub dijalankan tanpa mengeluarkan biaya sedikit pun (kecuali internet), mulai dari server encode (anggap saja), cloud storage sampai web semuanya gratisan :v ... karena itu A-1 Fansub bisa memberikan konten gratis tanpa embel-embel.
 
 Selain garap anime, A-1 Fansub juga garap manga, yang rilisannya bisa ditemukan di [PerpusIndo](https://www.perpusindo.info/sharelist?kat=buku&user=Rokhiq&cari=&kartel=), [MangaDex](https://mangadex.org/group/80317136-cd7f-4f4c-bc43-95499301d19a) atau Fanspage Facebook dipranala bawah.<br>
-Kenapa tidak dirilis di web ini? Yah, karena web ini khusus garapan fansub, ntar melenceng dong jadi bukan "fansub" lagi (sejak awal garap manga juga udah melenceng sebenernya). Untuk sekarang (12 Desember 2022) garapannya cuman Majo no Tabitabi saja, ~~itu pun sering didelay~~.
+Kenapa tidak dirilis di web ini? Yah, karena web ini khusus garapan fansub, ntar melenceng dong jadi bukan "fansub" lagi (sejak awal garap manga juga udah melenceng sebenernya). Untuk sekarang (12 Desember 2022) garapannya hanya Majo no Tabitabi, ~~itu pun sering didelay~~.
 
 ### Pengurus Garapan Anime:
 
