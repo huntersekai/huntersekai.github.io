@@ -8,7 +8,7 @@ Itu juga menjawab kenapa A-1 Fansub lama rilisnya/macet tengah jalan. Sebab pada
 
 A-1 Fansub dijalankan tanpa mengeluarkan biaya sedikit pun (kecuali internet), mulai dari server encode (anggap saja), cloud storage sampai web semuanya gratisan :v ... karena itu A-1 Fansub bisa memberikan konten gratis tanpa embel-embel.
 
-Selain garap anime, A-1 Fansub juga garap manga, yang rilisannya bisa ditemukan di [PerpusIndo](https://www.perpusindo.info/sharelist?kat=buku&user=Rokhiq&cari=&kartel=), [MangaDex](https://mangadex.org/group/80317136-cd7f-4f4c-bc43-95499301d19a) atau Fanspage Facebook dipranala bawah.<br>
+Selain garap anime, A-1 Fansub juga garap manga, yang rilisannya bisa ditemukan di sharelist PerpusIndo A-1 Fansub dengan kategori buku, grup di MangaDex yang bernama "A-1 Translation", atau Fanspage Facebook dipranala bawah.<br>
 Kenapa tidak dirilis di web ini? Yah, karena web ini khusus garapan fansub, ntar melenceng dong jadi bukan "fansub" lagi (sejak awal garap manga juga udah melenceng sebenernya). Untuk sekarang (12 Desember 2022) garapannya hanya Majo no Tabitabi, ~~itu pun sering didelay~~.
 
 ### Pengurus Garapan Anime:
