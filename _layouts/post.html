@@ -7,8 +7,25 @@ comments: true
   <h2>{{ page.title }}</h2>
   <p><img src={{ page.coverPhoto }}></p>
   {{ content }}
-  <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%-d %B %Y" }}</time> &middot;
-    <a href="/kategori/{{ page.categories }}">{{ page.categories }}</a></span>
+  <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign B = page.date | date: "%B" %}
+    {{ page.date | date: "%-d" }} 
+    {% case B %}
+      {% when "1" %}Januari 
+      {% when "2" %}Februari
+      {% when "3" %}Maret
+      {% when "4" %}April 
+      {% when "5" %}Mei 
+      {% when "6" %}Juni 
+      {% when "7" %}Juli 
+      {% when "8" %}Agustus 
+      {% when "9" %}September
+      {% when "10" %}Oktober
+      {% when "11" %}November
+      {% when "12" %}Desember
+    {% endcase %}
+    {{ page.date | date: "%Y" }}</time> &middot;
+    <a href="/kategori/{{ page.categories }}">{{ page.categories }}</a><br>
+  Ikuti kami di: <a href="https://discord.gg/8QeuePwYgV" target="_blank">Discord</a> &middot; <a href="https://fb.me/a1fansub" target="_blank">Facebook</a></span>
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
