@@ -4,7 +4,7 @@ title: Tentang
 ---
 
 A-1 Fansub dibentuk pada tanggal **1 Januari 2022**, A-1 Fansub dibentuk karena alasan konyol, yaitu agar rilisan saya (Noromi) punya flag/tertanda :v, karenanya garapan pertama A-1 Fansub menggunakan flag nama karakter dari anime tersebut (Elaina), sebab saat garapan itu rilis, A-1 Fansub belum dibentuk.<br>
-Itu juga menjawab kenapa A-1 Fansub lama rilisnya/macet tengah jalan. Sebab pada dasarnya A-1 Fansub dibentuk untuk **senang-senang** semata.
+Itu juga bisa menjadi alasan kenapa kami tidak konsisten riisnya ... ya, sebab pada dasarnya A-1 Fansub dibentuk untuk **senang-senang** saja.
 
 A-1 Fansub dijalankan tanpa mengeluarkan biaya sedikit pun (kecuali internet), mulai dari server encode (anggap saja), cloud storage sampai web semuanya gratisan :v ... karena itu A-1 Fansub bisa memberikan konten gratis tanpa embel-embel.
 
