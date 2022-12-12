@@ -7,9 +7,9 @@ comments: true
   <h2>{{ page.title }}</h2>
   <p><img src={{ page.coverPhoto }}></p>
   {{ content }}
-  <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign B = page.date | date: "%B" %}
+  <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign m = page.date | date: "%-m" %}
     {{ page.date | date: "%-d" }} 
-    {% case B %}
+    {% case m %}
       {% when "1" %}Januari 
       {% when "2" %}Februari
       {% when "3" %}Maret
