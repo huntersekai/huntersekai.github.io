@@ -18,6 +18,7 @@ title: Cari
 		font-family: inherit;
 		font-size: 100%;
 		border: none;
+		border-radius: 6px;
 	}
 	#results-container {
 		margin: .5rem 0;
