@@ -22,6 +22,7 @@ Kenapa tidak dirilis di web ini? Yah, karena web ini khusus garapan fansub, ntar
 
 ### Pranala:
 
+- [Database Fansub Indonesia](https://db.silveryasha.web.id/group/225)
 - [Discord](https://discord.gg/8QeuePwYgV){:target="_blank"}
 - [Facebook](https://fb.me/a1fansub){:target="_blank"}
 - [MangaDex](https://mangadex.org/group/80317136-cd7f-4f4c-bc43-95499301d19a/a-1-translation){:target="_blank"}
