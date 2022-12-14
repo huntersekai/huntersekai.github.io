@@ -7,7 +7,7 @@ epsname: A-1 Fansub dibentuk pada tanggal 1 Januari 2022, A-1 Fansub dibentuk ka
 <section class="posts">
 <ul>
 {% for post in site.posts %}
-  <li></img><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%d-%m-%Y" }}</time></li>
+  <li></img><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time></li>
 {% endfor %}
 </ul>
 </section>
