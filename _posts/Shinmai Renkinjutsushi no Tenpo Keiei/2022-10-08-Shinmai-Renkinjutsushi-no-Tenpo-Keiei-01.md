@@ -11,9 +11,9 @@ epsname: Aku Punya Toko!
 Setelah menempuh waktu selama lima tahun, impian Sarasa menjadi seorang alkemis akhirnya terwujud.
 Selebihnya bisa tonton sendiri
 
-Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek){:target="_blank"}<br>
+Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek@Doll){:target="_blank"}<br>
 Alih Bahasa, Tata Rias: Noromi<br>
-Pengecek Terjemahan, Pengolah Video: Leqek<br>
+Pengecek Terjemahan, Pengolah Video: Leqek@Doll<br>
 Penyelaras Akhir: KiryuuNii
 
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}

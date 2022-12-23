@@ -10,9 +10,9 @@ epsname: Kamu takkan bisa mengalahkanku!!
 
 Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.
 
-Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek){:target="_blank"}
+Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek@Doll){:target="_blank"}
 <br>
-Alih Bahasa, Pengolah Video, Penyelaras Akhir: Leqek
+Alih Bahasa, Pengolah Video, Penyelaras Akhir: Leqek@Doll
 <br>
 Tata Rias: Noromi
 <br>
