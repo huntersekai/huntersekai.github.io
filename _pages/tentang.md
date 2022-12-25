@@ -10,8 +10,8 @@ Dibentuk pada tanggal 24 Desember 2021.
 - Penamaan berkas serial: [A-1] (Judul Romaji) - (Eps) [(Tipe Raw)][(Resolusi) (Format Audio)][(CRC32)]<br>
 - Penamaan berkas film: [A-1] (Judul Romaji) [(Tipe Raw)][(Resolusi) (Format Audio)][(CRC32)]<br>
 - Video berformat matroska dan softsub<br>
-- Olahan video biasanya ber-CRF 17-20, 10bit, preset slow-veryslow, dan bercodec H264/H265<br>
-- Audio bawaan tanpa encode, kecuali lossless akan diencode ke FLAC/TrueHD<br>
+- Olahan video biasanya menggunakan CRF 17-20, 10bit, preset slow/veryslow, dan ber-codec H264/H265<br>
+- Audio bawaan tanpa encode, kecuali lossless akan di-encode ke FLAC/TrueHD<br>
 - Biasanya menggunakan honorifik<br>
 - Di-timing, di-typeset, dan ber-chapter<br>
 
