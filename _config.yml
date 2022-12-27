@@ -42,7 +42,7 @@ collections:
   posts:
     output: true
     permalink: /:title
-  categories:
+  category:
     output: true
     permalink: /kategori/:title
   
