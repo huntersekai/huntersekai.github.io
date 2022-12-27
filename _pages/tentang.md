@@ -3,8 +3,11 @@ layout: page
 title: Tentang
 ---
 
-{{ site.posts | size }} Postingan
 Dibentuk pada tanggal 24 Desember 2021.
+
+### Statistik:
+
+Telah merilis ±**{{ site.posts | size }}** episode dan {{ site.categories | size }} judul
 
 ### Rilisan:
 
