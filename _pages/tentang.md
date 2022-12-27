@@ -3,11 +3,8 @@ layout: page
 title: Tentang
 ---
 
-Dibentuk pada tanggal 24 Desember 2021.
-
-### Statistik:
-
-Telah merilis **{{ site.posts | size }}** postingan dan **{{ site.categories | size }}** garapan
+Dibentuk pada tanggal 24 Desember 2021.<br>
+Telah merilis **{{ site.posts | size }}** postingan dan **{{ site.categories | size }}** garapan.
 
 ### Rilisan:
 
