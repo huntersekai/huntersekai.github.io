@@ -7,7 +7,7 @@ Dibentuk pada tanggal 24 Desember 2021.
 
 ### Statistik:
 
-Telah merilis **{{ posts.epsname | size }}+** episode dan **{{ site.categories | size }}** garapan
+Telah merilis **{{ site.posts | size }}+** episode dan **{{ site.categories | size }}** garapan
 
 ### Rilisan:
 
