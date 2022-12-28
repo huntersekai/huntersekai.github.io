@@ -2,6 +2,7 @@
 layout: post
 title: Shadows House (BD) - Paketan
 eps: Paketan
+epsname: SHADOWS HOUSE
 date: 2022-06-01 19:19:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/981531071344689182/wp9110852-shadows-house-wallpapers.png
 category: Shadows-House-bd
