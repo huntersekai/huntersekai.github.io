@@ -5,14 +5,13 @@ eps: 1
 date: 2022-12-30 22:44:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1058407965054468147/mpv-shot0180.jpg
 category: Futoku-no-Guild-bd
-epsname: Aku Akan Berusaha yang Terbaik! | Dunia yang Tak Diketahui Para Gadis
+epsname: Aku Akan Berusaha yang Terbaik! ｜ Dunia yang Tak Diketahui Para Gadis
 ---
 
 Kikuru Madan, pemburu yang ingin keluar dari serikat karena hidupnya terasa hampa menjalani rutinitas yang begitu-begitu saja dan ingin menjalani kehidupan santai di kampus, namun itu semua terpaksa dibatalkan sebab dia harus melatih para pemula yang dapat menggantikannya dirinya
 
 Alih Bahasa, Tata Rias, Pengolah Video: Noromi<br>
 Sisanya: KiryuuNii
-
 
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
