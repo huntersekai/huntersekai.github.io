@@ -7,6 +7,7 @@ title: Arsip
 
 - [Aharen-san wa Hakarenai (BD)]({{ site.baseurl }}/kategori/Aharen-san-wa-Hakarenai-bd)
 - [Engage Kiss (BD)]({{ site.baseurl }}/kategori/Engage-Kiss-bd)
+- [Futoku no Guild (BD)]({{ site.baseurl }}/kategori/Futoku-no-Guild-bd)
 - [Kakkou no Iinazuke (BD)]({{ site.baseurl }}/kategori/Kakkou-no-Iinazuke-bd)
 - [Majo no Tabitabi (BD)]({{ site.baseurl }}/kategori/Majo-no-Tabitabi-bd)
 - [Shadows House (BD)]({{ site.baseurl }}/kategori/Shadows-House-bd)
