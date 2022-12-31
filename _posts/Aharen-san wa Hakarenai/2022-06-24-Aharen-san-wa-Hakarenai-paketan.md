@@ -8,23 +8,19 @@ coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1047131346
 category: Aharen-san-wa-Hakarenai
 ---
 
-### Sinopsis
-
 Cerita dimulai dari keseharian tak terduga antara si pendiam Aharen Reina dan Raidou yang duduk bersebelahan.
 Aharen tidak pandai bergaul dengan orang sekitar, membuat Raidou merasa ada jarak di antara mereka berdua.
 Suatu hari, saat Raidou mengambil penghapus Aharen yang jatuh, jarak di antara mereka berdua perlahan mulai menghilang.
 
-### Staf
-
-- Penerjemah: Noromi (Dialog dan Lirik OP), KiryuuNii (Lirik ED)
-- Pengecek Terjemahan: KiryuuNii
-- Penata Rias: Noromi
-- Peramu Video: KiryuuNii (01-09), Azkaxfannx (10-12)
-- Penyelaras Waktu: Noromi
-- Penyelaras Akhir: KiryuuNii
+Penerjemah: Noromi (Dialog dan Lirik OP), KiryuuNii (Lirik ED)<br>
+Pengecek Terjemahan: KiryuuNii<br>
+Penata Rias: Noromi<br>
+Peramu Video: KiryuuNii (01-09), Azkaxfannx (10-12)<br>
+Penyelaras Waktu: Noromi<br>
+Penyelaras Akhir: KiryuuNii<br>
 
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-900p Paketan: [Acefile](https://acefile.co/f/77725188/a-1-aharen-san-wa-hakarenai-webx264-900paac-7z){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D.7z){:target="_blank"}<br>
-900p Eceran: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/[WEB]/[A-1]%20Aharen-san%20wa%20Hakarenai%20[WEB][x264%20900p][AAC]/){:target="_blank"} &middot; [Telegram](https://t.me/a1fansub/125){:target="_blank"}
+- 900p Paketan: [Acefile](https://acefile.co/f/77725188/a-1-aharen-san-wa-hakarenai-webx264-900paac-7z){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D.7z){:target="_blank"}<br>
+- 900p Eceran: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/[WEB]/[A-1]%20Aharen-san%20wa%20Hakarenai%20[WEB][x264%20900p][AAC]/){:target="_blank"} &middot; [Telegram](https://t.me/a1fansub/125){:target="_blank"}
