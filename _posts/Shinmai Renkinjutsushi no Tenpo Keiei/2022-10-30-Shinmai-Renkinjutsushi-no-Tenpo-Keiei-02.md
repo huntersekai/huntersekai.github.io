@@ -12,12 +12,16 @@ Setelah menempuh waktu selama lima tahun, impian Sarasa menjadi seorang alkemis 
 Selebihnya bisa tonton sendiri
 
 Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek){:target="_blank"}<br>
-Alih Bahasa, Tata Rias: Noromi<br>
-Pengecek Terjemahan, Pengolah Video: Leqek<br>
-Penyelaras Akhir: KiryuuNii
+Penerjemah: Noromi<br>
+Pengecek Terjemahan: Leqek<br>
+Penata Rias: Noromi<br>
+Penggaya Lagu: KiryuuNii<br>
+Peramu Video: Leqek<br>
+Penyelaras Waktu: Noromi, Leqek<br>
+Penyelaras Akhir: KiryuuNii<br>
 
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-1080p: [PerpusIndo](https://www.perpusindo.info/berkas/hRoAv8C9){:target="_blank"}<br>
-720p: [PerpusIndo](https://www.perpusindo.info/berkas/6urSV8HE){:target="_blank"}
+- 1080p: [PerpusIndo](https://www.perpusindo.info/berkas/hRoAv8C9){:target="_blank"}<br>
+- 720p: [PerpusIndo](https://www.perpusindo.info/berkas/6urSV8HE){:target="_blank"}

@@ -1,0 +1,25 @@
+---
+layout: category
+title: Slow Loop
+epsname: SLOW LOOP
+coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664980547211325/mpv-shot0076.jpg
+---
+
+Gugup karena akan bertemu dengan ayah tirinya, Hiyori selalu pergi ke laut. Saat gadis yang penuh rasa ingin tahu, Koharu muncul, Hiyori memutuskan untuk mengajarinya cara mancing, seperti yang ayahnya ajarkan sebelum meninggal. Setelah Koharu muncul, dia bertemu dengannya lagi saat makan malam dengan ayah tirinya. Dan pertemanan mereka berlanjut ke level berikutnya!
+
+Penerjemah: Noromi<br>
+Pengecek Terjemahan: KiryuuNii<br>
+Penata Rias: Noromi<br>
+Penggaya Lagu: Noromi (OP), KiryuuNii (ED)<br>
+Peramu Video: KiryuuNii<br>
+Penyelaras Waktu: Noromi<br>
+Penyelaras Akhir: KiryuuNii<br>
+
+Unduh
+
+---
+  <ul>
+    {% for post in site.categories['Slow-Loop'] %}
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.epsname %}Episode {{ post.eps }}: {{ post.epsname }}{% else %}Episode {{ post.eps }}: {{ page.title }}{% endif %}</a></li>
+  {% endfor %}
+  </ul>

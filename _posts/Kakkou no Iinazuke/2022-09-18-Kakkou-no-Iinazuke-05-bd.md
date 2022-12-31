@@ -10,16 +10,17 @@ epsname: Kita bisa belajar bersama setiap pagi, 'kan?
 
 Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.
 
-Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek){:target="_blank"}
-<br>
-Alih Bahasa, Pengolah Video, Penyelaras Akhir: Leqek
-<br>
-Tata Rias: Noromi
-<br>
-Penyelaras Waktu: KiryuuNii
+Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek){:target="_blank"}<br>
+Penerjemah: Leqek<br>
+Pengecek Terjemahan: KiryuuNii<br>
+Penata Rias: Noromi<br>
+Penggaya Lagu: Leqek<br>
+Peramu Video: Leqek<br>
+Penyelaras Waktu: Leqek<br>
+Penyelaras Akhir: KiryuuNii<br>
 
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-1080p: [PerpusIndo](https://www.perpusindo.info/berkas/D94D9bIV){:target="_blank"}<br>
-720p: [PerpusIndo](https://www.perpusindo.info/berkas/nNfH8jLm){:target="_blank"}
+- 1080p: [PerpusIndo](https://www.perpusindo.info/berkas/D94D9bIV){:target="_blank"}<br>
+- 720p: [PerpusIndo](https://www.perpusindo.info/berkas/nNfH8jLm){:target="_blank"}

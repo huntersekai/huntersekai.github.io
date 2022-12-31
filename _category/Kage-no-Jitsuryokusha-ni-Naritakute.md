@@ -1,30 +1,25 @@
 ---
-layout: default
+layout: category
 title: Kage no Jitsuryokusha ni Naritakute!
 epsname: Penguasa Bayangan
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1034804043685568532/mpv-shot0160.jpg
 ---
 
-<section class="post">
-  <h2>{{ page.title }}</h2>
-  <p><img src={{ page.coverPhoto }}></p>
+Ketabrak truk, ke isekai punya kekuatan, jadi pemimpin organisasi belakang layar .... Intinya kebelet jadi Penguasa Bayangan.
 
-  <p>Ketabrak truk, ke isekai punya kekuatan, jadi pemimpin organisasi belakang layar …. Intinya kebelet jadi Penguasa Bayangan.</p>
-  
-  <p>Alih Bahasa, Tata Rias, Pengolah Video: KiryuuNii<br>
-    Sisanya: Noromi</p>
+Penerjemah: KiryuuNii<br>
+Pengecek Terjemahan: Noromi<br>
+Penata Rias: KiryuuNii<br>
+Penggaya Lagu: Noromi<br>
+Peramu Video: KiryuuNii<br>
+Penyelaras Waktu: KiryuuNii, Noromi<br>
+Penyelaras Akhir: Noromi<br>
 
-  <p>Unduh</p>
-  <hr>
+Unduh
 
+---
     <ul>
       {% for post in site.categories['Kage-no-Jitsuryokusha-ni-Naritakute'] %}
     <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.epsname %}Episode {{ post.eps }}: {{ post.epsname }}{% else %}Episode {{ post.eps }}: {{ page.title }}{% endif %}</a></li>
     {% endfor %}
-    </ul><br><br>
-
-    {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
- 
-    </section>
+    </ul>

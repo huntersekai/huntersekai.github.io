@@ -12,15 +12,16 @@ Cerita dimulai dari keseharian tak terduga antara si pendiam Aharen Reina dan Ra
 Aharen tidak pandai bergaul dengan orang sekitar, membuat Raidou merasa ada jarak di antara mereka berdua.
 Suatu hari, saat Raidou mengambil penghapus Aharen yang jatuh, jarak di antara mereka berdua perlahan mulai menghilang.
 
-Penerjemah: Noromi (Dialog dan Lirik OP), KiryuuNii (Lirik ED)<br>
+Penerjemah: Noromi<br>
 Pengecek Terjemahan: KiryuuNii<br>
 Penata Rias: Noromi<br>
+Penggaya Lagu: Noromi (OP), KiryuuNii (ED)<br>
 Peramu Video: KiryuuNii (01-09), Azkaxfannx (10-12)<br>
-Penyelaras Waktu: Noromi<br>
+Penyelaras Waktu: CR<br>
 Penyelaras Akhir: KiryuuNii<br>
 
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-- 900p Paketan: [Acefile](https://acefile.co/f/77725188/a-1-aharen-san-wa-hakarenai-webx264-900paac-7z){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D.7z){:target="_blank"}<br>
-- 900p Eceran: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/[WEB]/[A-1]%20Aharen-san%20wa%20Hakarenai%20[WEB][x264%20900p][AAC]/){:target="_blank"} &middot; [Telegram](https://t.me/a1fansub/125){:target="_blank"}
+- 900p Paketan: [Acefile](https://acefile.co/f/77725188/a-1-aharen-san-wa-hakarenai-webx264-- 900paac-7z){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20- 900p%5D%5BAAC%5D.7z){:target="_blank"}<br>
+- 900p Eceran: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/[WEB]/[A-1]%20Aharen-san%20wa%20Hakarenai%20[WEB][x264%20- 900p][AAC]/){:target="_blank"} &middot; [Telegram](https://t.me/a1fansub/125){:target="_blank"}

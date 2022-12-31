@@ -16,16 +16,17 @@ Ayano, mantan pacar Shuu sekaligus senior rekan kerja di perusahaan sebelumnya, 
 
 Dan dimulailah kisah kekonyolan komedi-romantis dan hubungan tak biasa di antara mereka bertiga yang terjadi di pulau buatan yang terletak di Samudra Pasifik ini.
 
-
-Alih Bahasa, Tata Rias, Lirik: Noromi
-<br>
-Pengolah Video: Azkaxfannx, Noromi
-<br>
-Penyelaras Akhir: KiryuuNii
+Penerjemah: Noromi<br>
+Pengecek Terjemahan: KiryuuNii<br>
+Penata Rias: Noromi<br>
+Penggaya Lagu: Noromi<br>
+Peramu Video: Azkaxfannx (01-04, 13), Noromi (05-12)<br>
+Penyelaras Waktu: CR<br>
+Penyelaras Akhir: KiryuuNii<br>
 
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-900p Paketan: [Acefile](https://acefile.co/f/84579174/a-1-engage-kiss-webx264-900paac-7z
-){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Engage%20Kiss%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D.7z){:target="_blank"}<br>
-900p Eceran: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Panas%202022/%5BWEB%5D/%5BA-1%5D%20Engage%20Kiss%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D/){:target="_blank"} &middot; [Telegram](https://t.me/a1fansub/153){:target="_blank"}
+- 900p Paketan: [Acefile](https://acefile.co/f/84579174/a-1-engage-kiss-webx264-- 900paac-7z
+){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Engage%20Kiss%20%5BWEB%5D%5Bx264%20- 900p%5D%5BAAC%5D.7z){:target="_blank"}<br>
+- 900p Eceran: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Panas%202022/%5BWEB%5D/%5BA-1%5D%20Engage%20Kiss%20%5BWEB%5D%5Bx264%20- 900p%5D%5BAAC%5D/){:target="_blank"} &middot; [Telegram](https://t.me/a1fansub/153){:target="_blank"}

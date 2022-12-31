@@ -9,9 +9,10 @@ Cerita dimulai dari keseharian tak terduga antara si pendiam Aharen Reina dan Ra
 Aharen tidak pandai bergaul dengan orang sekitar, membuat Raidou merasa ada jarak di antara mereka berdua.
 Suatu hari, saat Raidou mengambil penghapus Aharen yang jatuh, jarak di antara mereka berdua perlahan mulai menghilang.
 
-Penerjemah: Noromi (Dialog dan Lirik OP), KiryuuNii (Lirik ED)<br>
+Penerjemah: Noromi<br>
 Pengecek Terjemahan: KiryuuNii<br>
 Penata Rias: Noromi<br>
+Penggaya Lagu: Noromi (OP), KiryuuNii (ED)<br>
 Peramu Video: KiryuuNii (01-09), Azkaxfannx (10-12)<br>
 Penyelaras Waktu: Noromi<br>
 Penyelaras Akhir: KiryuuNii<br>
