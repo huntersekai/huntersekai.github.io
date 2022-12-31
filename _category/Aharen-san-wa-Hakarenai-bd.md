@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: category
 title: Aharen-san wa Hakarenai (BD)
 epsname: Aharen-san yang Tak Terduga
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664980295569478/mpv-shot0107.jpg
@@ -20,9 +20,7 @@ Suatu hari, saat Raidou mengambil penghapus Aharen yang jatuh, jarak di antara m
 - Penyelaras Waktu: Noromi
 - Penyelaras Akhir: KiryuuNii
 
-Unduh
-
----
+### Unduh
 
   <ul>
     {% for post in site.categories['Aharen-san-wa-Hakarenai-bd'] %}

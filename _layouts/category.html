@@ -6,11 +6,9 @@ comments: true
 <section class="post">
   <h2>{{ page.title }}</h2>
   <p><img src={{ page.coverPhoto }}></p>
-  
-  <p>Unduh</p>
-  <hr>
   {{ content }}
-  
+  <span class="meta">
+  Ikuti kami di: <a href="https://discord.gg/8QeuePwYgV" target="_blank">Discord</a> &middot; <a href="https://fb.me/a1fansub" target="_blank">Facebook</a></span>
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
