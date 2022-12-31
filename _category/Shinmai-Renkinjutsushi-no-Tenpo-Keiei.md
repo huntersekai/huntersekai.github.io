@@ -12,9 +12,9 @@ Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek){:target="_blank"}<b
 Penerjemah: Noromi<br>
 Pengecek Terjemahan: Leqek<br>
 Penata Rias: Noromi<br>
-Penggaya Lagu: KiryuuNii<br>
+Penggaya Lagu: KiryuuNii, Leqek<br>
 Peramu Video: Leqek<br>
-Penyelaras Waktu: Noromi, Leqek<br>
+Penyelaras Waktu: KiryuuNii, Leqek, Noromi<br>
 Penyelaras Akhir: KiryuuNii<br>
 
 Unduh
