@@ -5,7 +5,7 @@ eps: 6
 date: 2022-10-01 02:55:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/991700398966583306/unknown.png
 category: Kakkou-no-Iinazuke-bd
-epsname: Kamu tinggal sendiri, 'kan?
+epsname: Kamu Tinggal Sendiri?
 ---
 
 Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.

@@ -5,7 +5,7 @@ eps: 2
 date: 2022-05-04 22:12:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/991700187670130728/unknown.png
 category: Kakkou-no-Iinazuke
-epsname: Aku takkan menikah denganmu
+epsname: Aku Takkan Menikah Denganmu
 ---
 
 Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.
