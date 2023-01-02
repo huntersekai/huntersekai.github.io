@@ -11,7 +11,6 @@ Penerjemah: Noromi<br>
 Pengecek Terjemahan: KiryuuNii<br>
 Penata Rias: Noromi<br>
 Penggaya Lagu: KiryuuNii<br>
-Peramu Video: Ohys-Raws<br>
 Penyelaras Waktu: Noromi<br>
 Penyelaras Akhir: KiryuuNii<br>
 

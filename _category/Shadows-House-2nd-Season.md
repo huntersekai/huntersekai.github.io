@@ -12,7 +12,6 @@ Pengecek Terjemahan: Noromi<br>
 Penata Rias: Noromi<br>
 Penggaya Lagu: Noromi<br>
 Peramu Video: Azkaxfannx<br>
-Penyelaras Waktu: CR<br>
 Penyelaras Akhir: Noromi<br>
 
 Unduh

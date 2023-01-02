@@ -21,7 +21,6 @@ Pengecek Terjemahan: KiryuuNii<br>
 Penata Rias: Noromi<br>
 Penggaya Lagu: Noromi<br>
 Peramu Video: Azkaxfannx (01-04, 13), Noromi (05-12)<br>
-Penyelaras Waktu: CR<br>
 Penyelaras Akhir: KiryuuNii<br>
 
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}

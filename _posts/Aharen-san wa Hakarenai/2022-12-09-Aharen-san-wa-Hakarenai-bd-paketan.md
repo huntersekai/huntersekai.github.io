@@ -18,7 +18,6 @@ Pengecek Terjemahan: KiryuuNii<br>
 Penata Rias: Noromi<br>
 Penggaya Lagu: Noromi (OP), KiryuuNii (ED)<br>
 Peramu Video: Noromi<br>
-Penyelaras Waktu: CR<br>
 Penyelaras Akhir: KiryuuNii<br>
 
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
