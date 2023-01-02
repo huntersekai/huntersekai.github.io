@@ -5,7 +5,7 @@ epsname: Malaikat Tetanggaku Begitu Memanjakanku
 coverPhoto: 
 ---
 
-Amane tinggal seorang diri di apartemen, dan gadis tercantik di sekolah yaitu Mahiru, tinggal di sebelahnya. Mereka tak pernah bertemu atau pun saling mengobrol sampai suatu ketika Amane melihat Mahiru kehujanan, ia pun meminjami Mahiru payung. Dan dari situ mereka pun ... penasaran, 'kan? Makanya nonton!
+Amane tinggal seorang diri di apartemen, dan gadis tercantik di sekolah yaitu Mahiru, tinggal di sebelahnya. Mereka tak pernah bertemu atau pun saling mengobrol, sampai suatu ketika Amane melihat Mahiru kehujanan, ia pun meminjami Mahiru payung. Dan dari situ mereka pun ... penasaran, 'kan? Makanya nonton!
 
 Penerjemah: ?<br>
 Pengecek Terjemahan: ?<br>
