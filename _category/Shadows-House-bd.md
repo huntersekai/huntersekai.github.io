@@ -12,8 +12,8 @@ Soloyolo: Noromi
 Unduh
 
 ---
-    <ul>
-      {% for post in site.categories['Shadows-House-bd'] %}
-    <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.epsname %}Episode {{ post.eps }}: {{ post.epsname }}{% else %}Episode {{ post.eps }}: {{ page.title }}{% endif %}</a></li>
-    {% endfor %}
-    </ul>
+  <ul>
+    {% for post in site.categories['Shadows-House-bd'] %}
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.epsname %}Episode {{ post.eps }}: {{ post.epsname }}{% else %}Episode {{ post.eps }}: {{ page.title }}{% endif %}</a></li>
+  {% endfor %}
+  </ul>

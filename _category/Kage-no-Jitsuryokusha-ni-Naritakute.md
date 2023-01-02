@@ -18,8 +18,8 @@ Penyelaras Akhir: Noromi<br>
 Unduh
 
 ---
-    <ul>
-      {% for post in site.categories['Kage-no-Jitsuryokusha-ni-Naritakute'] %}
-    <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.epsname %}Episode {{ post.eps }}: {{ post.epsname }}{% else %}Episode {{ post.eps }}: {{ page.title }}{% endif %}</a></li>
-    {% endfor %}
-    </ul>
+  <ul>
+    {% for post in site.categories['Kage-no-Jitsuryokusha-ni-Naritakute'] %}
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.epsname %}Episode {{ post.eps }}: {{ post.epsname }}{% else %}Episode {{ post.eps }}: {{ page.title }}{% endif %}</a></li>
+  {% endfor %}
+  </ul>
