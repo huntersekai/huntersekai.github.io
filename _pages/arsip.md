@@ -7,7 +7,7 @@ title: Arsip
 
 <ul>
 {% for post in site.category %}
-  <li><a href="{{ site.baseurl }}/kategori/{{ category.url }}">{{ category.title }}</a></li>
+  <li><a href="{{ site.baseurl }}/kategori/{{ site.category }}">{{ category.title }}</a></li>
 {% endfor %}
 </ul>
 
