@@ -3,9 +3,11 @@ layout: page
 title: Arsip
 ---
 
+### Arsip Anime
+
 <ul>
 {% for post in site.category %}
-  <li><a href="{{ site.baseurl }}{{ category.url }}">{{ category.title }}</a></li>
+  <li><a href="{{ site.baseurl }}/kategori/{{ category.url }}">{{ category.title }}</a></li>
 {% endfor %}
 </ul>
 
