@@ -26,6 +26,7 @@ title: Arsip
 - [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru]({{ site.baseurl }}/kategori/Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru)
 - [Shinmai Renkinjutsushi no Tenpo Keiei]({{ site.baseurl }}/kategori/Shinmai-Renkinjutsushi-no-Tenpo-Keiei)
 - [Slow Loop]({{ site.baseurl }}/kategori/Slow-Loop)
+- [Spy Kyoushitsu]({{ site.baseurl }}/kategori/Spy-Kyoushitsu)
 - [Tensai Ouji no Akaji Kokka Saisei Jutsu]({{ site.baseurl }}/kategori/Tensai-Ouji-no-Akaji-Kokka-Saisei-Jutsu)
 - [Tonikaku Kawaii꞉ Seifuku]({{ site.baseurl }}/kategori/Tonikaku-Kawaii-Seifuku)
 - [Yuru Camp△ Movie]({{ site.baseurl }}/kategori/Yuru-Camp-Movie)
