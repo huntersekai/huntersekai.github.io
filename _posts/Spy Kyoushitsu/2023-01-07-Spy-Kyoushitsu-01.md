@@ -2,10 +2,10 @@
 layout: post
 title: Spy Kyoushitsu (WEB) - 01
 eps: 1
-date: 2022-01-07 14:52:00+0700
+date: 2022-01-07 15:05:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1061182688276533338/mpv-shot0181.jpg
 category: Spy-Kyoushitsu
-epsname: MISI 《HANAZONO》I
+epsname: MISI - HANAZONO I
 ---
 
 Hanazono atau Lily, direkrut ke organisasi intel bernama "Tomoshibi". Organisasi tersebut beranggotakan murid yang nyaris gagal seperti dirinya, mereka direkrut dengan tujuan menuntaskan Misi Mustahil, akankah mereka berhasil?
