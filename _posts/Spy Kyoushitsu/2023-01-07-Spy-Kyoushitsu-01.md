@@ -2,7 +2,7 @@
 layout: post
 title: Spy Kyoushitsu (WEB) - 01
 eps: 1
-date: 2022-01-07 15:11:00+0700
+date: 2023-01-07 15:18:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1061182688276533338/mpv-shot0181.jpg
 category: Spy-Kyoushitsu
 epsname: MISI 《HANAZONO》I
