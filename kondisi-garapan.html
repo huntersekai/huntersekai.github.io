@@ -3,20 +3,14 @@ layout: default
 ---
 
 <section class="post">
+    <h2>Kondisi Garapan</h2>
 <div id="naotimes">
     <script>
-        /**
-        * Resize iframe naoTimes ketika sudah load.
-        */
         window.addEventListener("message", function (event) {
-            // Periksa apakah pesan dari embed naotimes apa tidak
             if (!event.origin.startsWith("https://panel.naoti.me")) {
                 return;
             }
-
-            // Parse data yang dikirim oleh Embed
             const data = JSON.parse(event.data);
-            // Ambil element iframe via `id`
             const iframe = document.getElementById("naotimes-project");
             if (data.action === "resize") {
                 iframe.height = data.height;
@@ -24,7 +18,6 @@ layout: default
                 iframe.scrolling = "no";
                 iframe.style.opacity = "1";
                 iframe.frameBorder = "0"
-                // Hilangkan scrollbar
                 iframe.style.overflowY = "hidden";
             }
         }, false);
