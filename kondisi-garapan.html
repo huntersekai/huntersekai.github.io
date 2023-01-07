@@ -5,23 +5,7 @@ layout: default
 <section class="post">
     <h2>Kondisi Garapan</h2>
 <div id="naotimes">
-    <script>
-        window.addEventListener("message", function (event) {
-            if (!event.origin.startsWith("https://panel.naoti.me")) {
-                return;
-            }
-            const data = JSON.parse(event.data);
-            const iframe = document.getElementById("naotimes-project");
-            if (data.action === "resize") {
-                iframe.height = data.height;
-                iframe.width = "100%";
-                iframe.scrolling = "no";
-                iframe.style.opacity = "1";
-                iframe.frameBorder = "0"
-                iframe.style.overflowY = "hidden";
-            }
-        }, false);
-    </script>
+    <script src="https://naoti.me/assets/js/naoTimes.min.js" type="text/javascript"></script>
     <iframe id="naotimes-project" src="https://panel.naoti.me/embed?id=970006592173002852#accent=pink&dark=true">
     
 </div>
