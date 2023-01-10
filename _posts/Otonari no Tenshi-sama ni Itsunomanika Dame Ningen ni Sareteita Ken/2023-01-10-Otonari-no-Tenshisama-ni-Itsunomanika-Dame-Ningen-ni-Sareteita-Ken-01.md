@@ -22,5 +22,5 @@ Penyelaras Akhir: Azkaxfannx, Noromi<br>
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-- 1080p: [Google Drive](https://drive.google.com/file/d/1xDKgX6uEI67uENawCv5-NMmQAwgFarpF/view?usp=share_link){:target="_blank"}<br>
-- 720p: [Google Drive](https://drive.google.com/file/d/1-uqdacolGnw-xXzBB-pmng9d_2v-rKM7/view?usp=share_link){:target="_blank"}
+- 1080p: [Google Drive](https://drive.google.com/file/d/1xDKgX6uEI67uENawCv5-NMmQAwgFarpF/view?usp=share_link){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/178){:target="_blank"}<br>
+- 720p: [Google Drive](https://drive.google.com/file/d/1-uqdacolGnw-xXzBB-pmng9d_2v-rKM7/view?usp=share_link){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/177){:target="_blank"}
