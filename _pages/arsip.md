@@ -22,6 +22,7 @@ title: Arsip
 - [Futoku no Guild]({{ site.baseurl }}/kategori/Futoku-no-Guild)
 - [Kage no Jitsuryokusha ni Naritakute!]({{ site.baseurl }}/kategori/Kage-no-Jitsuryokusha-ni-Naritakute)
 - [Kakkou no Iinazuke]({{ site.baseurl }}/kategori/Kakkou-no-Iinazuke)
+- [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken]({{ site.baseurl }}/kategori/Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken)
 - [Shadows House 2nd Season]({{ site.baseurl }}/kategori/Shadows-House-2nd-Season)
 - [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru]({{ site.baseurl }}/kategori/Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru)
 - [Shinmai Renkinjutsushi no Tenpo Keiei]({{ site.baseurl }}/kategori/Shinmai-Renkinjutsushi-no-Tenpo-Keiei)

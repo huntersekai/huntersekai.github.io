@@ -1,19 +1,20 @@
 ---
 layout: category
 title: Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken
-epsname: Malaikat Tetanggaku Begitu Memanjakanku
-coverPhoto: 
+epsname: Entah Sejak Kapan Diriku Dibuat Jadi Orang Payah oleh Tetangga Bidadari
+coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1062377000905490453/mpv-shot0183.jpg
 ---
 
-Amane tinggal seorang diri di apartemen, dan gadis tercantik di sekolah yaitu Mahiru, tinggal di sebelahnya. Mereka tak pernah bertemu atau pun saling mengobrol, sampai suatu ketika Amane melihat Mahiru kehujanan, ia pun meminjami Mahiru payung. Dan dari situ mereka pun ... tonton sendiri kelanjutannya.
+Fujimiya Amane tinggal seorang diri di apartemen, dan gadis tercantik di sekolah yaitu Shiina Mahiru, tinggal di sebelahnya. Mereka tak pernah bertemu atau pun saling mengobrol, sampai suatu ketika Fujimiya Amane melihat Shiina Mahiru kehujanan, ia pun meminjami Shiina Mahiru payung. Dan dari situ mereka pun ... tonton sendiri kelanjutannya.
 
-Penerjemah: ?<br>
-Pengecek Terjemahan: ?<br>
-Penata Rias: ?<br>
-Penggaya Lagu: ?<br>
-Peramu Video: ?<br>
-Penyelaras Waktu: ?<br>
-Penyelaras Akhir: ?<br>
+Bareng [Amasubs](https://amasubs.xyz/){:target="_blank"}<br>
+Penerjemah: Azkaxfannx<br>
+Pengecek Terjemahan: Azkaxfannx, Noromi<br>
+Penata Rias: Noromi<br>
+Penggaya Lagu: Noromi<br>
+Peramu Video: Azkaxfannx<br>
+Penyelaras Waktu: Azkaxfannx, Noromi<br>
+Penyelaras Akhir: Azkaxfannx, Noromi<br>
 
 Unduh
 
