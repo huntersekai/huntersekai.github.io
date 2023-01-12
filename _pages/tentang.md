@@ -3,13 +3,11 @@ layout: page
 title: Tentang
 ---
 
-Dibentuk pada tanggal **24 Desember 2021**<br>
-Telah merilis **{{ site.posts | size }}** postingan dan **{{ site.categories | size }}** garapan
+Telah merilis **{{ site.categories | size }}** garapan sejak **24 Desember 2021**.
 
 ### Rilisan:
 
-- Penamaan berkas serial: [A-1] (Judul Romaji) - (Eps) [(Tipe Raw)][(Resolusi) (Format Audio)][(CRC32)]<br>
-- Penamaan berkas film: [A-1] (Judul Romaji) [(Tipe Raw)][(Resolusi) (Format Audio)][(CRC32)]<br>
+- Penamaan: [A-1] (Judul Romaji) (*- (Eps)) [(Tipe Raw)][(Resolusi) (Format Audio)][(CRC32)]<br>
 - Video berformat matroska dan softsub<br>
 - Olahan video biasanya menggunakan CRF 17-20, 10bit, preset slow/veryslow, dan ber-codec H264/H265<br>
 - Audio bawaan tanpa encode, kecuali lossless akan di-encode ke FLAC/TrueHD<br>
