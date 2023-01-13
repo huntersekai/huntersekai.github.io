@@ -15,4 +15,4 @@ Soloyolo: Noromi
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-- 1080p: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Dingin%202023/%5BWEB%5D/%5BGoTouchSomeGrass%5D%20Spy%20Kyoushitsu%20%5BWEB%5D%5B1080p%20AAC%5D/%5BGoTouchSomeGrass%5D%20Spy%20Kyoushitsu%20-%2001%20%5BWEB%5D%5B1080p%20AAC%5D%5B949566CB%5D.mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/176){:target="_blank"}
+- 1080p: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Dingin%202023/%5BWEB%5D/%5BGoTouchSomeGrass%5D%20Spy%20Kyoushitsu%20%5BWEB%5D%5B1080p%20AAC%5D/%5BGoTouchSomeGrass%5D%20Spy%20Kyoushitsu%20-%2001%20%5BWEB%5D%5B1080p%20AAC%5D%5B949566CB%5D.mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/179){:target="_blank"}
