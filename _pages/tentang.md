@@ -7,9 +7,9 @@ Telah merilis **{{ site.categories | size }}** garapan sejak **24 Desember 2021*
 
 ### A-1 Fansub?
 
-Fansub apa adanya yang berusaha menyediakan rilisan semaksimal mungkin walau tidak konsisten. Sebab tidak konsisten, kami pun kesusahan untuk berkembang. Karenanya, bantu kami untuk berekembang dengan membagikan rilisan kami.
+Fansub apa adanya yang berusaha menyediakan rilisan semaksimal mungkin walau tidak konsisten. Sebab tidak konsisten, kami pun kesusahan untuk maju. Karenanya, bantu kami dengan membagikan garapan fansub ini.
 
-Kami juga sadar masih punya banyak kekurangan, karenanya jangan sungkan-sungkan laporan masalah, kritik serta saran ke [Peladen Discord](https://discord.gg/8QeuePwYgV){:target="_blank"} kami atau [Facebook Fanspage](https://fb.me/a1fansub){:target="_blank"}.
+Kami juga sadar masih punya banyak kekurangan, karenanya jangan sungkan-sungkan untuk melaporkan masalah, kritik serta saran ke [Peladen Discord](https://discord.gg/8QeuePwYgV){:target="_blank"} atau [Facebook Fanspage](https://fb.me/a1fansub){:target="_blank"}.
 
 ### Rilisan:
 
@@ -30,13 +30,13 @@ Kami juga sadar masih punya banyak kekurangan, karenanya jangan sungkan-sungkan 
 ### FAQ:
 
 - **Q: Kok nggak rilis-rilis sih? Lama banget.<br>**
-A: Seperti yang sudah dibilang, kami tidak konsisten, silakan pergi ke simulcast jika ingin cepat.<br>
+A: Seperti yang sudah dibilang, kami tidak konsisten, silakan ke simulcast jika ingin cepat (Dukung legal selama tersedia).<br>
 - **Q: Garapannya boleh diupload ulang/diambil isinya(TL, TS, dsb ....) nggak?<br>**
-A: Silakan saja, asal izin ke pengurus di [Peladen Discord](https://discord.gg/8QeuePwYgV) atau minimal menyertakan kredit ke kami sebagai tanda kamu menghargai proses pengerjaaan garapan.<br>
+A: Silakan saja, asal izin ke pengurus di [Peladen Discord](https://discord.gg/8QeuePwYgV) atau menyertakan kredit ke kami sebagai tanda kamu menghargai proses pengerjaaan garapan.<br>
 - **Q: Apaan nih, kok resolusi yang tersedia tidak konsisten begini? Kadang semua resolusi, kadang 720p/1080p doang, kadang malah 900p?**<br>
 A: Itu semua tergantung raw, waktu, ~~dan mood yang mengerjakan~~, rilisan BD biasanya hanya menyediakan satu resolusi karena proses pengolahannya yang tidak sebentar.<br>
 - **Q: Gimana caraku memberi timbal balik?**<br>
-A: Sekali lagi, cukup bagikan rilisan kami ke siapa pun, bantu kami berkembang :d
+A: Sekali lagi, cukup bagikan garapan fansub ini, bantu kami :d
 
 ### Pranala:
 
