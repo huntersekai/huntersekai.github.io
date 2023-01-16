@@ -31,7 +31,7 @@ Kami juga sadar masih punya banyak kekurangan, karenanya jangan sungkan-sungkan 
 
 - **Q: Kok nggak rilis-rilis sih? Lama banget.<br>**
 A: Seperti yang sudah dibilang, kami tidak konsisten, silakan pergi ke simulcast jika ingin cepat.<br>
-- **Q: Garapannya boleh dicomot nggak?<br>**
+- **Q: Garapannya boleh diupload ulang/diambil isinya(TL, TS, dsb ....) nggak?<br>**
 A: Silakan saja, asal izin ke pengurus di [Peladen Discord](https://discord.gg/8QeuePwYgV) atau minimal menyertakan kredit ke kami sebagai tanda kamu menghargai proses pengerjaaan garapan.<br>
 - **Q: Apaan nih, kok resolusi yang tersedia tidak konsisten begini? Kadang semua resolusi, kadang 720p/1080p doang, kadang malah 900p?**<br>
 A: Itu semua tergantung raw, waktu, ~~dan mood yang mengerjakan~~, rilisan BD biasanya hanya menyediakan satu resolusi karena proses pengolahannya yang tidak sebentar.<br>
