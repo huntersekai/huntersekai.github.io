@@ -5,7 +5,9 @@ epsname: Suatu Saat di Langit itu~
 ---
 
 <section class="posts">
-<h2 style="margin-top: 0;">Rilisan Terbaru:</h2>
+<h2 style="margin-top: 0;">{{ latest_post.title }}</h2>
+<p><img src="{{ latest_post.coverPhoto }}"></p>
+<br><hr><br>
 <ul>
 {% for post in site.posts %}
   <li></img><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time></li>
