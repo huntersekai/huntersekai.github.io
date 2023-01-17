@@ -10,10 +10,7 @@ epsname: Suatu Saat di Langit itu~
 <hr><br>
 <ul>
 {% for post in site.posts %}
-  {% if site.posts[0] %}
-    <div display="none"></div>
   <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time></li>
-  {% endif %}
 {% endfor %}
 </ul>
 </section>

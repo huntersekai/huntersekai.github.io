@@ -150,6 +150,10 @@ strong, b {
 	margin-bottom: .5rem;
 }
 
+.posts li:nth-child(-n+2) {
+	display:none;
+}
+
 .posts li a, .posts li div, .projects li a {
 	white-space:nowrap;
 	overflow:hidden;
