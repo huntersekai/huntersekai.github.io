@@ -5,6 +5,10 @@ epsname: Suatu Saat di Langit itu~
 ---
 
 <section class="posts">
+<h2 style="margin-top: 0;">{{ site.posts[0].title }}</h2>
+<p><img src="{{ site.posts[0].coverPhoto }}"></p>
+<br><hr><br>
+<ul>
 {% for post in site.posts %}
   <li></img><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y.%m.%d" }}</time></li>
 {% endfor %}
