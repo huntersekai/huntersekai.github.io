@@ -43,6 +43,7 @@ A: Sekali lagi, cukup bagikan garapan fansub ini, bantu kami :d
 - [Database Fansub Indonesia](https://db.silveryasha.web.id/group/225){:target="_blank"}
 - [Discord](https://discord.gg/8QeuePwYgV){:target="_blank"}
 - [Facebook](https://fb.me/a1fansub){:target="_blank"}
+- [GitHub](https://github.com/A-1Fansub/){:target="_blank"}
 - [Index](https://proyek.a-1ddl.workers.dev/0:/){:target="_blank"}
 - [MangaDex](https://mangadex.org/group/80317136-cd7f-4f4c-bc43-95499301d19a/a-1-translation){:target="_blank"}
 - [PerpusIndo](https://www.perpusindo.info/sharelist/a-1fansub){:target="_blank"}
