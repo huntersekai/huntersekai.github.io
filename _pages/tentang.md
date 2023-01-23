@@ -36,7 +36,7 @@ A: Silakan saja, asal izin ke pengurus di [Peladen Discord](https://discord.gg/8
 - **Q: Apaan nih, kok resolusi yang tersedia tidak konsisten begini? Kadang semua resolusi, kadang 720p/1080p doang, kadang malah 900p?**<br>
 A: Itu semua tergantung raw, waktu, ~~dan mood yang ngerjain~~, rilisan BD biasanya hanya menyediakan satu resolusi karena proses pengolahannya yang tidak sebentar.<br>
 - **Q: Gimana caraku memberi timbal balik?**<br>
-A: Sekali lagi, bantu kenalkan kami dengan cara membagikan rilisan kami, itu sudah membantu kami dalam mengembangkan fansub ini, atau jika kamu ingin mengapresiasi lebih kami, kamu bisa donasi lewat [Trakteer](https://trakteer.id/a-1fansub){:target="_blank"}.
+A: Sekali lagi, bantu kenalkan kami dengan cara membagikan rilisan kami, itu sudah membantu kami dalam mengembangkan fansub ini, atau jika kamu ingin mengapresiasi lebih kami, kamu bisa donasi lewat [Trakteer](https://trakteer.id/a-1fansub/tip){:target="_blank"}.
 
 ### Pranala:
 
@@ -47,5 +47,5 @@ A: Sekali lagi, bantu kenalkan kami dengan cara membagikan rilisan kami, itu sud
 - [Index](https://proyek.a-1ddl.workers.dev/0:/){:target="_blank"}
 - [MangaDex](https://mangadex.org/group/80317136-cd7f-4f4c-bc43-95499301d19a/a-1-fansub-manga-division){:target="_blank"}
 - [PerpusIndo](https://www.perpusindo.info/sharelist/a-1fansub){:target="_blank"}
-- [Trakteer](https://trakteer.id/a-1fansub){:target="_blank"}
+- [Trakteer](https://trakteer.id/a-1fansub/tip){:target="_blank"}
 - [Telegram](https://a1fansub.t.me){:target="_blank"}
