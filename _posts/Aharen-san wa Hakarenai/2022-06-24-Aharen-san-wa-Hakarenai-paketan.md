@@ -22,5 +22,5 @@ Penyelaras Akhir: KiryuuNii<br>
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-- 900p Paketan: [Acefile](https://acefile.co/f/77725188/a-1-aharen-san-wa-hakarenai-webx264-- 900paac-7z){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20- 900p%5D%5BAAC%5D.7z){:target="_blank"}<br>
-- 900p Eceran: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/[WEB]/[A-1]%20Aharen-san%20wa%20Hakarenai%20[WEB][x264%20- 900p][AAC]/){:target="_blank"} &middot; [Telegram](https://t.me/a1fansub/125){:target="_blank"}
+- 900p Paketan: [Acefile](https://acefile.co/f/77725188/a-1-aharen-san-wa-hakarenai-webx264-- 900paac-7z){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D.7z){:target="_blank"}<br>
+- 900p Eceran: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/[WEB]/[A-1]%20Aharen-san%20wa%20Hakarenai%20[WEB][x264%20900p][AAC]/){:target="_blank"} &middot; [Telegram](https://t.me/a1fansub/125){:target="_blank"}
