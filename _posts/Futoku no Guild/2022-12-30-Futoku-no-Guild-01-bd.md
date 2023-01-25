@@ -21,4 +21,4 @@ Penyelaras Akhir: KiryuuNii<br>
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-- 1080p: [Google Drive](https://drive.google.com/file/d/1EuGXLdNY2pHSOM5bdmw587jmgk39VsPz/view?usp=share_link){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Gugur%202022/%5BBD%5D/%5BA-1%5D%20Futoku%20no%20Guild%20%5BBD%5D%5B- 1080p%20TrueHD%5D/%5BA-1%5D%20Futoku%20no%20Guild%20-%2001%20%5BBD%5D%5B- 1080p%20TrueHD%5D%5BECF0624D%5D.mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/175){:target="_blank"}
+- 1080p: [Google Drive](https://drive.google.com/file/d/1EuGXLdNY2pHSOM5bdmw587jmgk39VsPz/view?usp=share_link){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/0:/Musim Gugur 2022/[BD]/[A-1] Futoku no Guild [BD][1080p TrueHD]/[A-1] Futoku no Guild - 01 [BD][1080p TrueHD][ECF0624D].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/175){:target="_blank"}
