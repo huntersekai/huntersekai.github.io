@@ -26,4 +26,4 @@ Penyelaras Akhir: KiryuuNii<br>
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-- 900p: [Google Drive](https://drive.google.com/file/d/1y1PwK-jVLxH_g-tWiuuU0KNHOCJQ83qx/view?usp=share_link){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/0:/Musim Panas 2022/[BD]/[A-1] Engage Kiss [BD][900p TrueHD]/[A-1] Engage Kiss - 10 [BD][900p TrueHD][54CB32AD].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/185){:target="_blank"}
+- 900p: [Google Drive](https://drive.google.com/file/d/17zruW_kTw0xEemm3csgfJrft9ch8FoDe/view?usp=share_link){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/0:/Musim Panas 2022/[BD]/[A-1] Engage Kiss [BD][900p TrueHD]/[A-1] Engage Kiss - 10v2 [BD][900p TrueHD][75F7805D].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/187){:target="_blank"}
