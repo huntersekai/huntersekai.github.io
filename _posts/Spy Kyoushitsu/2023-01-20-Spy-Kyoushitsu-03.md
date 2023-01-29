@@ -15,4 +15,4 @@ Soloyolo: Noromi
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-- 1080p: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim Dingin 2023/[WEB]/[GoTouchSomeGrass] Spy Kyoushitsu [WEB][1080p AAC]/[GoTouchSomeGrass] Spy Kyoushitsu - 03v2 [WEB][1080p AAC][CF19D8C9].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/191){:target="_blank"}
+- 1080p: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim Dingin 2023/[WEB]/[GoTouchSomeGrass] Spy Kyoushitsu [WEB][1080p AAC]/[GoTouchSomeGrass] Spy Kyoushitsu - 03v2 [WEB][1080p AAC][53732AED].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/192){:target="_blank"}
