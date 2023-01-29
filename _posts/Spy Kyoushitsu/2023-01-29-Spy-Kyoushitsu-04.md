@@ -2,7 +2,7 @@
 layout: post
 title: Spy Kyoushitsu (WEB) - 04
 eps: 4
-date: 2023-01-29 15:10:00+0700
+date: 2023-01-29 15:11:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1069163842417999892/mpv-shot0196.jpg
 category: Spy-Kyoushitsu
 epsname: Berkas 《Gujin》Erna
