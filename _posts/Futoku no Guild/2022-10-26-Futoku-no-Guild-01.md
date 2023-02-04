@@ -20,5 +20,5 @@ Penyelaras Akhir: KiryuuNii<br>
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-- 1080p: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Gugur%202022/%5BWEB%5D/%5BA-1%5D%20Futoku%20no%20Guild%20%5BTV%5D%5B1080p%20AAC%5D/%5BA-1%5D%20Futoku%20no%20Guild%20-%2001%20%5BTV%5D%5B1080p%20ACC%5D%5B32658120%5D.mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/153){:target="_blank"}<br>
-- 720p: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Gugur%202022/%5BWEB%5D/%5BA-1%5D%20Futoku%20no%20Guild%20%5BTV%5D%5B- 720p%20AAC%5D/%5BA-1%5D%20Futoku%20no%20Guild%20-%2001%20%5BTV%5D%5B- 720p%20ACC%5D%5BA209DB88%5D.mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/152){:target="_blank"}
+- 1080p: [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Gugur 2022/[WEB]/[A-1] Futoku no Guild [TV][1080p AAC]/[A-1] Futoku no Guild - 01 [TV][1080p ACC][32658120].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/153){:target="_blank"}<br>
+- 720p: [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Gugur 2022/[WEB]/[A-1] Futoku no Guild [TV][720p AAC]/[A-1] Futoku no Guild - 01 [TV][720p ACC][A209DB88].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/152){:target="_blank"}
