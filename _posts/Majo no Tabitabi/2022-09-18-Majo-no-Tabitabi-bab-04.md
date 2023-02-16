@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Scan) - Bab 04
+title: Majo no Tabitabi (Digital) - Bab 04
 eps: 04
 epsname: Penyihir Magang Elaina
 date: 2022-09-10 09:11:00 +0700

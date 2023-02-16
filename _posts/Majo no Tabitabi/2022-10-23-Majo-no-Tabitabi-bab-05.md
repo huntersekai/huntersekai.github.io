@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Scan) - Bab 05
+title: Majo no Tabitabi (Digital) - Bab 05
 eps: 05
 epsname: Menyimpan Kebahagiaan
 date: 2022-10-23 10:23:00 +0700

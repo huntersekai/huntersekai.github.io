@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Scan) - Bab 11
+title: Majo no Tabitabi (Digital) - Bab 11
 eps: 11
 epsname: Penguasa dalam Reruntuhan
 date: 2023-01-29 01:29:00 +0700

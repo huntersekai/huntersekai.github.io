@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Scan) - Bab 06
+title: Majo no Tabitabi (Digital) - Bab 06
 eps: 06
 epsname: Apa yang Akan Kau Bawa di Pulau Terpencil?
 date: 2022-11-21 11:21:00 +0700

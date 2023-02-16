@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Scan) - Bab 08.5
+title: Majo no Tabitabi (Digital) - Bab 08.5
 eps: 08.5
 epsname: Waktu Adalah Uang
 date: 2023-01-02 01:02:00 +0700

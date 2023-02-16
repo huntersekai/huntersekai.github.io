@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Scan) - Bab 08
+title: Majo no Tabitabi (Digital) - Bab 08
 eps: 08
 epsname: Kerajaan Celestria
 date: 2022-12-25 12:25:00 +0700

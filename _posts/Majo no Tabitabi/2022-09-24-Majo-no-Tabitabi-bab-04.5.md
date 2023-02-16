@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Scan) - Bab 04.5
+title: Majo no Tabitabi (Digital) - Bab 04.5
 eps: 04.5
 epsname: Apa yang Akan Kau Bawa di Pulau Terpencil?
 date: 2022-09-24 09:24:00 +0700
