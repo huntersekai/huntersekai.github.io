@@ -1,0 +1,20 @@
+---
+layout: post
+title: Majo no Tabitabi (Scan) - Bab 02
+eps: 02
+epsname: Negeri Bunga
+date: 2022-09-10 09:10:00 +0700
+coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075786786166546553/bab2.png
+category: Majo-no-Tabitabi-manga
+---
+
+Melakukan perjalanan tanpa henti, bertemu berbagai macam orang dari berbagai macam negara, serta mengembara demi memenuhi rasa ingin tahu. Inilah kisah pertemuan dan perpisahan penyihir kelabu Elaina.
+
+Tonton anime-nya di sini: [https://a-1.fansub.id/kategori/Majo-no-Tabitabi-bd](https://a-1.fansub.id/kategori/Majo-no-Tabitabi-bd)
+
+Soloyolo: Noromi
+
+{% if page.epsname %}Bab {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+
+---
+[Facebook](https://www.facebook.com/103699892485487/posts/pfbid02LxRMERhtwuKTS6eD14aK7ECrGjcRTUV4FZ47cRdBVgKiThNZTYN29B657GKkQZMwl/?app=fbl){:target="_blank"} &middot; [MangaDex](https://mangadex.org/chapter/2f10b377-2e5a-48d1-853e-70e68478881d){:target="_blank"} &middot; [PerpusIndo](https://www.perpusindo.info/berkas/7P1CudJh.elaina-majo-no-tabitabi-bab-02-scan-pdf){:target="_blank"}
