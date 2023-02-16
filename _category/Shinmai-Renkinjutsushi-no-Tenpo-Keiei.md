@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Shinmai Renkinjutsushi no Tenpo Keiei
+title: Shinmai Renkinjutsushi no Tenpo Keiei (WEB)
 epsname: Lika-Liku Alkemis Non Gelar
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1028749977083723867/mpv-shot0150.jpg
 ---

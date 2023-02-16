@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Aharen-san wa Hakarenai
+title: Aharen-san wa Hakarenai (WEB)
 epsname: Aharen-san yang Tak Terduga
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664980295569478/mpv-shot0107.jpg
 ---

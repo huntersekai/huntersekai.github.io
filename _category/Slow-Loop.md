@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Slow Loop
+title: Slow Loop (WEB)
 epsname: SLOW LOOP
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664980547211325/mpv-shot0076.jpg
 ---

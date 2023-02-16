@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Spy Kyoushitsu
+title: Spy Kyoushitsu (WEB)
 epsname: Kelas Intel
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1061182688544964658/mpv-shot0182.jpg
 ---

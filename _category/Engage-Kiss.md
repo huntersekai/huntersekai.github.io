@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Engage Kiss
+title: Engage Kiss (WEB)
 epsname: ENGAGE KISS
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1023966446465863700/mpv-shot0147.jpg
 ---

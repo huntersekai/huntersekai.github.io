@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Futoku no Guild
+title: Futoku no Guild (WEB)
 epsname: Serikat Amoral
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1036998735449817198/mpv-shot0164.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Tonikaku Kawaii꞉ Seifuku
+title: Tonikaku Kawaii꞉ Seifuku (WEB)
 epsname: Pokoknya Imut꞉ Seragam
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1044993731960512562/mpv-shot0168.jpg
 ---
