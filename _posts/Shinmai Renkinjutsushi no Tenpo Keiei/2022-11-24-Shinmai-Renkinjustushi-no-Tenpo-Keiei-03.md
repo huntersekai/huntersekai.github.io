@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shinmai Renkinjutsushi no Tenpo Keiei (WEB) - 03
+title: Shinmai Renkinjutsushi no Tenpo Keiei (WEB) - Episode 03
 eps: 3
 date: 2022-11-24 21:33:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/1043766994320752640/image.png

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shinmai Renkinjutsushi no Tenpo Keiei (WEB) - 01
+title: Shinmai Renkinjutsushi no Tenpo Keiei (WEB) - Episode 01
 eps: 1
 date: 2022-10-08 21:13:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/1027961341991977071/unknown.png

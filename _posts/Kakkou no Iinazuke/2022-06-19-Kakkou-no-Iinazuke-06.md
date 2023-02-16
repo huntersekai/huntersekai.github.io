@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kakkou no Iinazuke (WEB) - 06
+title: Kakkou no Iinazuke (WEB) - Episode 06
 eps: 6
 date: 2022-06-26 19:41:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/991700398966583306/unknown.png

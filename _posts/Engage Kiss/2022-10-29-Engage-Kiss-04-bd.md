@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engage Kiss (BD) - 04
+title: Engage Kiss (BD) - Episode 04
 eps: 4
 date: 2022-10-29 18:33:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003191679681052682/mpv-shot0099.jpg

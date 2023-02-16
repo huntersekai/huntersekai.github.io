@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shinmai Renkinjutsushi no Tenpo Keiei (WEB) - 05
+title: Shinmai Renkinjutsushi no Tenpo Keiei (WEB) - Episode 05
 eps: 5
 date: 2022-12-15 01:13:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/1052599849700307065/mpv-shot0032.jpg

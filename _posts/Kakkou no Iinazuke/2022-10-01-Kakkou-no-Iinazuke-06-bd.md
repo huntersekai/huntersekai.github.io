@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kakkou no Iinazuke (BD) - 06
+title: Kakkou no Iinazuke (BD) - Episode 06
 eps: 6
 date: 2022-10-01 02:55:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/991700398966583306/unknown.png

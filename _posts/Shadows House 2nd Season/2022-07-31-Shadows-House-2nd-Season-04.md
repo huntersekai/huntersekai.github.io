@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shadows House 2nd Season (WEB) - 04
+title: Shadows House 2nd Season (WEB) - Episode 04
 eps: 4
 date: 2022-07-31 13:45:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003191622328131665/mpv-shot0103.jpg

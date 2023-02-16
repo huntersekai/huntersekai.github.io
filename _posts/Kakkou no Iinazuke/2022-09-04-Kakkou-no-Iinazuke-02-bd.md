@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kakkou no Iinazuke (BD) - 02
+title: Kakkou no Iinazuke (BD) - Episode 02
 eps: 2
 date: 2022-09-04 20:02:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/991700187670130728/unknown.png

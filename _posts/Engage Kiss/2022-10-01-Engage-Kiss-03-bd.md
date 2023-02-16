@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engage Kiss (BD) - 03
+title: Engage Kiss (BD) - Episode 03
 eps: 3
 date: 2022-10-01 02:54:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/998057540682264728/mpv-shot0097.jpg

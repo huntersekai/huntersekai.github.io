@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shadows House 2nd Season (WEB) - 07
+title: Shadows House 2nd Season (WEB) - Episode 07
 eps: 7
 date: 2022-08-20 10:16:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1010384229357592646/mpv-shot0124.jpg

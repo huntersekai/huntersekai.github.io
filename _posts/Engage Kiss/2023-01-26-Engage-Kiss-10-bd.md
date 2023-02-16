@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engage Kiss (BD) - 10
+title: Engage Kiss (BD) - Episode 10
 eps: 10
 date: 2023-01-26 01:41:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1067874118067830824/mpv-shot0190.jpg

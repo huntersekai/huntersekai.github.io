@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engage Kiss (BD) - 09
+title: Engage Kiss (BD) - Episode 09
 eps: 9
 date: 2022-12-30 00:49:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1058078563598860308/mpv-shot0177.jpg

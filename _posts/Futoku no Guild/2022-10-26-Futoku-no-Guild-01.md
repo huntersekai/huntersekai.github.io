@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Futoku no Guild (TV) - 01
+title: Futoku no Guild (TV) - Episode 01
 eps: 1
 date: 2022-10-26 23:45:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1028749975909322832/mpv-shot0149.jpg
@@ -20,5 +20,5 @@ Penyelaras Akhir: KiryuuNii<br>
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-- 1080p: [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Gugur 2022/[WEB]/[A-1] Futoku no Guild [TV][1080p AAC]/[A-1] Futoku no Guild - 01 [TV][1080p ACC][32658120].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/153){:target="_blank"}<br>
-- 720p: [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Gugur 2022/[WEB]/[A-1] Futoku no Guild [TV][720p AAC]/[A-1] Futoku no Guild - 01 [TV][720p ACC][A209DB88].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/152){:target="_blank"}
+- 1080p: [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Gugur 2022/[WEB]/[A-1] Futoku no Guild [TV][1080p AAC]/[A-1] Futoku no Guild - Episode 01 [TV][1080p ACC][32658120].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/153){:target="_blank"}<br>
+- 720p: [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Gugur 2022/[WEB]/[A-1] Futoku no Guild [TV][720p AAC]/[A-1] Futoku no Guild - Episode 01 [TV][720p ACC][A209DB88].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/152){:target="_blank"}

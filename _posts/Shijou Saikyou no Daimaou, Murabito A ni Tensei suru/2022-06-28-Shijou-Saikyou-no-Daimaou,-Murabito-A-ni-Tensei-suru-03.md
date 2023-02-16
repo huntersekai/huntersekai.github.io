@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shijou Saikyou no Daimaou, Murabito A ni Tensei suru (WEB) - 03
+title: Shijou Saikyou no Daimaou, Murabito A ni Tensei suru (WEB) - Episode 03
 eps: 3
 date: 2022-05-02 01:43:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970327267018420255/970393186012901476/mpv-shot0006.jpg
