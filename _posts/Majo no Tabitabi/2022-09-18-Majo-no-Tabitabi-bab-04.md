@@ -17,4 +17,4 @@ Soloyolo: Noromi
 {% if page.epsname %}Bab {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-[Facebook](https://www.facebook.com/100085316988738/posts/pfbid028i1iSRYxJCBswrZLknonQQAR8Q5eyfn2Bc1WJPh6Z719ZxwgYhTzYivQXusvaeUul/?app=fbl){:target="_blank"} &middot; [MangaDex](https://mangadex.org/chapter/bc7a2e09-8610-436f-94dc-6283d30f5b9a){:target="_blank"} &middot; [PerpusIndo](https://www.perpusindo.info/berkas/GK9anWQA.elaina-majo-no-tabitabi-bab-04-digital-pdf){:target="_blank"}
+[Facebook](https://www.facebook.com/100085316988738/posts/pfbid028i1iSRYxJCBswrZLknonQQAR8Q5eyfn2Bc1WJPh6Z719ZxwgYhTzYivQXusvaeUul/?app=fbl){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/2:/[Elaina] Majo no Tabitabi/[Elaina] Majo no Tabitabi - Bab 04 [Digital].pdf){:target="_blank"} &middot; [MangaDex](https://mangadex.org/chapter/bc7a2e09-8610-436f-94dc-6283d30f5b9a){:target="_blank"}
