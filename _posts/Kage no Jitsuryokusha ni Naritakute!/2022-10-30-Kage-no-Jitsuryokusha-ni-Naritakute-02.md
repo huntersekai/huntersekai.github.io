@@ -21,5 +21,5 @@ Penyelaras Akhir: Noromi<br>
 {% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-- 1080p: [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Gugur 2022/[WEB]/[A-1] Kage no Jitsuryokusha ni Naritakute! [WEB][1080p AAC]/[A-1] Kage no Jitsuryokusha ni Naritakute! - Episode 02 [WEB][1080p AAC][155680A1].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/160){:target="_blank"}<br>
-- 720p: [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Gugur 2022/[WEB]/[A-1] Kage no Jitsuryokusha ni Naritakute! [WEB][720p AAC]/[A-1] Kage no Jitsuryokusha ni Naritakute! - Episode 02 [WEB][720p AAC][2CF4D0D2].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/159){:target="_blank"}
+- 1080p: [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Gugur 2022/[WEB]/[A-1] Kage no Jitsuryokusha ni Naritakute! [WEB][1080p AAC]/[A-1] Kage no Jitsuryokusha ni Naritakute! - 02 [WEB][1080p AAC][155680A1].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/160){:target="_blank"}<br>
+- 720p: [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Gugur 2022/[WEB]/[A-1] Kage no Jitsuryokusha ni Naritakute! [WEB][720p AAC]/[A-1] Kage no Jitsuryokusha ni Naritakute! - 02 [WEB][720p AAC][2CF4D0D2].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/159){:target="_blank"}
