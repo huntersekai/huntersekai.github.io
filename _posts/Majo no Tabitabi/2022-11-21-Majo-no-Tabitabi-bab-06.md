@@ -2,7 +2,7 @@
 layout: post
 title: Majo no Tabitabi (Digital) - Bab 06
 eps: 06
-epsname: Apa yang Akan Kau Bawa di Pulau Terpencil?
+epsname: Kematian yang Damai
 date: 2022-11-21 11:21:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075786865472450701/bab6.png
 category: Majo-no-Tabitabi-manga

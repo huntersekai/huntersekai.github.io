@@ -2,7 +2,7 @@
 layout: post
 title: Majo no Tabitabi (Digital) - Bab 09
 eps: 09
-epsname: Apa yang Akan Kau Bawa di Pulau Terpencil?
+epsname: Mencari Tuan Putri
 date: 2023-01-15 01:15:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075786925794926662/bab9.png
 category: Majo-no-Tabitabi-manga
