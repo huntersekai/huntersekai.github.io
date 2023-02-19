@@ -17,4 +17,4 @@ Soloyolo: Noromi
 {% if page.epsname %}Bab {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-[Facebook](https://www.facebook.com/a1fansub/posts/pfbid02tHrCspvNCTrQbDWQ9S5AXnwwAEaJ7nAHNgRJpgB23c32iJDFE1L7T87opJ4XEz3rl){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/2:/[Elaina] Majo no Tabitabi/[Elaina] Majo no Tabitabi - Bab 08.5 [Digital].pdf){:target="_blank"} &middot; [MangaDex](https://mangadex.org/chapter/444a70df-1700-4a4f-ae0b-f81a0f633ce9){:target="_blank"}
+[Facebook](https://www.facebook.com/a1fansub/posts/pfbid02tHrCspvNCTrQbDWQ9S5AXnwwAEaJ7nAHNgRJpgB23c32iJDFE1L7T87opJ4XEz3rl){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/2:/[Elaina] Majo no Tabitabi/[Elaina] Majo no Tabitabi - Bab 08.5 [Digital].pdf){:target="_blank"} &middot; [MangaDex](https://mangadex.org/chapter/444a70df-1700-4a4f-ae0b-f81a0f633ce9){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/226){:target="_blank"}
