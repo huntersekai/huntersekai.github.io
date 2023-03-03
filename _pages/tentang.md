@@ -15,19 +15,19 @@ Kami juga sadar masih punya banyak kekurangan, karenanya jangan sungkan-sungkan 
 
 ### Pengurus:
 
-- Noromi
+- **Noromi**<br>
 Semua Bagian
 
-- KiryuuNii
+- **KiryuuNii**<br>
 Semua Bagian
 
-- True Believer
+- **True Believer**<br>
 Penerjemah
 
-- Azkaxfannx
+- **Azkaxfannx**<br>
 Peramu Video
 
-- Sabda21
+- **Sabda21**<br>
 Peramu Video
 
 ### FAQ:
