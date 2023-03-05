@@ -7,6 +7,7 @@ title: Arsip
 
 - [Aharen-san wa Hakarenai (WEB)]({{ site.baseurl }}/kategori/Aharen-san-wa-Hakarenai)
 - [Aharen-san wa Hakarenai (BD)]({{ site.baseurl }}/kategori/Aharen-san-wa-Hakarenai-bd)
+- [Buddy Daddies]({{ site.baseurl }}/kategori/Buddy-Daddies)
 - [Engage Kiss (WEB)]({{ site.baseurl }}/kategori/Engage-Kiss)
 - [Engage Kiss (BD)]({{ site.baseurl }}/kategori/Engage-Kiss-bd)
 - [Futoku no Guild (TV)]({{ site.baseurl }}/kategori/Futoku-no-Guild)
