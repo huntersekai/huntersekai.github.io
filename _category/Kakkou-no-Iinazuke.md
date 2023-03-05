@@ -20,6 +20,7 @@ Unduh
 
 ---
   <ul>
+  <li><a style="font-weight: bold" href="{{ site.baseurl }}/kategori/Kakkou-no-Iinazuke-bd">Kakkou no Iinazuke (BD)</a></li>
     {% for post in site.categories['Kakkou-no-Iinazuke'] %}
   <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.epsname %}Episode {{ post.eps }}: {{ post.epsname }}{% else %}Episode {{ post.eps }}: {{ page.title }}{% endif %}</a></li>
   {% endfor %}
