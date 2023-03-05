@@ -21,14 +21,14 @@ Semua Bagian
 - **KiryuuNii**<br>
 Semua Bagian
 
-- **True Believer**<br>
-Penerjemah
-
 - **Azkaxfannx**<br>
 Peramu Video
 
 - **Sabda21**<br>
 Peramu Video
+
+- **True Believer**<br>
+Penerjemah
 
 ### FAQ:
 
@@ -53,4 +53,4 @@ A: Sekali lagi, cukup bagikan garapan kami, atau jika kamu ingin mengapresiasi l
 - [Trakteer](https://trakteer.id/a-1fansub/tip){:target="_blank"}
 - [Telegram](https://a1fansub.t.me){:target="_blank"}
 
-Terakhir Diubah: 4.3.23
+Terakhir Diubah: 2023.3.5
