@@ -22,6 +22,6 @@ Unduh
   <ul>
     {% for post in site.categories['Kakkou-no-Iinazuke-bd'] %}
   <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.epsname %}Episode {{ post.eps }}: {{ post.epsname }}{% else %}Episode {{ post.eps }}: {{ page.title }}{% endif %}</a></li>
-  <li><a href="{{ site.baseurl }}/kategori/Kakkou-no-Iinazuke">Kakkou no Iinazuke (WEB)</a></li>
   {% endfor %}
+  <li><a href="{{ site.baseurl }}/kategori/Kakkou-no-Iinazuke">Kakkou no Iinazuke (WEB)</a></li>
   </ul>
