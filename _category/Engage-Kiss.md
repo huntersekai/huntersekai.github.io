@@ -24,7 +24,6 @@ Unduh
 
 ---
   <ul>
-  <li><a style="font-weight: bold" href="{{ site.baseurl }}/kategori/Engage-Kiss-bd">Engage Kiss (BD)</a></li>
     {% for post in site.categories['Engage-Kiss'] %}
   <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.epsname %}Episode {{ post.eps }}: {{ post.epsname }}{% else %}Episode {{ post.eps }}: {{ page.title }}{% endif %}</a></li>
   {% endfor %}

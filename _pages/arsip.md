@@ -5,12 +5,12 @@ title: Arsip
 
 ### Anime
 
-- [Aharen-san wa Hakarenai]({{ site.baseurl }}/kategori/Aharen-san-wa-Hakarenai)
+- [Aharen-san wa Hakarenai]({{ site.baseurl }}/kategori/Aharen-san-wa-Hakarenai-bd)
 - [Buddy Daddies]({{ site.baseurl }}/kategori/Buddy-Daddies)
-- [Engage Kiss]({{ site.baseurl }}/kategori/Engage-Kiss)
-- [Futoku no Guild]({{ site.baseurl }}/kategori/Futoku-no-Guild)
+- [Engage Kiss]({{ site.baseurl }}/kategori/Engage-Kiss-bd)
+- [Futoku no Guild]({{ site.baseurl }}/kategori/Futoku-no-Guild-bd)
 - [Kage no Jitsuryokusha ni Naritakute!]({{ site.baseurl }}/kategori/Kage-no-Jitsuryokusha-ni-Naritakute)
-- [Kakkou no Iinazuke]({{ site.baseurl }}/kategori/Kakkou-no-Iinazuke)
+- [Kakkou no Iinazuke]({{ site.baseurl }}/kategori/Kakkou-no-Iinazuke-bd)
 - [Majo no Tabitabi]({{ site.baseurl }}/kategori/Majo-no-Tabitabi-bd)
 - [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken]({{ site.baseurl }}/kategori/Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken)
 - [Shadows House]({{ site.baseurl }}/kategori/Shadows-House-bd)

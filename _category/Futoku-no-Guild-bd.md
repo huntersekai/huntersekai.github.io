@@ -22,4 +22,5 @@ Unduh
     {% for post in site.categories['Futoku-no-Guild-bd'] %}
   <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.epsname %}Episode {{ post.eps }}: {{ post.epsname }}{% else %}Episode {{ post.eps }}: {{ page.title }}{% endif %}</a></li>
   {% endfor %}
+  <li><a href="{{ site.baseurl }}/kategori/Futoku-no-Guild">Futoku no Guild (WEB)</a></li>
   </ul>
