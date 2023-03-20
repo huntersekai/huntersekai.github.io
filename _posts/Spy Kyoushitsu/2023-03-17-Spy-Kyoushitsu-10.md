@@ -12,7 +12,7 @@ Hanazono atau Lily, direkrut ke organisasi intel bernama "Tomoshibi". Organisasi
 
 Soloyolo: Noromi
 
-{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.eps %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.epsname %}Unduh{% endif %}
 
 ---
 - 1080p: [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Dingin 2023/[WEB]/[GoTouchSomeGrass] Spy Kyoushitsu [WEB][1080p AAC]/[GoTouchSomeGrass] Spy Kyoushitsu - 10 [WEB][1080p AAC][AE4F82C6].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/241){:target="_blank"}

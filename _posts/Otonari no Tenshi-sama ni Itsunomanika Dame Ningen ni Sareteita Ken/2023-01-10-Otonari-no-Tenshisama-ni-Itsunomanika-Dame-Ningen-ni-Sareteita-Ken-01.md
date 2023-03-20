@@ -19,7 +19,7 @@ Peramu Video: Azkaxfannx<br>
 Penyelaras Waktu: Azkaxfannx, Noromi<br>
 Penyelaras Akhir: Azkaxfannx, Noromi<br>
 
-{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.eps %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.epsname %}Unduh{% endif %}
 
 ---
 - 1080p: [Google Drive](https://drive.google.com/file/d/1xDKgX6uEI67uENawCv5-NMmQAwgFarpF/view?usp=share_link){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/178){:target="_blank"}<br>

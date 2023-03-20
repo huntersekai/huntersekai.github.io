@@ -23,7 +23,7 @@ Penggaya Lagu: Noromi<br>
 Peramu Video: Noromi<br>
 Penyelaras Akhir: KiryuuNii<br>
 
-{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.eps %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.epsname %}Unduh{% endif %}
 
 ---
 - 900p: [Google Drive](https://drive.google.com/file/d/1jHdKbJiJ29HkhwaB023O5zpnU6YYipSl/view?usp=share_link){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/0:/Musim Panas 2022/[BD]/[A-1] Engage Kiss [BD][900p TrueHD]/[A-1] Engage Kiss - 11 [BD][900p TrueHD][85821D6B].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/188){:target="_blank"}

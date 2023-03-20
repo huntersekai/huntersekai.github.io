@@ -19,7 +19,7 @@ Penggaya Lagu: Noromi (OP), KiryuuNii (ED)<br>
 Peramu Video: Noromi<br>
 Penyelaras Akhir: KiryuuNii<br>
 
-{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.eps %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.epsname %}Unduh{% endif %}
 
 ---
 - 900p Paketan: [Acefile](https://acefile.co/f/89733584/a-1-aharen-san-wa-hakarenai-bd- 900p-truehd-7z){:target="_blank"} &middot; [Google Drive](https://drive.google.com/file/d/1ZHpXQL73PBtNs5ywmPX4KtNen09jxUyn/view?usp=share_link){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BBD%5D/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BBD%5D%5B900p%20TrueHD%5D/){:target="_blank"} &middot; [MEGA](https://mega.nz/file/KV0A2bJT#Uw2IZta-Qos4vnbdhCoB0z37o_Vlm7OdltP11pLvlDs){:target="_blank"}<br>
