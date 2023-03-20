@@ -24,7 +24,7 @@ nav ul {
 a {
     color: #f474b4;
     text-decoration-skip-ink: auto;
-    text-decoration: underline;
+    text-decoration: none;
 	transition: 0.2s;
 }
 
@@ -173,6 +173,11 @@ strong, b {
 	overflow:hidden;
 	text-overflow:ellipsis;
 	text-decoration: none;
+	color: white
+}
+
+.posts li a:hover {
+	color: #f474b4;
 }
 
 .posts li time, .projects li time {
