@@ -27,5 +27,5 @@ Unduh
     {% for post in site.categories['Engage-Kiss-bd'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
-  <li><a href="{{ site.baseurl }}/kategori/Engage-Kiss">Engage Kiss (WEB)</a></li>
+  <li><a class="white pinkhover" href="{{ site.baseurl }}/kategori/Engage-Kiss">Engage Kiss (WEB)</a></li>
   </ul>

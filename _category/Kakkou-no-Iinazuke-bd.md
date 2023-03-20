@@ -23,5 +23,5 @@ Unduh
     {% for post in site.categories['Kakkou-no-Iinazuke-bd'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
-  <li><a href="{{ site.baseurl }}/kategori/Kakkou-no-Iinazuke">Kakkou no Iinazuke (WEB)</a></li>
+  <li><a class="white pinkhover" href="{{ site.baseurl }}/kategori/Kakkou-no-Iinazuke">Kakkou no Iinazuke (WEB)</a></li>
   </ul>
