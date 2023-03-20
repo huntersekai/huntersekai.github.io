@@ -15,6 +15,6 @@ Unduh
 ---
   <ul>
     {% for post in site.categories['Slime-Taoshite-300-nen,-Shiranai-Uchi-ni-Level-Max-ni-Nattemashita-bd'] %}
-  <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.eps }}{% else %} Paketan - {{ page.epsname }}{% endif %}</a></li>
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %} Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

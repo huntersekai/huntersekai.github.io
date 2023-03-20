@@ -21,6 +21,6 @@ Unduh
 ---
   <ul>
     {% for post in site.categories['Aharen-san-wa-Hakarenai'] %}
-  <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.eps }}{% else %} Paketan - {{ page.epsname }}{% endif %}</a></li>
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %} Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

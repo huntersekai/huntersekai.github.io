@@ -22,7 +22,7 @@ Unduh
 ---
   <ul>
     {% for post in site.categories['Aharen-san-wa-Hakarenai-bd'] %}
-  <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.eps }}{% else %} Paketan - {{ page.epsname }}{% endif %}</a></li>
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %} Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   <li><a href="{{ site.baseurl }}/kategori/Aharen-san-wa-Hakarenai">Aharen-san wa Hakarenai (WEB)</a></li>
   </ul>
