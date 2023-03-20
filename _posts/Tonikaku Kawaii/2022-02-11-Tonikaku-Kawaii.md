@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Tonikaku Kawaii (BD) - Paketan
-eps: Paketan
 epsname: Pokoknya Imut
 date: 2022-02-11 00:32:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/980279959622914119/cropped-1920-1080-1179068.jpg

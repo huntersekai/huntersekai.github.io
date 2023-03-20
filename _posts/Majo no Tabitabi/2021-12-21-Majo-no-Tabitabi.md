@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Majo no Tabitabi (BD) - Paketan
-eps: Paketan
 epsname: Penyihir Jalan-Jalan
 date: 2021-12-21 05:40:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/980279959929102397/cropped-1920-1080-1120781.jpg

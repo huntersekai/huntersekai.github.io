@@ -20,7 +20,7 @@ Unduh
 ---
   <ul>
     {% for post in site.categories['Futoku-no-Guild-bd'] %}
-  <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %} Paketan - {{ page.epsname }}{% endif %}</a></li>
+  <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   <li><a href="{{ site.baseurl }}/kategori/Futoku-no-Guild">Futoku no Guild (WEB)</a></li>
   </ul>
