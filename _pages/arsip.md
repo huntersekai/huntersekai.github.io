@@ -5,6 +5,7 @@ title: Arsip
 
 ### Anime
 
+<div class="white pinkhover">
 - [Aharen-san wa Hakarenai]({{ site.baseurl }}/kategori/Aharen-san-wa-Hakarenai-bd)
 - [Buddy Daddies]({{ site.baseurl }}/kategori/Buddy-Daddies)
 - [Engage Kiss]({{ site.baseurl }}/kategori/Engage-Kiss-bd)
@@ -25,7 +26,10 @@ title: Arsip
 - [Tonikaku Kawaii ]({{ site.baseurl }}/kategori/Tonikaku-Kawaii-bd)
 - [Tonikaku Kawaii꞉ Seifuku]({{ site.baseurl }}/kategori/Tonikaku-Kawaii-Seifuku)
 - [Yuru Camp△ Movie]({{ site.baseurl }}/kategori/Yuru-Camp-Movie)
+</div>
 
 ### Manga
 
+<div class="white pinkhover">
 - [Majo no Tabitabi]({{ site.baseurl }}/kategori/Majo-no-Tabitabi-manga)
+</div>
