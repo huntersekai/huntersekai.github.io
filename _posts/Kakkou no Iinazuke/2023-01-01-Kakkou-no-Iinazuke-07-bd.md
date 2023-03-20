@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kakkou no Iinazuke (BD) - Episode 07
+title: Kakkou no Iinazuke (BD) - E7
 eps: 7
 date: 2023-01-01 11:56:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/1058663821599854592/image.png
@@ -19,7 +19,7 @@ Peramu Video: Leqek<br>
 Penyelaras Waktu: KiryuuNii, Leqek<br>
 Penyelaras Akhir: KiryuuNii<br>
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 1080p: [PerpusIndo](https://www.perpusindo.info/berkas/5WelRcpg){:target="_blank"}<br>

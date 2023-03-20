@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spy Kyoushitsu (WEB) - Episode 07
+title: Spy Kyoushitsu (WEB) - E7
 eps: 7
 date: 2023-02-18 00:50:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1076198525320314931/mpv-shot0202.jpg
@@ -12,7 +12,7 @@ Hanazono atau Lily, direkrut ke organisasi intel bernama "Tomoshibi". Organisasi
 
 Soloyolo: Noromi
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 1080p: [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Dingin 2023/[WEB]/[GoTouchSomeGrass] Spy Kyoushitsu [WEB][1080p AAC]/[GoTouchSomeGrass] Spy Kyoushitsu - 07 [WEB][1080p AAC][554A3D40].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/200){:target="_blank"}

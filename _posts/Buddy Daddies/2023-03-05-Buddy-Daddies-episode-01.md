@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buddy Daddies (WEB) - Episode 01
+title: Buddy Daddies (WEB) - E1
 eps: 1
 date: 2023-03-05 10:10:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1081630518006775928/image.png
@@ -13,7 +13,7 @@ Kurusu Kazuki, Pengoordinasi tindak kriminal yang tinggal bersama teman terbaikn
 Penerjemah: True Believer<br>
 Sisanya: Noromi<br>
 
-Episode {{ page.eps }}: {{ page.epsname }}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 1080p: [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Dingin 2023/[WEB]/[A-1] Buddy Daddies [WEB][FHD E-AC-3]/[A-1] Buddy Daddies - Episode 01 [WEB][FHD E-AC-3][81A1E1D5].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/237){:target="_blank"}

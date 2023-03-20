@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engage Kiss (BD) - Episode 09
+title: Engage Kiss (BD) - E9
 eps: 9
 date: 2022-12-30 00:49:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1058078563598860308/mpv-shot0177.jpg
@@ -23,7 +23,7 @@ Penggaya Lagu: Noromi<br>
 Peramu Video: Noromi<br>
 Penyelaras Akhir: KiryuuNii<br>
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 900p: [Google Drive](https://drive.google.com/file/d/1y7AbOjy0tgzrx7gJa0mQpIH7OjfxU3bX/view?usp=share_link){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Panas%202022/%5BBD%5D/%5BA-1%5D%20Engage%20Kiss%20%5BBD%5D%5B900p%20TrueHD%5D/%5BA-1%5D%20Engage%20Kiss%20-%2009%20%5BBD%5D%5B900p%20TrueHD%5D%5B0EC387D2%5D.mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/174){:target="_blank"}

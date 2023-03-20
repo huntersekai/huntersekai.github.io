@@ -12,7 +12,7 @@ body {
 	line-height:1.5;
 	font-size: 1rem;
 	color: white;
-	background-color: #171717;
+	background-color: #070707;
 	width:100%;
 	overflow-x:hidden;
 }
@@ -22,14 +22,15 @@ nav ul {
 }
 
 a {
-    color: white;
+    color: #f474b4;
     text-decoration-skip-ink: auto;
     text-decoration: underline;
 	transition: 0.2s;
 }
 
 a:hover {
-	color: #f474b4
+	color: white;
+	text-decoration: underline; 
 }
 
 pre {
@@ -97,6 +98,12 @@ header {
 header a {
 	text-decoration: none;
 	white-space: nowrap;
+	color: white;
+}
+
+header a:hover {
+	color: #f474b4;
+	text-decoration: none;
 }
 
 header li {

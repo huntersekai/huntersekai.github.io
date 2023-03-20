@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spy Kyoushitsu (WEB) - Episode 02
+title: Spy Kyoushitsu (WEB) - E2
 eps: 2
 date: 2023-01-14 00:55:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1063515390065508352/mpv-shot0187.jpg
@@ -12,7 +12,7 @@ Hanazono atau Lily, direkrut ke organisasi intel bernama "Tomoshibi". Organisasi
 
 Soloyolo: Noromi
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 1080p: [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Dingin 2023/[WEB]/[GoTouchSomeGrass] Spy Kyoushitsu [WEB][1080p AAC]/[GoTouchSomeGrass] Spy Kyoushitsu - 02v3 [WEB][1080p AAC][77166759].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/189){:target="_blank"}

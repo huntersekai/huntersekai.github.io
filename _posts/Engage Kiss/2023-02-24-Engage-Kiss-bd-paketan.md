@@ -23,7 +23,7 @@ Penggaya Lagu: Noromi<br>
 Peramu Video: Noromi<br>
 Penyelaras Akhir: KiryuuNii<br>
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 900p Paketan: [Acefile](https://acefile.co/f/95853201){:target="_blank"} &middot; [Google Drive](https://drive.google.com/file/d/1vfepSiaZteAARbEs7GdVhNFlavDt7jWp/view?usp=share_link){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Engage%20Kiss%20%5BBD%5D%5B900p%20TrueHD%5D.7z){:target="_blank"} &middot; [MEGA](https://mega.nz/file/qFp2WY5L#CzlUZ1hpIZ6ceuBfST3BdYokeIqObP6wc5qiLEG6hGs){:target="_blank"}<br>

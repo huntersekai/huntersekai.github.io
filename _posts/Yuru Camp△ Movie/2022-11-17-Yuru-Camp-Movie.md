@@ -12,7 +12,7 @@ Berniat meramaikan kembali tempat wisata yang ditinggalkan, Rin dan kawan-kawan 
 
 Soloyolo: Noromi
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 1080p: [Google Drive](https://drive.google.com/file/d/1kC4vvR0oss9tLnRnT5apWq6WIQqo_rc4/view?usp=share_link){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Panas%202022/%5BWEB%5D/%5BA-1%5D%20Yuru%20Camp%E2%96%B3%20Movie%20%5BWEB%5D%5B1080p%20E-AC-3%5D/%5BA-1%5D%20Yuru%20Camp%E2%96%B3%20Movie%20%5BWEB%5D%5B1080p%20E-AC-3%5D%5B4EC3545C%5D.mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansub/179){:target="_blank"}<br>

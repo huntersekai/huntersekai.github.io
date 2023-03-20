@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engage Kiss (BD) - Episode 10
+title: Engage Kiss (BD) - E10
 eps: 10
 date: 2023-01-26 01:41:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1067874118067830824/mpv-shot0190.jpg
@@ -23,7 +23,7 @@ Penggaya Lagu: Noromi<br>
 Peramu Video: Noromi<br>
 Penyelaras Akhir: KiryuuNii<br>
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 900p: [Google Drive](https://drive.google.com/file/d/17zruW_kTw0xEemm3csgfJrft9ch8FoDe/view?usp=share_link){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/0:/Musim Panas 2022/[BD]/[A-1] Engage Kiss [BD][900p TrueHD]/[A-1] Engage Kiss - 10v2 [BD][900p TrueHD][75F7805D].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/187){:target="_blank"}

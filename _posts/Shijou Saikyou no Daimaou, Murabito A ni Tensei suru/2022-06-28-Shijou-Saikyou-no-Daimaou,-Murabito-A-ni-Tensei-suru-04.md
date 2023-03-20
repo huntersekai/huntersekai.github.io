@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shijou Saikyou no Daimaou, Murabito A ni Tensei suru (WEB) - Episode 04
+title: Shijou Saikyou no Daimaou, Murabito A ni Tensei suru (WEB) - E4
 eps: 4
 date: 2022-06-28 16:59:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/991281377322487918/mpv-shot0088.jpg
@@ -17,7 +17,7 @@ Penggaya Lagu: KiryuuNii (OP), Noromi (ED)<br>
 Peramu Video: Noromi<br>
 Penyelaras Akhir: Noromi<br>
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 900p: [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Semi%202022/%5BWEB%5D/%5BA-1%5D%20Shijou%20Saikyou%20no%20Daimaou,%20Murabito%20A%20ni%20Tensei%20suru%20%5BWEB%5D%5Bx265%20900p%5D%5BAAC%5D/%5BA-1%5D%20Shijou%20Saikyou%20no%20Daimaou,%20Murabito%20A%20ni%20Tensei%20suru%20-%2004%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D%5B9183A17A%5D.mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/99){:target="_blank"}

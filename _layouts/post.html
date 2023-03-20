@@ -7,25 +7,9 @@ comments: true
   <h2>{{ page.title }}</h2>
   <p><img src={{ page.coverPhoto }}></p>
   {{ content }}
-  <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{% assign m = page.date | date: "%-m" %}
-    {{ page.date | date: "%d" }} 
-    {% case m %}
-      {% when "1" %}Januari 
-      {% when "2" %}Februari
-      {% when "3" %}Maret
-      {% when "4" %}April 
-      {% when "5" %}Mei 
-      {% when "6" %}Juni 
-      {% when "7" %}Juli 
-      {% when "8" %}Agustus 
-      {% when "9" %}September
-      {% when "10" %}Oktober
-      {% when "11" %}November
-      {% when "12" %}Desember
-    {% endcase %}
-    {{ page.date | date: "%Y, %H.%M" }}</time> &middot;
+  <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y.%m.%d - %H:%M" }}</time> &middot;
     <a href="/kategori/{{ page.categories }}">{{ page.categories }}</a><br>
-    Laporkan masalah, kritik-saran ke <a href="https://discord.gg/8QeuePwYgV" target="_blank">Discord</a>/<a href="https://fb.me/a1fansub" target="_blank">Facebook</a>.</span>
+    Laporkan masalah, kritik-saran ke <a href="https://discord.gg/8QeuePwYgV" target="_blank">Discord</a> - <a href="https://fb.me/a1fansub" target="_blank">Facebook</a></span>
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}

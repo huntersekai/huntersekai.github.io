@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shinmai Renkinjutsushi no Tenpo Keiei (WEB) - Episode 01
+title: Shinmai Renkinjutsushi no Tenpo Keiei (WEB) - E1
 eps: 1
 date: 2022-10-08 21:13:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/1027961341991977071/unknown.png
@@ -20,7 +20,7 @@ Peramu Video: Leqek<br>
 Penyelaras Waktu: KiryuuNii, Leqek, Noromi<br>
 Penyelaras Akhir: KiryuuNii<br>
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 1080p: [PerpusIndo](https://www.perpusindo.info/berkas/qldcxixU){:target="_blank"}<br>

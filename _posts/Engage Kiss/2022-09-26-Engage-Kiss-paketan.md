@@ -23,7 +23,7 @@ Penggaya Lagu: Noromi<br>
 Peramu Video: Azkaxfannx (01-04, 13), Noromi (05-12)<br>
 Penyelaras Akhir: KiryuuNii<br>
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 900p Paketan: [Acefile](https://acefile.co/f/84579174/a-1-engage-kiss-webx264-- 900paac-7z

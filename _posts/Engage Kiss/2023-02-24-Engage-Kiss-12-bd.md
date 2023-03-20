@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engage Kiss (BD) - Episode 12
+title: Engage Kiss (BD) - E12
 eps: 12
 date: 2023-02-24 17:20:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1020872868017492049/mpv-shot0142.jpg
@@ -23,7 +23,7 @@ Penggaya Lagu: Noromi<br>
 Peramu Video: Noromi<br>
 Penyelaras Akhir: KiryuuNii<br>
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 900p: [Google Drive](https://drive.google.com/file/d/1gtsd_jvOvpfSfvcSbMiTq15T3-5oUaKt/view?usp=share_link){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Panas 2022/[BD]/[A-1] Engage Kiss [BD][900p TrueHD]/[A-1] Engage Kiss - 12 [BD][900p TrueHD][AAD1FBC6].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/233){:target="_blank"}

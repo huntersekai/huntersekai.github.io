@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Majo no Tabitabi (Digital) - Bab 04
-eps: 04
+title: Majo no Tabitabi (Digital) - B4
+eps: 4
 epsname: Penyihir Magang Elaina
 date: 2022-09-10 09:11:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075786816998875146/bab4.png
@@ -14,7 +14,7 @@ Tonton anime-nya di sini: [https://a-1.fansub.id/kategori/Majo-no-Tabitabi-bd](h
 
 Soloyolo: Noromi
 
-{% if page.epsname %}Bab {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}B{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 [Facebook](https://www.facebook.com/100085316988738/posts/pfbid028i1iSRYxJCBswrZLknonQQAR8Q5eyfn2Bc1WJPh6Z719ZxwgYhTzYivQXusvaeUul/?app=fbl){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/2:/[Elaina] Majo no Tabitabi/[Elaina] Majo no Tabitabi - Bab 04 [Digital].pdf){:target="_blank"} &middot; [MangaDex](https://mangadex.org/chapter/bc7a2e09-8610-436f-94dc-6283d30f5b9a){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/220){:target="_blank"}

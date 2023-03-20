@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buddy Daddies (WEB) - Episode 02
+title: Buddy Daddies (WEB) - E2
 eps: 2
 date: 2023-03-15 23:47:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1085601280891814028/mpv-shot0210.jpg
@@ -13,7 +13,7 @@ Kurusu Kazuki, Pengoordinasi tindak kriminal yang tinggal bersama teman terbaikn
 Penerjemah: True Believer<br>
 Sisanya: Noromi<br>
 
-Episode {{ page.eps }}: {{ page.epsname }}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 1080p: [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Dingin 2023/[WEB]/[A-1] Buddy Daddies [WEB][FHD E-AC-3]/[A-1] Buddy Daddies - Episode 02 [WEB][FHD E-AC-3][EEB5855D].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/240){:target="_blank"} 

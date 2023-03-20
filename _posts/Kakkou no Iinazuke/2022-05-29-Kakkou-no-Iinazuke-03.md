@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kakkou no Iinazuke (WEB) - Episode 03
+title: Kakkou no Iinazuke (WEB) - E3
 eps: 3
 date: 2022-05-29 05:32:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/991700250089758790/unknown.png
@@ -19,7 +19,7 @@ Peramu Video: Leqek<br>
 Penyelaras Waktu: KiryuuNii, Leqek<br>
 Penyelaras Akhir: KiryuuNii<br>
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 1080p: [PerpusIndo](https://www.perpusindo.info/berkas/aKxGKFEd){:target="_blank"}<br>

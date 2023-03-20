@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken (WEB) - Episode 01
+title: Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken (WEB) - E1
 eps: 1
 date: 2023-01-10 21:44:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1062377001194885251/mpv-shot0184.jpg
@@ -19,7 +19,7 @@ Peramu Video: Azkaxfannx<br>
 Penyelaras Waktu: Azkaxfannx, Noromi<br>
 Penyelaras Akhir: Azkaxfannx, Noromi<br>
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 1080p: [Google Drive](https://drive.google.com/file/d/1xDKgX6uEI67uENawCv5-NMmQAwgFarpF/view?usp=share_link){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/178){:target="_blank"}<br>

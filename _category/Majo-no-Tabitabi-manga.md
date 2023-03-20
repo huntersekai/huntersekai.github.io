@@ -16,6 +16,6 @@ Baca/Unduh
 ---
   <ul>
     {% for post in site.categories['Majo-no-Tabitabi-manga'] %}
-  <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.epsname %}Bab {{ post.eps }}: {{ post.epsname }}{% else %}Bab {{ post.eps }}: {{ page.title }}{% endif %}</a></li>
+  <li><a href="{{ site.baseurl }}{{ post.url }}">{% if post.epsname %}B{{ post.eps }} - {{ post.eps }}{% else %} Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

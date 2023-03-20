@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engage Kiss (BD) - Episode 07
+title: Engage Kiss (BD) - E7
 eps: 7
 date: 2022-12-03 01:58:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1008099575158022334/unknown.png
@@ -23,7 +23,7 @@ Penggaya Lagu: Noromi<br>
 Peramu Video: Noromi<br>
 Penyelaras Akhir: KiryuuNii<br>
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 900p: [Google Drive](https://drive.google.com/file/d/16UL2xMaFqp40xv7nPYbtgFHernqRf63q/view?usp=share_link){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Panas%202022/%5BBD%5D/%5BA-1%5D%20Engage%20Kiss%20%5BBD%5D%5B900p%20TrueHD%5D/%5BA-1%5D%20Engage%20Kiss%20-%2007%20%5BBD%5D%5B900p%20TrueHD%5D%5B887874F5%5D.mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/171){:target="_blank"}

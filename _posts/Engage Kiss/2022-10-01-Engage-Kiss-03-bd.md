@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engage Kiss (BD) - Episode 03
+title: Engage Kiss (BD) - E3
 eps: 3
 date: 2022-10-01 02:54:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/998057540682264728/mpv-shot0097.jpg
@@ -23,7 +23,7 @@ Penggaya Lagu: Noromi<br>
 Peramu Video: Noromi<br>
 Penyelaras Akhir: KiryuuNii<br>
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 900p: [Google Drive](https://drive.google.com/file/d/1lqDtCHXovKv8bkZHlRgHWuKdVpMgCYmQ/view?usp=sharing){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/0:/Musim%20Panas%202022/%5BBD%5D/%5BA-1%5D%20Engage%20Kiss%20%5BBD%5D%5B900p%20TrueHD%5D/%5BA-1%5D%20Engage%20Kiss%20-%2003%20%5BBD%5D%5B900p%20TrueHD%5D%5B8F7C8CE6%5D.mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/167){:target="_blank"}

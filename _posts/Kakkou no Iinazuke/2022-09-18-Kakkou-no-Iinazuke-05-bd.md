@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kakkou no Iinazuke (BD) - Episode 05
+title: Kakkou no Iinazuke (BD) - E5
 eps: 5
 date: 2022-09-18 19:04:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/991700370826989608/unknown.png
@@ -19,7 +19,7 @@ Peramu Video: Leqek<br>
 Penyelaras Waktu: KiryuuNii, Leqek<br>
 Penyelaras Akhir: KiryuuNii<br>
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 1080p: [PerpusIndo](https://www.perpusindo.info/berkas/D94D9bIV){:target="_blank"}<br>

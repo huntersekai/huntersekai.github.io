@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shinmai Renkinjutsushi no Tenpo Keiei (WEB) - Episode 03
+title: Shinmai Renkinjutsushi no Tenpo Keiei (WEB) - E3
 eps: 3
 date: 2022-11-24 21:33:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/1043766994320752640/image.png
@@ -20,7 +20,7 @@ Peramu Video: Leqek<br>
 Penyelaras Waktu: KiryuuNii, Leqek, Noromi<br>
 Penyelaras Akhir: KiryuuNii<br>
 
-{% if page.epsname %}Episode {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - 1080p: [PerpusIndo](https://www.perpusindo.info/berkas/qZi0qtOK){:target="_blank"}

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Digital) - Bab 11
+title: Majo no Tabitabi (Digital) - B11
 eps: 11
 epsname: Penguasa dalam Reruntuhan
 date: 2023-01-29 01:29:00 +0700
@@ -14,7 +14,7 @@ Tonton anime-nya di sini: [https://a-1.fansub.id/kategori/Majo-no-Tabitabi-bd](h
 
 Soloyolo: Noromi
 
-{% if page.epsname %}Bab {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}B{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 [Facebook](https://www.facebook.com/a1fansub/posts/pfbid02w27MfCCXUADSoTVYyLNciEiFCxUDJbbQ9p8nn5Grp9st6d44oX3C5Povq3YjomFYl){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/2:/[Elaina] Majo no Tabitabi/[Elaina] Majo no Tabitabi - Bab 11 [Digital].pdf){:target="_blank"} &middot; [MangaDex](https://mangadex.org/chapter/f6d80439-4929-4d43-93e9-34050f6216c6){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/229){:target="_blank"}

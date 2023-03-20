@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Digital) - Bab 09
+title: Majo no Tabitabi (Digital) -B9
 eps: 9
 epsname: Mencari Tuan Putri
 date: 2023-01-15 01:15:00 +0700
@@ -14,7 +14,7 @@ Tonton anime-nya di sini: [https://a-1.fansub.id/kategori/Majo-no-Tabitabi-bd](h
 
 Soloyolo: Noromi
 
-{% if page.epsname %}Bab {{ page.eps }}: {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}B{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 [Facebook](https://www.facebook.com/a1fansub/posts/pfbid0QXLTxYFv5SzJHrgY1rCsxahanFfNmBBsdnPUg9dAgFFwSSpxCrY2XrTMZeEcGbAJl){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/2:/[Elaina] Majo no Tabitabi/[Elaina] Majo no Tabitabi - Bab 09 [Digital].pdf){:target="_blank"} &middot; [MangaDex](https://mangadex.org/chapter/a2043caa-b014-4d27-b448-bf198effea0e){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/227){:target="_blank"}
