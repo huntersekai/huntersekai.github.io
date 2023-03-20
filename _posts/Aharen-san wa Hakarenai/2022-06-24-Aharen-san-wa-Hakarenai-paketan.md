@@ -18,7 +18,7 @@ Penggaya Lagu: Noromi (OP), KiryuuNii (ED)<br>
 Peramu Video: KiryuuNii (01-09), Azkaxfannx (10-12)<br>
 Penyelaras Akhir: KiryuuNii<br>
 
-{% if page.epsname %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.eps %}E{{ page.eps }} - {{ page.epsname }}{% elsif %}Unduh{% endif %}
 
 ---
 - 900p Paketan: [Acefile](https://acefile.co/f/77725188/a-1-aharen-san-wa-hakarenai-webx264-- 900paac-7z){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/1:/%5BA-1%5D%20Aharen-san%20wa%20Hakarenai%20%5BWEB%5D%5Bx264%20900p%5D%5BAAC%5D.7z){:target="_blank"}<br>
