@@ -3,14 +3,12 @@ layout: default
 comments: true
 ---
 
-<script type="text/javascript" src="/assets/js/replace.js"></script>
-
 <section class="post">
   <h2>{{ page.title }}</h2>
   <p><img src={{ page.coverPhoto }}></p>
   {{ content }}
   <span class="meta"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y.%m.%d - %H:%M" }}</time> &middot;
-    <a href="/kategori/{{ page.categories }}" id="replace">{{ page.categories }}</a><br>
+    <a href="/kategori/{{ page.categories }}">{{ page.categories }}</a><br>
     Laporkan masalah, kritik-saran ke <a href="https://discord.gg/8QeuePwYgV" target="_blank">Discord</a> - <a href="https://fb.me/a1fansub" target="_blank">Facebook</a></span>
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
