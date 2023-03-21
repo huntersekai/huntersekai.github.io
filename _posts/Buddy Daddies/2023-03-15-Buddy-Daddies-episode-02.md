@@ -16,4 +16,4 @@ Sisanya: Noromi<br>
 {% if page.eps %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.epsname %}Unduh{% endif %}
 
 ---
-- 1080p: [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Dingin 2023/[WEB]/[A-1] Buddy Daddies [WEB][FHD E-AC-3]/[A-1] Buddy Daddies - Episode 02 [WEB][FHD E-AC-3][EEB5855D].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/240){:target="_blank"} 
+- 1080p: [Index](https://proyek.a-1ddl.workers.dev/3:/Musim Dingin 2023/[WEB]/[A-1] Buddy Daddies [WEB][FHD E-AC-3]/[A-1] Buddy Daddies - E2 [WEB][FHD E-AC-3][EEB5855D].mkv){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/245){:target="_blank"} 
