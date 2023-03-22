@@ -1,6 +1,6 @@
 ---
 layout: category
-title: takt op.Destiny (BD)
+title: takt op.Destiny
 epsname: takt op.DESTINY
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1028749976693649509/mpv-shot0151.jpg
 ---
@@ -13,6 +13,7 @@ Unduh
 
 ---
   <ul>
+  BD
     {% for post in site.categories['takt-op.Destiny-bd'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}

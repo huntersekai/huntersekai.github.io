@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Yuru Camp△ Movie (WEB)
+title: Yuru Camp△ Movie
 epsname: Film Kemah Santai△
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1042461075947388998/image.png
 ---
@@ -13,6 +13,7 @@ Unduh
 
 ---
   <ul>
+  WEB
     {% for post in site.categories['Yuru-Camp-Movie'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}

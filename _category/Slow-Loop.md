@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Slow Loop (WEB)
+title: Slow Loop
 epsname: SLOW LOOP
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664980547211325/mpv-shot0076.jpg
 ---
@@ -19,6 +19,7 @@ Unduh
 
 ---
   <ul>
+  WEB
     {% for post in site.categories['Slow-Loop'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken (WEB)
+title: Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken
 epsname: Entah Sejak Kapan Diriku Dibuat Jadi Orang Payah oleh Tetangga Bidadari
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1062377000905490453/mpv-shot0183.jpg
 ---
@@ -19,6 +19,7 @@ Penyelaras Akhir: Azkaxfannx, Noromi<br>
 Unduh
 
 ---
+WEB
   <ul>
     {% for post in site.categories['Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>

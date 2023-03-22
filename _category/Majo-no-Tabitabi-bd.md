@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Majo no Tabitabi (BD)
+title: Majo no Tabitabi
 epsname: Penyihir Jalan-Jalan
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664978689130557/mpv-shot0075.jpg
 ---
@@ -15,6 +15,7 @@ Unduh
 
 ---
   <ul>
+  BD
     {% for post in site.categories['Majo-no-Tabitabi-bd'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}

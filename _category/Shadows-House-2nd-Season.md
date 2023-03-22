@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Shadows House 2nd Season (WEB)
+title: Shadows House 2nd Season
 epsname: SHADOWS HOUSE 2ND SEASON
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1023090125556678706/unknown.png
 ---
@@ -18,6 +18,7 @@ Unduh
 
 ---
   <ul>
+  WEB
     {% for post in site.categories['Shadows-House-2nd-Season'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}

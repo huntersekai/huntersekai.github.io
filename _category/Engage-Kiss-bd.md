@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Engage Kiss (BD)
+title: Engage Kiss
 epsname: ENGAGE KISS
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1023966446465863700/mpv-shot0147.jpg
 ---
@@ -24,8 +24,12 @@ Unduh
 
 ---
   <ul>
+  BD
     {% for post in site.categories['Engage-Kiss-bd'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
+  {% endfor %}<br>
+  WEB
+    {% for post in site.categories['Engage-Kiss'] %}
+  <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
-  <li><a class="white pinkhover" href="{{ site.baseurl }}/kategori/Engage-Kiss">Engage Kiss (WEB)</a></li>
   </ul>

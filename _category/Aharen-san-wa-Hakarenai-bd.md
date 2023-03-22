@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Aharen-san wa Hakarenai (BD)
+title: Aharen-san wa Hakarenai
 epsname: Aharen-san yang Tak Terduga
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664980295569478/mpv-shot0107.jpg
 ---
@@ -21,8 +21,12 @@ Unduh
 
 ---
   <ul>
+  BD
     {% for post in site.categories['Aharen-san-wa-Hakarenai-bd'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
+  {% endfor %}<br>
+  WEB
+  {% for post in site.categories['Aharen-san-wa-Hakarenai'] %}
+  <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
-  <li><a class="white pinkhover" href="{{ site.baseurl }}/kategori/Aharen-san-wa-Hakarenai">Aharen-san wa Hakarenai (WEB)</a></li>
   </ul>

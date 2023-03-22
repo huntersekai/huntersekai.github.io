@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Tensai Ouji no Akaji Kokka Saisei Jutsu (WEB)
+title: Tensai Ouji no Akaji Kokka Saisei Jutsu
 epsname: Solusi Pangeran Jenius Atasi Defisit Negara
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664980043898930/mpv-shot0108.jpg
 ---
@@ -21,6 +21,7 @@ Unduh
 
 ---
   <ul>
+  WEB
     {% for post in site.categories['Tensai-Ouji-no-Akaji-Kokka-Saisei-Jutsu'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Futoku no Guild (BD)
+title: Futoku no Guild
 epsname: Serikat Amoral
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1036998735449817198/mpv-shot0164.jpg
 ---
@@ -19,8 +19,11 @@ Unduh
 
 ---
   <ul>
+  BD
     {% for post in site.categories['Futoku-no-Guild-bd'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
+  {% endfor %}<br>
+    {% for post in site.categories['Futoku-no-Guild'] %}
+  <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
-  <li><a class="white pinkhover" href="{{ site.baseurl }}/kategori/Futoku-no-Guild">Futoku no Guild (WEB)</a></li>
   </ul>

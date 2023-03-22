@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Buddy Daddies (WEB)
+title: Buddy Daddies
 epsname: BUDDY DADDIES
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1081619683180028157/image.png
 ---
@@ -14,6 +14,7 @@ Unduh
 
 ---
   <ul>
+  WEB
     {% for post in site.categories['Buddy-Daddies'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}

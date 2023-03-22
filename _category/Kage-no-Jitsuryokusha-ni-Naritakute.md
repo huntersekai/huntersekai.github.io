@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Kage no Jitsuryokusha ni Naritakute! (WEB)
+title: Kage no Jitsuryokusha ni Naritakute!
 epsname: Penguasa Bayangan
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1034804043685568532/mpv-shot0160.jpg
 ---

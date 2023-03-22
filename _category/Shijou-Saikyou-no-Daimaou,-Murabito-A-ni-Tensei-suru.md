@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Shijou Saikyou no Daimaou, Murabito A ni Tensei suru (WEB)
+title: Shijou Saikyou no Daimaou, Murabito A ni Tensei suru
 epsname: Raja Iblis Terhebat Dalam Sejarah, bereinkarnasi Sebagai Warga Desa
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1028749976165171230/mpv-shot0153.jpg
 ---
@@ -18,6 +18,7 @@ Unduh
 
 ---
   <ul>
+  WEB
     {% for post in site.categories['Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}

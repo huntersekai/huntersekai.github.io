@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Kakkou no Iinazuke (BD)
+title: Kakkou no Iinazuke
 epsname: Ikatan Perjodohan
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1028749976408440842/mpv-shot0152.jpg
 ---
@@ -20,8 +20,12 @@ Unduh
 
 ---
   <ul>
+  BD
     {% for post in site.categories['Kakkou-no-Iinazuke-bd'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
+  {% endfor %}<br>
+  WEB
+    {% for post in site.categories['Kakkou-no-Iinazuke'] %}
+  <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
-  <li><a class="white pinkhover" href="{{ site.baseurl }}/kategori/Kakkou-no-Iinazuke">Kakkou no Iinazuke (WEB)</a></li>
   </ul>

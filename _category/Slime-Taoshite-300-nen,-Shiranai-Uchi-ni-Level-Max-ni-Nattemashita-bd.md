@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita (BD)
+title: Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita
 epsname: Membunuh Slime 300 Tahun, Tahu-Tahu Levelku Maksimal
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664979347656774/mpv-shot0110.jpg
 ---
@@ -14,6 +14,7 @@ Unduh
 
 ---
   <ul>
+  BD
     {% for post in site.categories['Slime-Taoshite-300-nen,-Shiranai-Uchi-ni-Level-Max-ni-Nattemashita-bd'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
