@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Scan) - B16
+title: Majo no Tabitabi (Digital) - B16
 eps: 16
 epsname: Kepulangan Amnesia yang Terlupakan
 date: 2023-03-22 20:44:00 +0700
