@@ -17,4 +17,4 @@ Soloyolo: Noromi
 {% if page.epsname %}B{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-[Facebook](https://www.facebook.com/a1fansub/posts/pfbid02nf71i2fW2JyS2XMhnPQ6Bokjm2vL9hxfXmFsB4yYDSY6x7J2741mc6kZ5GkfkJT9l){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/2:/[Elaina] Majo no Tabitabi/[Elaina] Majo no Tabitabi - Bab 10 [Digital].pdf){:target="_blank"} &middot; [MangaDex](https://mangadex.org/chapter/00c30139-8e97-4eca-8a17-4afad565dff0){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/228){:target="_blank"}
+- [Facebook](https://www.facebook.com/a1fansub/posts/pfbid02nf71i2fW2JyS2XMhnPQ6Bokjm2vL9hxfXmFsB4yYDSY6x7J2741mc6kZ5GkfkJT9l){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/2:/[Elaina] Majo no Tabitabi/[Elaina] Majo no Tabitabi - Bab 10 [Digital].pdf){:target="_blank"} &middot; [MangaDex](https://mangadex.org/chapter/00c30139-8e97-4eca-8a17-4afad565dff0){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/228){:target="_blank"}
