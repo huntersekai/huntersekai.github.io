@@ -44,7 +44,7 @@ collections:
     permalink: /:title
   category:
     output: true
-    permalink: /kategori/:title
+    permalink: /arsip/:title
   
 defaults:
   -

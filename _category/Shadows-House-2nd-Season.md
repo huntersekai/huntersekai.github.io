@@ -11,13 +11,17 @@ Penerjemah: Noromi<br>
 Pengecek Terjemahan: Noromi<br>
 Penata Rias: Noromi<br>
 Penggaya Lagu: Noromi<br>
-Peramu Video: Azkaxfannx<br>
+Peramu Video: Azkaxfannx (WEB), Noromi (BD)<br>
 Penyelaras Akhir: Noromi<br>
 
 Unduh
 
 ---
   <ul>
+  BD
+    {% for post in site.categories['Shadows-House-2nd-Season-bd'] %}
+  <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
+  {% endfor %}<br>
   WEB
     {% for post in site.categories['Shadows-House-2nd-Season'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>

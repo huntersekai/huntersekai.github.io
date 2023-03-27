@@ -17,7 +17,7 @@ Penerjemah: Noromi<br>
 Pengecek Terjemahan: KiryuuNii<br>
 Penata Rias: Noromi<br>
 Penggaya Lagu: Noromi<br>
-Peramu Video: Noromi<br>
+Peramu Video: Azkaxfannx (WEB E1-4, E13), Noromi (WEB E5-12)(BD)<br>
 Penyelaras Akhir: KiryuuNii<br>
 
 Unduh
