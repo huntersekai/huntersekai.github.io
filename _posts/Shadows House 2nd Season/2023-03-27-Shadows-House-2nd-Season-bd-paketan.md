@@ -2,7 +2,7 @@
 layout: post
 title: Shadows House 2nd Season (BD) - Paketan
 epsname: SHADOWS HOUSE 2ND SEASON
-date: 2022-03-27 21:55:00+0700
+date: 2023-03-27 22:04:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1089904683818168411/mpv-shot0212.jpg
 category: Shadows-House-2nd-Season-bd
 ---
