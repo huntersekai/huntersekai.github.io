@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Futoku no Guild (TV) - E1
+title: Futoku no Guild - E1
 eps: 1
 date: 2022-10-26 23:45:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1028749975909322832/mpv-shot0149.jpg

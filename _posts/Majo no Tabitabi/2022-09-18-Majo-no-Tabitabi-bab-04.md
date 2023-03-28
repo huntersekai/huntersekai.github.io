@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Digital) - B4
+title: Majo no Tabitabi (Manga) - B4
 eps: 4
 epsname: Penyihir Magang Elaina
 date: 2022-09-10 09:11:00 +0700

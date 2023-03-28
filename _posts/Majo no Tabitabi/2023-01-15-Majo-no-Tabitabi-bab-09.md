@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Digital) -B9
+title: Majo no Tabitabi (Manga) - B9
 eps: 9
 epsname: Mencari Tuan Putri
 date: 2023-01-15 01:15:00 +0700

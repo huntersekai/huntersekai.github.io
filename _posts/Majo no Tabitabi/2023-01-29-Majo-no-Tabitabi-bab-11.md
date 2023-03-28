@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Digital) - B11
+title: Majo no Tabitabi (Manga) - B11
 eps: 11
 epsname: Penguasa dalam Reruntuhan
 date: 2023-01-29 01:29:00 +0700

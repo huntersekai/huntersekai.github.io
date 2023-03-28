@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Scan) - B1
+title: Majo no Tabitabi (Manga) - B1
 eps: 1
 epsname: Negeri Penyihir
 date: 2022-09-09 09:09:00 +0700

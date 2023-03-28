@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Scan) - B13
+title: Majo no Tabitabi (Manga) - B13
 eps: 13
 epsname: Catatan Perjalanan Amnesia yang Terlupakan
 date: 2023-02-18 19:09:00 +0700

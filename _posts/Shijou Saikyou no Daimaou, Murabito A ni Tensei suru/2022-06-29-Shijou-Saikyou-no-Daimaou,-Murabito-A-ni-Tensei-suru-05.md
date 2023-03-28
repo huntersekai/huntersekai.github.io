@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shijou Saikyou no Daimaou, Murabito A ni Tensei suru (WEB) - E5
+title: Shijou Saikyou no Daimaou, Murabito A ni Tensei suru - E5
 eps: 5
 date: 2022-06-29 05:56:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/991476594357055539/mpv-shot0089.jpg

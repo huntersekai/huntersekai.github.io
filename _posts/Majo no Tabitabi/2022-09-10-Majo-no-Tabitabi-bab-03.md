@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Scan) - B3
+title: Majo no Tabitabi (Manga) - B3
 eps: 3
 epsname: Penggalangan Dana
 date: 2022-09-10 09:11:00 +0700

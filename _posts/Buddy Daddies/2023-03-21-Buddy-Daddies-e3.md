@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buddy Daddies (WEB) - E3
+title: Buddy Daddies - E3
 eps: 3
 date: 2023-03-21 13:01:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1087614258319216721/mpv-shot0214.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Digital) - B8.5
+title: Majo no Tabitabi (Manga) - B8.5
 eps: 8.5
 epsname: Waktu Adalah Uang
 date: 2023-01-02 01:02:00 +0700

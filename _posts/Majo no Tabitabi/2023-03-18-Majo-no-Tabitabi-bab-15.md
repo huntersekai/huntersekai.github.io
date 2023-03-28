@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Scan) - B15
+title: Majo no Tabitabi (Manga) - B15
 eps: 15
 epsname: Kota yang Diselimuti Es
 date: 2023-03-18 22:15:00 +0700

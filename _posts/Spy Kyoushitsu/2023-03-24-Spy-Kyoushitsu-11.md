@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spy Kyoushitsu (WEB) - E11
+title: Spy Kyoushitsu - E11
 eps: 11
 date: 2023-03-24 21:42:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1088834353079005285/mpv-shot0216.jpg

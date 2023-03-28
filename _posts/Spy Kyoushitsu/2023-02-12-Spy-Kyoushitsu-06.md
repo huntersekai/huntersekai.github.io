@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spy Kyoushitsu (WEB) - E6
+title: Spy Kyoushitsu - E6
 eps: 6
 date: 2023-02-12 00:51:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1074022603565584455/mpv-shot0200.jpg

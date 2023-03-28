@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Digital) - B10
+title: Majo no Tabitabi (Manga) - B10
 eps: 10 
 epsname: Ada Saatnya Salju Meleleh
 date: 2023-01-22 01:22:00 +0700

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tensai Ouji no Akaji Kokka Saisei Jutsu (WEB) - Paketan
+title: Tensai Ouji no Akaji Kokka Saisei Jutsu - Paketan
 epsname: Solusi Pangeran Jenius Atasi Defisit Negara
 date: 2022-04-03 01:22:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/980279959014756362/jq51Bxob69OAwIsS1H7qTqAlCCh.jpg

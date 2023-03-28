@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buddy Daddies (WEB) - E4
+title: Buddy Daddies - E4
 eps: 4
 date: 2023-03-23 18:30:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1088421852877181009/mpv-shot0215.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Digital) - B5
+title: Majo no Tabitabi (Manga) - B5
 eps: 5
 epsname: Menyimpan Kebahagiaan
 date: 2022-10-23 10:23:00 +0700

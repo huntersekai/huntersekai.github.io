@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Digital) - B11.5
+title: Majo no Tabitabi (Manga) - B11.5
 eps: 11.5
 epsname: Cara Agar Tidak Melupakan Kewajiban
 date: 2023-02-05 02:05:00 +0700

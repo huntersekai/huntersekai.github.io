@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Digital) - B8
+title: Majo no Tabitabi (Manga) - B8
 eps: 8
 epsname: Kerajaan Celestria
 date: 2022-12-25 12:25:00 +0700

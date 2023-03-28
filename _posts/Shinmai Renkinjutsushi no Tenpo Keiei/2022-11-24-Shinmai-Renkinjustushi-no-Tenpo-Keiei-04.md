@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shinmai Renkinjutsushi no Tenpo Keiei (WEB) - E4
+title: Shinmai Renkinjutsushi no Tenpo Keiei - E4
 eps: 4
 date: 2022-11-24 21:34:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/1044239225689739435/image.png

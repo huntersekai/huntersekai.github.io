@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Scan) - B12
+title: Majo no Tabitabi (Manga) - B12
 eps: 12
 epsname: Kota yang Terlupakan
 date: 2023-02-12 09:24:00 +0700

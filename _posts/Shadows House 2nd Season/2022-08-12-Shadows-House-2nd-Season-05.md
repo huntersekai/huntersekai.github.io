@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shadows House 2nd Season (WEB) - E5
+title: Shadows House 2nd Season - E5
 eps: 5
 date: 2022-08-12 06:36:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1005295023727841290/mpv-shot0116.jpg

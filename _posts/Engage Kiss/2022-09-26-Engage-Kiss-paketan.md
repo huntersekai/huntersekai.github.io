@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engage Kiss (WEB) - Paketan
+title: Engage Kiss - Paketan
 epsname: ENGAGE KISS
 date: 2022-09-26 21:38:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1047131346994204764/uwp2612334.jpeg

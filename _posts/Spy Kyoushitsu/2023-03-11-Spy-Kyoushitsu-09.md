@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spy Kyoushitsu (WEB) - E9
+title: Spy Kyoushitsu - E9
 eps: 9
 date: 2023-03-11 20:11:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1084100979613499434/mpv-shot0209.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Scan) - B2
+title: Majo no Tabitabi (Manga) - B2
 eps: 2
 epsname: Negeri Bunga
 date: 2022-09-10 09:10:00 +0700

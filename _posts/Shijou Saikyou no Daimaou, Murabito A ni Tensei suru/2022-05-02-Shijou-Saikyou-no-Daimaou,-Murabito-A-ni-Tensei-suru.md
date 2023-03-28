@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shijou Saikyou no Daimaou, Murabito A ni Tensei suru (WEB) - E1
+title: Shijou Saikyou no Daimaou, Murabito A ni Tensei suru - E1
 eps: 1
 date: 2022-04-09 14:09:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/895646034225688636/962233742108282962/mpv-shot0064.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Digital) - B6
+title: Majo no Tabitabi (Manga) - B6
 eps: 6
 epsname: Kematian yang Damai
 date: 2022-11-21 11:21:00 +0700

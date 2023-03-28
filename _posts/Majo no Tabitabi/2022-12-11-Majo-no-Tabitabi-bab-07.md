@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Digital) - B7
+title: Majo no Tabitabi (Manga) - B7
 eps: 7
 epsname: Sang Ratu Tanpa Rakyat
 date: 2022-12-11 12:11:00 +0700

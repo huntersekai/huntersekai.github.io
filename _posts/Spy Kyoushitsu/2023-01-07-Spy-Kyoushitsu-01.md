@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spy Kyoushitsu (WEB) - E1
+title: Spy Kyoushitsu - E1
 eps: 1
 date: 2023-01-07 15:18:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1061182688276533338/mpv-shot0181.jpg

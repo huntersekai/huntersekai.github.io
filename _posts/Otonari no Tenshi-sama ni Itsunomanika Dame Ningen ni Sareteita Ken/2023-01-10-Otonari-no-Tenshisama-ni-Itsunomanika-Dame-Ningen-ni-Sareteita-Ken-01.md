@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken (WEB) - E1
+title: Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken - E1
 eps: 1
 date: 2023-01-10 21:44:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1062377001194885251/mpv-shot0184.jpg

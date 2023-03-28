@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Majo no Tabitabi (Scan) - B14
+title: Majo no Tabitabi (Manga) - B14
 eps: 14
 epsname: Mengulang Pagi
 date: 2023-03-07 00:53:00 +0700
