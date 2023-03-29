@@ -2,7 +2,7 @@
 layout: post
 title: Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken - E2
 eps: 2
-date: 2023-01-10 21:44:00+0700
+date: 2023-03-29 13:53:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1090523822110822440/mpv-shot0224.jpg
 category: Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken
 epsname: Makan Malam Bersama Bidadari
