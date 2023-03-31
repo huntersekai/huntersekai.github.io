@@ -19,6 +19,7 @@ Unduh
 
 ---
   <ul>
+  WEB
     {% for post in site.categories['Kage-no-Jitsuryokusha-ni-Naritakute'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
