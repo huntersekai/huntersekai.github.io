@@ -22,5 +22,5 @@ Penyelaras Akhir: Azkaxfannx, Noromi<br>
 {% if page.eps %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.epsname %}Unduh{% endif %}
 
 ---
-- 1080p: [AceFile](https://acefile.co/f/97959155/amai-tetangga-bidadari-03-1080paeaa95bb-mkv){:target="_blank"} &middot; [Google Drive](https://drive.google.com/file/d/1QxQuNdyOHsWhvrr1BmGHKxT5-MrX_eD4/view?usp=sharing){:target="_blank"} &middot; [Nya](){:target="_blank"}<br>
-- 720p: [AceFile](https://acefile.co/f/97959154/amai-tetangga-bidadari-03-720p8e1b9ec4-mkv){:target="_blank"} &middot; [Google Drive](https://drive.google.com/file/d/1ANm44LeuaczLL4WJjuU58dFqLI3hTUXp/view?usp=sharing) &middot; [Nyaa]{:target="_blank"}
+- 1080p: [AceFile](https://acefile.co/f/97959155/amai-tetangga-bidadari-03-1080paeaa95bb-mkv){:target="_blank"} &middot; [Google Drive](https://drive.google.com/file/d/1QxQuNdyOHsWhvrr1BmGHKxT5-MrX_eD4/view?usp=sharing){:target="_blank"} &middot; [Nyaa](https://nyaa.si/view/1655281){:target="_blank"}<br>
+- 720p: [AceFile](https://acefile.co/f/97959154/amai-tetangga-bidadari-03-720p8e1b9ec4-mkv){:target="_blank"} &middot; [Google Drive](https://drive.google.com/file/d/1ANm44LeuaczLL4WJjuU58dFqLI3hTUXp/view?usp=sharing) &middot; [Nyaa](https://nyaa.si/view/1655278){:target="_blank"}
