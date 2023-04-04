@@ -30,19 +30,6 @@ Peramu Video
 - **True Believer**<br>
 Penerjemah
 
-### FAQ:
-
-- **Q: Kok nggak rilis-rilis sih? Lama banget.<br>**
-A: Seperti yang sudah dibilang, kami sering telat. Silakan ke penyiar resmi jika kebelet nonton (dukung legal selama tersedia).<br>
-- **Q: Garapannya boleh diupload ulang/diambil isinya(TL, TS, dsb ....) nggak?<br>**
-A: Silakan saja, asal izin ke pengurus di [Peladen Discord](https://discord.gg/8QeuePwYgV){:target="_blank"} atau menyertakan kredit ke kami sebagai tanda kamu menghargai proses pengerjaaan garapan.<br>
-- **Q: Maksudnya TV, WEB, BD, Scan, sama Digital apaan?**<br>
-A: Itu merupakan jenis kualitas video yang dipake, versi BD lebih bagus daripada versi WEB, dan versi WEB lebih bagus daripada versi TV. Urutannya gini: BD > WEB > TV. Terus untuk versi Scan sama Digital itu adalah jenis kualitas gambar yang ada di manga, kualitas dari dua versi itu terlihat sama saja sebenarnya ... cuma yang membedakan dari sumbernya saja, versi scan biasanya dari fan yang melakukan scanning manga sendiri, sementara versi digital dilakukan oleh pihak resmi.
-- **Q: Lah, kalo gitu versi digital juga bisa dibilang scan dong?**<br> 
-A: Ya iya, cuma buat pembeda aja sebenernya, kalo mentahan yang dipake dari pihak resmi. ~~Cuma sini doang yang ngadi" begini.~~
-- **Q: Gimana caraku memberi timbal balik?**<br>
-A: Sekali lagi, cukup bagikan garapan kami, atau jika kamu ingin mengapresiasi lebih, kamu bisa donasi lewat [Trakteer](https://trakteer.id/a-1fansub/tip){:target="_blank"}.
-
 ### Pranala:
 
 - [Database Fansub Indonesia](https://db.silveryasha.web.id/group/225){:target="_blank"}
@@ -57,4 +44,4 @@ A: Sekali lagi, cukup bagikan garapan kami, atau jika kamu ingin mengapresiasi l
 
 
 
-Terakhir Diubah: 2023.3.18
+Terakhir Diubah: 2023.4.4
