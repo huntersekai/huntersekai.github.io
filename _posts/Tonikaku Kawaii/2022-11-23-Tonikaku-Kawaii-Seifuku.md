@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tonikaku Kawaii꞉ Seifuku (WEB)
+title: Tonikaku Kawaii - Seifuku
 epsname: Seragam
 eps: OVA2
 date: 2022-11-23 22:37:00 +0700
