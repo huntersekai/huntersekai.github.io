@@ -3,7 +3,7 @@ layout: post
 title: Majo no Tabitabi (Manga) - B17
 eps: 17
 epsname: Bulan Madu dan Bunga Bakung Kebahagiaan
-date: 2023-04-04 16:11:00 +0700
+date: 2023-04-06 12:39:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1093406884729454612/b17.png
 category: Majo-no-Tabitabi-manga
 ---
