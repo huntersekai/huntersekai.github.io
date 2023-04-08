@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shadows House 2nd Season - E11
+title: Shadows House S2 - E11
 eps: 11
 date: 2022-09-17 20:28:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1020687155196088370/mpv-shot0140.jpg

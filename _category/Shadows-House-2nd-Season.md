@@ -1,7 +1,7 @@
 ---
 layout: category
-title: Shadows House 2nd Season
-epsname: SHADOWS HOUSE 2ND SEASON
+title: Shadows House S2
+epsname: SHADOWS HOUSE S2
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1023090125556678706/unknown.png
 ---
 

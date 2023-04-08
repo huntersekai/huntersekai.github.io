@@ -14,7 +14,7 @@ title: Arsip
 - [Majo no Tabitabi]({{ site.baseurl }}/arsip/Majo-no-Tabitabi)
 - [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken]({{ site.baseurl }}/arsip/Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken)
 - [Shadows House]({{ site.baseurl }}/arsip/Shadows-House)
-- [Shadows House 2nd Season]({{ site.baseurl }}/arsip/Shadows-House-2nd-Season)
+- [Shadows House S2]({{ site.baseurl }}/arsip/Shadows-House-2nd-Season)
 - [Shijou Saikyou no Daimaou, Murabito A ni Tensei suru]({{ site.baseurl }}/arsip/Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru)
 - [Shinmai Renkinjutsushi no Tenpo Keiei]({{ site.baseurl }}/arsip/Shinmai-Renkinjutsushi-no-Tenpo-Keiei)
 - [Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita ]({{ site.baseurl }}/arsip/Slime-Taoshite-300-nen,-Shiranai-Uchi-ni-Level-Max-ni-Nattemashita)
