@@ -11,6 +11,7 @@ title: Arsip
 - [Futoku no Guild]({{ site.baseurl }}/arsip/Futoku-no-Guild)
 - [Kage no Jitsuryokusha ni Naritakute!]({{ site.baseurl }}/arsip/Kage-no-Jitsuryokusha-ni-Naritakute)
 - [Kakkou no Iinazuke]({{ site.baseurl }}/arsip/Kakkou-no-Iinazuke)
+- [Kuma Kuma Kuma Bear S2]({{ site.baseurl }}/arsip/Kuma-Kuma-Kuma-Bear-S2)
 - [Majo no Tabitabi]({{ site.baseurl }}/arsip/Majo-no-Tabitabi)
 - [Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken]({{ site.baseurl }}/arsip/Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken)
 - [Shadows House]({{ site.baseurl }}/arsip/Shadows-House)
