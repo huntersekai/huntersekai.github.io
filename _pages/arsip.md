@@ -24,6 +24,7 @@ title: Arsip
 - [Tensai Ouji no Akaji Kokka Saisei Jutsu]({{ site.baseurl }}/arsip/Tensai-Ouji-no-Akaji-Kokka-Saisei-Jutsu)
 - [Tonikaku Kawaii ]({{ site.baseurl }}/arsip/Tonikaku-Kawaii)
 - [Tonikaku Kawaii꞉ Seifuku]({{ site.baseurl }}/arsip/Tonikaku-Kawaii-Seifuku)
+- [Watashi no Yuri wa Oshigoto Desu!]({{ site.baseurl }}/arsip/Watashi-no-Yuri-wa-Oshigoto-Desu!)
 - [Yuru Camp△ Movie]({{ site.baseurl }}/arsip/Yuru-Camp-Movie)
 
 ### Manga
