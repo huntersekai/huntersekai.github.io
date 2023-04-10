@@ -5,6 +5,7 @@ eps: 12
 date: 2022-09-24 23:44:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1023089941107965992/unknown.png
 category: Shadows-House-2nd-Season
+category-link: Shadows-House-2nd-Season
 epsname: Perlawanan Mereka
 ---
 

@@ -5,6 +5,7 @@ epsname: SHADOWS HOUSE S2
 date: 2023-03-27 22:04:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1089904683818168411/mpv-shot0212.jpg
 category: Shadows-House-2nd-Season-bd
+category-link: Shadows-House-2nd-Season
 ---
 
 Musim kedua dari serial [Shadows House](https://a-1fansub.github.io/Shadows-House-Paketan).

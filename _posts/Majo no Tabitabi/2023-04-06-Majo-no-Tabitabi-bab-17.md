@@ -6,6 +6,7 @@ epsname: Bulan Madu dan Bunga Bakung Kebahagiaan
 date: 2023-04-06 12:39:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1093406884729454612/b17.png
 category: Majo-no-Tabitabi-manga
+category-link: Majo-no-Tabitabi-manga
 ---
 
 Melakukan perjalanan tanpa henti, bertemu berbagai macam orang dari berbagai macam negara, serta mengembara demi memenuhi rasa ingin tahu. Inilah kisah pertemuan dan perpisahan penyihir kelabu Elaina.

@@ -5,6 +5,7 @@ eps: 6
 date: 2022-08-13 13:27:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1007814810752258138/mpv-shot0120.jpg
 category: Shadows-House-2nd-Season
+category-link: Shadows-House-2nd-Season
 epsname: Langit Malam
 ---
 

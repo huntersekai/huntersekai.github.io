@@ -5,6 +5,7 @@ eps: 5
 date: 2023-04-02 16:22:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1092016109181480960/mpv-shot0231.jpg
 category: Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken
+category-link: Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken
 epsname: Hatsumode Bersama Bidadari
 ---
 

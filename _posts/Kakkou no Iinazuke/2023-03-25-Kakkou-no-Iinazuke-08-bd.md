@@ -5,6 +5,7 @@ eps: 8
 date: 2023-03-25 13:51:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/1087733167835844628/image.png
 category: Kakkou-no-Iinazuke-bd
+category-link: Kakkou-no-Iinazuke
 epsname: Kamu Akan Menikah Dengannya?
 ---
 

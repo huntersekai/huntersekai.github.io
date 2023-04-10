@@ -5,6 +5,7 @@ eps: 5
 date: 2022-06-19 14:08:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/991700370826989608/unknown.png
 category: Kakkou-no-Iinazuke
+category-link: Kakkou-no-Iinazuke
 epsname: Kita Bisa Belajar Bersama Setiap Pagi?
 ---
 

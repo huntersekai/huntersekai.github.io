@@ -5,6 +5,7 @@ eps: 1
 date: 2023-03-05 10:10:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1081630518006775928/image.png
 category: Buddy-Daddies
+category-link: Buddy-Daddies
 epsname: Secuil Kue
 ---
 

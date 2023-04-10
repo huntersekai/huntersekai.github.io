@@ -6,6 +6,7 @@ epsname: Mengulang Pagi
 date: 2023-03-07 00:53:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1082358099509252207/0.rawkuma.com.png
 category: Majo-no-Tabitabi-manga
+category-link: Majo-no-Tabitabi-manga
 ---
 
 Melakukan perjalanan tanpa henti, bertemu berbagai macam orang dari berbagai macam negara, serta mengembara demi memenuhi rasa ingin tahu. Inilah kisah pertemuan dan perpisahan penyihir kelabu Elaina.

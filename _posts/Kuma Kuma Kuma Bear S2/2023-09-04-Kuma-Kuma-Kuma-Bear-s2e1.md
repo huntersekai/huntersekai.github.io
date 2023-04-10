@@ -6,6 +6,7 @@ date: 2023-04-09 06:55:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1094407151956537344/mpv-shot0236.jpg
 category: Kuma-Kuma-Kuma-Bear-S2
 epsname: Beruang Pulang ke Rumah
+category-link: Kuma-Kuma-Kuma-Bear-S2
 ---
 
 Musim Kedua Kuma Kuma Kuma Bear.

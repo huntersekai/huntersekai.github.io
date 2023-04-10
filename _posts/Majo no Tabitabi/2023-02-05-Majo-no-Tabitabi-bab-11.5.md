@@ -6,6 +6,7 @@ epsname: Cara Agar Tidak Melupakan Kewajiban
 date: 2023-02-05 02:05:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075786965200416818/bab11.5.jpg
 category: Majo-no-Tabitabi-manga
+category-link: Majo-no-Tabitabi-manga
 ---
 
 Melakukan perjalanan tanpa henti, bertemu berbagai macam orang dari berbagai macam negara, serta mengembara demi memenuhi rasa ingin tahu. Inilah kisah pertemuan dan perpisahan penyihir kelabu Elaina.

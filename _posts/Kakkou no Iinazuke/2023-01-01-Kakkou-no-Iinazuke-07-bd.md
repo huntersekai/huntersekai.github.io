@@ -5,6 +5,7 @@ eps: 7
 date: 2023-01-01 11:56:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/1058663821599854592/image.png
 category: Kakkou-no-Iinazuke-bd
+category-link: Kakkou-no-Iinazuke
 epsname: Apa Takdirku Bisa Berubah?
 ---
 

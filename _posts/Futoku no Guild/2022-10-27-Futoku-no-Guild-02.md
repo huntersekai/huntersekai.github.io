@@ -5,6 +5,7 @@ eps: 2
 date: 2022-10-27 00:08:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1034870993577066506/mpv-shot0155.jpg
 category: Futoku-no-Guild
+category-link: Futoku-no-Guild
 epsname: Kejadian Tak Terduga — Pemburu yang Sekarat
 ---
 

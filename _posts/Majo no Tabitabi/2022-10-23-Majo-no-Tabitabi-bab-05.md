@@ -6,6 +6,7 @@ epsname: Menyimpan Kebahagiaan
 date: 2022-10-23 10:23:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075786845293641840/bab5.png
 category: Majo-no-Tabitabi-manga
+category-link: Majo-no-Tabitabi-manga
 ---
 
 Melakukan perjalanan tanpa henti, bertemu berbagai macam orang dari berbagai macam negara, serta mengembara demi memenuhi rasa ingin tahu. Inilah kisah pertemuan dan perpisahan penyihir kelabu Elaina.

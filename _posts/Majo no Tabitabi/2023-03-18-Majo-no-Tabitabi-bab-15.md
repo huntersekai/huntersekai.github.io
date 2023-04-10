@@ -6,6 +6,7 @@ epsname: Kota yang Diselimuti Es
 date: 2023-03-18 22:15:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1086346593025929258/bab15.1.png
 category: Majo-no-Tabitabi-manga
+category-link: Majo-no-Tabitabi-manga
 ---
 
 Melakukan perjalanan tanpa henti, bertemu berbagai macam orang dari berbagai macam negara, serta mengembara demi memenuhi rasa ingin tahu. Inilah kisah pertemuan dan perpisahan penyihir kelabu Elaina.

@@ -5,6 +5,7 @@ epsname: Solusi Pangeran Jenius Atasi Defisit Negara
 date: 2022-04-03 01:22:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/980279959014756362/jq51Bxob69OAwIsS1H7qTqAlCCh.jpg
 category: Tensai-Ouji-no-Akaji-Kokka-Saisei-Jutsu
+category-link: Tensai-Ouji-no-Akaji-Kokka-Saisei-Jutsu
 ---
 
 Pada suatu hari di suatu negeri nan jauh tinggallah seorang pangeran, seorang pangeran yang jenius.

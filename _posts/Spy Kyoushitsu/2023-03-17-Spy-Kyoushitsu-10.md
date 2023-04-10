@@ -5,6 +5,7 @@ eps: 10
 date: 2023-03-17 20:13:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1086276340451381320/mpv-shot0211.jpg
 category: Spy-Kyoushitsu
+category-link: Spy-Kyoushitsu
 epsname: MISI 《MANAMUSUME》 III
 ---
 

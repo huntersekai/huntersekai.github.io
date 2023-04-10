@@ -6,6 +6,7 @@ epsname: Catatan Perjalanan Amnesia yang Terlupakan
 date: 2023-02-18 19:09:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1076474855190437889/bab13.png
 category: Majo-no-Tabitabi-manga
+category-link: Majo-no-Tabitabi-manga
 ---
 
 Melakukan perjalanan tanpa henti, bertemu berbagai macam orang dari berbagai macam negara, serta mengembara demi memenuhi rasa ingin tahu. Inilah kisah pertemuan dan perpisahan penyihir kelabu Elaina.

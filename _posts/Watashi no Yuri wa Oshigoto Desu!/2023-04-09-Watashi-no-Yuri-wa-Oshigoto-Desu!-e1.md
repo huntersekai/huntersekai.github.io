@@ -5,6 +5,7 @@ eps: 1
 date: 2023-04-09 00:05:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/1094294352668405882/Deai_Watashi_no_Yuri_wa_Oshigoto_-_Episode_01_720p_85E61CE5_001_3616.png
 category: Watashi-no-Yuri-wa-Oshigoto-Desu!
+category-link: Watashi-no-Yuri-wa-Oshigoto-Desu!
 epsname: Selamat Datang di SMA Perempuan Liebe!
 ---
 

@@ -23,8 +23,9 @@ title: Arsip
 - [Spy Kyoushitsu]({{ site.baseurl }}/arsip/Spy-Kyoushitsu)
 - [takt op.Destiny ]({{ site.baseurl }}/arsip/takt-op.Destiny)
 - [Tensai Ouji no Akaji Kokka Saisei Jutsu]({{ site.baseurl }}/arsip/Tensai-Ouji-no-Akaji-Kokka-Saisei-Jutsu)
-- [Tonikaku Kawaii ]({{ site.baseurl }}/arsip/Tonikaku-Kawaii)
+- [Tonikaku Kawaii]({{ site.baseurl }}/arsip/Tonikaku-Kawaii)
 - [Tonikaku Kawaii꞉ Seifuku]({{ site.baseurl }}/arsip/Tonikaku-Kawaii-Seifuku)
+- [Tonikaku Kawaii S2]({{ site.baseurl }}/arsip/Tonikaku-Kawaii-s2)
 - [Watashi no Yuri wa Oshigoto Desu!]({{ site.baseurl }}/arsip/Watashi-no-Yuri-wa-Oshigoto-Desu!)
 - [Yuru Camp△ Movie]({{ site.baseurl }}/arsip/Yuru-Camp-Movie)
 

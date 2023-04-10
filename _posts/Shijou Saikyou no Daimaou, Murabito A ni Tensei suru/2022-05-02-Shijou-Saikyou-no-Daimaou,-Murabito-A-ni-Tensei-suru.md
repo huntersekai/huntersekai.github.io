@@ -5,6 +5,7 @@ eps: 1
 date: 2022-04-09 14:09:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/895646034225688636/962233742108282962/mpv-shot0064.jpg
 category: Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru
+category-link: Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru
 epsname: Warga Desa
 ---
 

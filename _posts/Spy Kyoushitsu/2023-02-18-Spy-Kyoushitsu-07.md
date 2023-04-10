@@ -5,6 +5,7 @@ eps: 7
 date: 2023-02-18 00:50:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1076198525320314931/mpv-shot0202.jpg
 category: Spy-Kyoushitsu
+category-link: Spy-Kyoushitsu
 epsname: Berkas 《Sougen》 Sara
 ---
 

@@ -5,6 +5,7 @@ eps: 3
 date: 2023-01-20 22:12:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1066012043334909952/mpv-shot0189.jpg
 category: Spy-Kyoushitsu
+category-link: Spy-Kyoushitsu
 epsname: MISI 《HANAZONO》III
 ---
 

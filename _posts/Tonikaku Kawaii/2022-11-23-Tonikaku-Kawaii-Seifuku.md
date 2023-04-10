@@ -6,6 +6,7 @@ eps: OVA2
 date: 2022-11-23 22:37:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1044591848473239643/image.png
 category: Tonikaku-Kawaii-Seifuku
+category-link: Tonikaku-Kawaii-Seifuku
 ---
 
 Episode OVA dari [Tonikaku Kawaii](https://a-1.fansub.id/Tonikaku-Kawaii)

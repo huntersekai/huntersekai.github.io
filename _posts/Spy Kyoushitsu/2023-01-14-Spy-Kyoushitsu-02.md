@@ -5,6 +5,7 @@ eps: 2
 date: 2023-01-14 00:55:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1063515390065508352/mpv-shot0187.jpg
 category: Spy-Kyoushitsu
+category-link: Spy-Kyoushitsu
 epsname: MISI 《HANAZONO》II
 ---
 

@@ -5,6 +5,7 @@ eps: 4
 date: 2023-04-02 14:08:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1091981907962634290/mpv-shot0230.jpg
 category: Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken
+category-link: Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken
 epsname: Bidadari Natal
 ---
 

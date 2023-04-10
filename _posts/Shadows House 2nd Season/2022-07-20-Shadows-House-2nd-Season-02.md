@@ -5,6 +5,7 @@ eps: 2
 date: 2022-07-20 02:31:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/997691775911202958/mpv-shot0096.jpg
 category: Shadows-House-2nd-Season
+category-link: Shadows-House-2nd-Season
 epsname: Pembawa Bintang Terhebat
 ---
 
