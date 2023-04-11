@@ -17,4 +17,4 @@ Sisanya: Noromi
 {% if page.eps %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.epsname %}Unduh{% endif %}
 
 ---
-- 1080p: [Index](https://bit.ly/3mnk3g3){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/272){:target="_blank"}
+- 1080p: [Index](https://bit.ly/3mnk3g3){:target="_blank"} &middot; [MiteDrive](https://mitedrive.my.id/view/598YVj){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/272){:target="_blank"}
