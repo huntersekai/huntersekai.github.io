@@ -18,4 +18,4 @@ Soloyolo: Noromi
 {% if page.epsname %}B{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-- [Facebook](https://www.facebook.com/a1fansub/posts/pfbid02Hj8fZQhz7DycNpds9XUUQEM46UrPnVejaxy4RDwbResGo3EVxS3sE6oL7cMM123el){:target="_blank"} &middot; [Index](https://bit.ly/elainabab17){:target="_blank"} &middot; ~~MangaDex~~ &middot; [Telegram](https://t.me/a1fansubweeklies/268){:target="_blank"}
+- [Facebook](https://www.facebook.com/a1fansub/posts/pfbid02Hj8fZQhz7DycNpds9XUUQEM46UrPnVejaxy4RDwbResGo3EVxS3sE6oL7cMM123el){:target="_blank"} &middot; [Index](https://bit.ly/elainabab17){:target="_blank"} &middot; [MangaDex](https://mangadex.org/chapter/7f15dacf-c12e-41c1-9120-3c248f974a4e){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/268){:target="_blank"}
