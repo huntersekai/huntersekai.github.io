@@ -6,7 +6,7 @@ date: 2023-04-20 03:05:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1098321598165028894/mpv-shot0244.jpg
 category: Tonikaku-Kawaii-s2
 category-link: Tonikaku-Kawaii-s2
-epsname: Semua Karenamu
+epsname: Seputar Kebahagiaan
 ---
 
 Musim Kedua [Tonikaku Kawaii]({{ site.baseurl }}/arsip/Tonikaku-Kawaii).
