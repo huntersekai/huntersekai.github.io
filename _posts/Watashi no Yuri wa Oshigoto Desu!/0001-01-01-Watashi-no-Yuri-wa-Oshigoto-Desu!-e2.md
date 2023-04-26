@@ -19,5 +19,5 @@ Penyelaras Waktu, Penyelaras Akhir: Noromi<br>
 {% if page.eps %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.epsname %}Unduh{% endif %}
 
 ---
-- 1080p: ~~PerpusIndo~~<br>
+- 1080p: [PerpusIndo](https://www.perpusindo.info/berkas/PNMD9lW2){:target="_blank"}<br>
 - 720p: [PerpusIndo](https://www.perpusindo.info/berkas/3LozGy87){:target="_blank"}
