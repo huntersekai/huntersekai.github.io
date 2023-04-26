@@ -6,7 +6,7 @@ date: 2023-04-26 16:00:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/1100204503178948659/Deai-raws_Gawean_Urang_Mikat_Awewe_-_Episode_02_001_27630.png
 category: Watashi-no-Yuri-wa-Oshigoto-Desu!
 category-link: Watashi-no-Yuri-wa-Oshigoto-Desu!
-epsname: Selamat Datang di SMA Perempuan Liebe!
+epsname: Maukah Menjadi Pelayan Kafe Bersama?
 ---
 
 Salah satu kafe ala eropa kuno yang punya fetish macam-macam.<br>
