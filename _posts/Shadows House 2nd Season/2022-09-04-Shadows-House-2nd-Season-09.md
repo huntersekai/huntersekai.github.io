@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shadows House S2 - E9
+title: Shadows House S2 - E9 ID Subtitle
 eps: 9
 date: 2022-09-04 22:45:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1015493968890437642/mpv-shot0134.jpg

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Shijou Saikyou no Daimaou, Murabito A ni Tensei suru
+title: The Greatest Demon Lord Is Reborn as a Typical Nobody
 epsname: Raja Iblis Terhebat Dalam Sejarah, bereinkarnasi Sebagai Warga Desa
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1028749976165171230/mpv-shot0153.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita
+title: I've Been Killing Slimes for 300 Years and Maxed Out My Level
 epsname: Membunuh Slime 300 Tahun, Tahu-Tahu Levelku Maksimal
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664979347656774/mpv-shot0110.jpg
 ---

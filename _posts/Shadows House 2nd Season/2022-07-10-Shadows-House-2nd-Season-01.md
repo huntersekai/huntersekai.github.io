@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shadows House S2 - E1
+title: Shadows House S2 - E1 ID Subtitle
 eps: 1
 date: 2022-07-10 15:58:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003988628491472947/mpv-shot0112.jpg

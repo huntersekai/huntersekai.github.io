@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Kakkou no Iinazuke
+title: A Couple of Cuckoos
 epsname: Ikatan Perjodohan
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1028749976408440842/mpv-shot0152.jpg
 ---

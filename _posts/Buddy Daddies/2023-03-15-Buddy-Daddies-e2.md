@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buddy Daddies - E2
+title: Buddy Daddies - E2 ID Subtitle
 eps: 2
 date: 2023-03-15 23:47:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1085601280891814028/mpv-shot0210.jpg

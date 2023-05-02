@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Majo no Tabitabi (Manga)
+title: Wandering Witch&#58 The Journey of Elaina (Manga)
 epsname: Penyihir Pengembara꞉ Petualangan Elaina
 coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075706389319663676/606bb903-f4d9-4f16-b901-53fb79b1c18f1.jpg
 ---

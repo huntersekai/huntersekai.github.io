@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Watashi no Yuri wa Oshigoto Desu!
+title: Yuri Is My Job!
 epsname: Gawean Urang Mikat Awewe! 
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1094295751024201809/mpv-shot0235.jpg
 ---

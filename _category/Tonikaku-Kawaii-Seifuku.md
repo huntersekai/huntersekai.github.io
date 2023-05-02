@@ -1,11 +1,11 @@
 ---
 layout: category
-title: Tonikaku Kawaii꞉ Seifuku
+title: TONIKAWA&#58 Over The Moon For You꞉ Seifuku
 epsname: Pokoknya Imut꞉ Seragam
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1044993731960512562/mpv-shot0168.jpg
 ---
 
-Episode OVA dari [Tonikaku Kawaii](https://a-1.fansub.id/Tonikaku-Kawaii)
+Episode OVA dari [TONIKAWA&#58 Over The Moon For You](https://a-1.fansub.id/Tonikaku-Kawaii)
 
 Soloyolo: Noromi
 

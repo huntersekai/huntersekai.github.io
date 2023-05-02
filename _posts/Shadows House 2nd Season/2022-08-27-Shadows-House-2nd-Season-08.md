@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Shadows House S2 - E8
+title: Shadows House S2 - E8 ID Subtitle
 eps: 8
 date: 2022-08-27 14:30:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1012987687814303794/mpv-shot0130.jpg

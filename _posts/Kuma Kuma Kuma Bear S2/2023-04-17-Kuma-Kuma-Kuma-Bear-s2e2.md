@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kuma Kuma Kuma Bear - S2E2
+title: Kuma Kuma Kuma Bear - S2E2 ID Subtitle
 eps: 2
 date: 2023-04-17 18:09:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1097470924871176252/mpv-shot0241.jpg

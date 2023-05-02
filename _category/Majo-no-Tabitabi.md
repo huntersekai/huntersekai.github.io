@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Majo no Tabitabi
+title: Wandering Witch&#58 The Journey of Elaina
 epsname: Penyihir Jalan-Jalan
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664978689130557/mpv-shot0075.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken
+title: The Angel Next Door Spoils Me Rotten
 epsname: Entah Sejak Kapan Diriku Dibuat Jadi Orang Payah oleh Tetangga Bidadari
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1062377000905490453/mpv-shot0183.jpg
 ---
