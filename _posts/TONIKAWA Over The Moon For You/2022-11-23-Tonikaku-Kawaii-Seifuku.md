@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TONIKAWA&#58 Over The Moon For You - Seifuku ID Subtitle
+title: TONIKAWA&#58 Over The Moon For You ~Uniform~ ID Subtitle
 epsname: Seragam
 eps: OVA2
 date: 2022-11-23 22:37:00 +0700

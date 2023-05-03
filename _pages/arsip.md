@@ -24,7 +24,7 @@ title: Arsip
 - [The Genius Prince's Guide to Raising a Nation Out of Debt]({{ site.baseurl }}/arsip/Tensai-Ouji-no-Akaji-Kokka-Saisei-Jutsu)
 - [The Greatest Demon Lord Is Reborn as a Typical Nobody]({{ site.baseurl }}/arsip/Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru)
 - [TONIKAWA: Over The Moon For You]({{ site.baseurl }}/arsip/Tonikaku-Kawaii)
-- [TONIKAWA: Over The Moon For You꞉ Seifuku]({{ site.baseurl }}/arsip/Tonikaku-Kawaii-Seifuku)
+- [TONIKAWA: Over The Moon For You ~Uniform~]({{ site.baseurl }}/arsip/Tonikaku-Kawaii-Seifuku)
 - [TONIKAWA: Over The Moon For You S2]({{ site.baseurl }}/arsip/Tonikaku-Kawaii-s2)
 - [Wandering Witch: The Journey of Elaina]({{ site.baseurl }}/arsip/Majo-no-Tabitabi)
 - [Yuri Is My Job!]({{ site.baseurl }}/arsip/Watashi-no-Yuri-wa-Oshigoto-Desu!)
