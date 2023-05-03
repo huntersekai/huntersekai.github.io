@@ -12,7 +12,7 @@ title: Arsip
 - [Immoral Guild]({{ site.baseurl }}/arsip/Futoku-no-Guild)
 - [I've Been Killing Slimes for 300 Years and Maxed Out My Level ]({{ site.baseurl }}/arsip/Slime-Taoshite-300-nen,-Shiranai-Uchi-ni-Level-Max-ni-Nattemashita)
 - [Kuma Kuma Kuma Bear S2]({{ site.baseurl }}/arsip/Kuma-Kuma-Kuma-Bear-S2)
-- [Laid-Back Camp△ Movie]({{ site.baseurl }}/arsip/Yuru-Camp-Movie)
+- [Laid-Back Camp△ The Movie]({{ site.baseurl }}/arsip/Yuru-Camp-Movie)
 - [Management of a Novice Alchemist]({{ site.baseurl }}/arsip/Shinmai-Renkinjutsushi-no-Tenpo-Keiei)
 - [Shadows House]({{ site.baseurl }}/arsip/Shadows-House)
 - [Shadows House S2]({{ site.baseurl }}/arsip/Shadows-House-2nd-Season)
