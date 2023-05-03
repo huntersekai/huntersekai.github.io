@@ -9,7 +9,7 @@ category-link: Yuru-Camp-Movie
 ---
 
 Akhirnya BD ....<br>
-Bedanya apa dengan versi WEB? Video-audio lebih bagus daripada versi WEB, perbaikan typo, terjemahan, beberapa scene yang belum di TS, dan masih banyak lagi. Perbedaan paling mencolok versi BD dan WEB ada di [scene ini](https://www.facebook.com/a1fansub/posts/pfbid0rUXkzfLz8LGakG5zXR6wLJBNdRksVpVgAXAKsvS1xpr8nLZ4tvp2DWuKJoLSDxx9l){:target="_blank"} saja, sisanya sih sama aja.
+Bedanya apa dengan versi WEB? Tentunya video-audio lebih bagus daripada versi WEB, perbaikan typo, terjemahan, beberapa scene yang belum di TS, dan masih banyak lagi. Perbedaan paling mencolok versi BD dan WEB ada di [scene ini](https://www.facebook.com/a1fansub/posts/pfbid0rUXkzfLz8LGakG5zXR6wLJBNdRksVpVgAXAKsvS1xpr8nLZ4tvp2DWuKJoLSDxx9l){:target="_blank"} saja, sisanya sih sama aja.
 
 Soloyolo: Noromi
 
