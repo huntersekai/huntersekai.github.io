@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spy Classroom - Paketan ID Subtitle
+title: Spy Classroom - Batch ID Subtitle
 date: 2023-03-31 21:59:00+0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1091373105244553277/mpv-shot0226.jpg
 category: Spy-Kyoushitsu

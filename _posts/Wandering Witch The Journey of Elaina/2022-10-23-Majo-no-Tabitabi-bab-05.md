@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - B5 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina (Manga) - C5 ID Translation
 eps: 5
 epsname: Menyimpan Kebahagiaan
 date: 2022-10-23 10:23:00 +0700

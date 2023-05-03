@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - B11 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina (Manga) - C11 ID Translation
 eps: 11
 epsname: Penguasa dalam Reruntuhan
 date: 2023-01-29 01:29:00 +0700

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - B6 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina (Manga) - C6 ID Translation
 eps: 6
 epsname: Kematian yang Damai
 date: 2022-11-21 11:21:00 +0700

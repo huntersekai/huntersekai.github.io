@@ -1,6 +1,6 @@
 ---
 layout: post
-title: I've Been Killing Slimes for 300 Years and Maxed Out My Level (BD) - Paketan ID Subtitle
+title: I've Been Killing Slimes for 300 Years and Maxed Out My Level (BD) - Batch ID Subtitle
 epsname: Membunuh Slime 300 Tahun, Tahu-Tahu Levelku Maksimal
 date: 2022-03-20 03:29:00 +0700
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/980279959295754250/45feYn6zwVrwLcBtiaLOXzavtOT.jpg

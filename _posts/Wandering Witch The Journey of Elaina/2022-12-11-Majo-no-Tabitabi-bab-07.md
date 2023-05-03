@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - B7 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina (Manga) - C7 ID Translation
 eps: 7
 epsname: Sang Ratu Tanpa Rakyat
 date: 2022-12-11 12:11:00 +0700

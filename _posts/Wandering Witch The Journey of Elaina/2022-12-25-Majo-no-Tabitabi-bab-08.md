@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - B8 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina (Manga) - C8 ID Translation
 eps: 8
 epsname: Kerajaan Celestria
 date: 2022-12-25 12:25:00 +0700

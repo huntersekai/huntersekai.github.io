@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - B4 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina (Manga) - C4 ID Translation
 eps: 4
 epsname: Penyihir Magang Elaina
 date: 2022-09-10 09:11:00 +0700

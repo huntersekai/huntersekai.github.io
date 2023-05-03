@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - B18 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina (Manga) - C18 ID Translation
 eps: 18
 epsname: Bunga Higanbana yang Mekar dalam kesunyian
 date: 2023-04-29 01:16:00 +0700

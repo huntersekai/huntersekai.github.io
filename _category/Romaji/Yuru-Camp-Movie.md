@@ -16,5 +16,9 @@ Unduh
   WEB
     {% for post in site.categories['Yuru-Camp-Movie'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
+  {% endfor %}<br>
+  BD
+    {% for post in site.categories['Yuru-Camp-Movie-bd'] %}
+  <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - B1 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina (Manga) - C1 ID Translation
 eps: 1
 epsname: Negeri Penyihir
 date: 2022-09-09 09:09:00 +0700

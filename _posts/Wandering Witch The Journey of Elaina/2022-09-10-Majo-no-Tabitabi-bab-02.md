@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - B2 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina (Manga) - C2 ID Translation
 eps: 2
 epsname: Negeri Bunga
 date: 2022-09-10 09:10:00 +0700
