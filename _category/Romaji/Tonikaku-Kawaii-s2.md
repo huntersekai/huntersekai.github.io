@@ -5,7 +5,7 @@ epsname: Pokoknya Imut S2
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1094990997127184434/mpv-shot0239.jpg
 ---
 
-Musim Kedua [TONIKAWA&#58 Over The Moon For You]({{ site.baseurl }}/arsip/Tonikaku-Kawaii).
+Musim Kedua [TONIKAWA: Over The Moon For You]({{ site.baseurl }}/arsip/Tonikaku-Kawaii).
 
 Soloyolo: Noromi
 
