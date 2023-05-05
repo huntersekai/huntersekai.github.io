@@ -4,7 +4,7 @@ title: Tentang
 ---
 
 Telah merilis **{{ site.categories | size }}** garapan sejak **24 Desember 2021**.
-Tipe: {{ post.format | size }}
+Tipe: {{ posts.format | size }} {{ posts.epsname | size }}
 
 ### A-1 Fansub?
 
