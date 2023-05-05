@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Spy Classroom - E2 ID Subtitle
 eps: 2
 date: 2023-01-14 00:55:00+0700

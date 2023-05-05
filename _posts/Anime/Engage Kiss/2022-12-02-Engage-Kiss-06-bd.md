@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Engage Kiss (BD) - E6 ID Subtitle
 eps: 6
 date: 2022-12-02 21:46:00+0700

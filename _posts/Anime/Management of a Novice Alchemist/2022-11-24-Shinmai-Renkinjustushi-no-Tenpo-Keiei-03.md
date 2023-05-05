@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Management of a Novice Alchemist - E3 ID Subtitle
 eps: 3
 date: 2022-11-24 21:33:00+0700

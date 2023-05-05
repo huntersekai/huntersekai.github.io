@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Buddy Daddies - E2 ID Subtitle
 eps: 2
 date: 2023-03-15 23:47:00+0700

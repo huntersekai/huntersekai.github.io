@@ -1,6 +1,6 @@
 ---
 layout: post
-type: manga
+format: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C8.5 ID Translation
 eps: 8.5
 epsname: Waktu Adalah Uang

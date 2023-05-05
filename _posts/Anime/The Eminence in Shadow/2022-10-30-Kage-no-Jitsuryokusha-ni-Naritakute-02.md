@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: The Eminence in Shadow - E2 ID Subtitle
 eps: 2
 date: 2022-10-30 14:41:00+0700

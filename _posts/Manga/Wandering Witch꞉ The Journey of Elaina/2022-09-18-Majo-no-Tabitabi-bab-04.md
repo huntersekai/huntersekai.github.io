@@ -1,6 +1,6 @@
 ---
 layout: post
-type: manga
+format: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C4 ID Translation
 eps: 4
 epsname: Penyihir Magang Elaina

@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Spy Classroom - E7 ID Subtitle
 eps: 7
 date: 2023-02-18 00:50:00+0700

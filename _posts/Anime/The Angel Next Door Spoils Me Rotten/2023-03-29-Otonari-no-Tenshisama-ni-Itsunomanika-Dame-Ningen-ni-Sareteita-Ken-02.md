@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: The Angel Next Door Spoils Me Rotten - E2 ID Subtitle
 eps: 2
 date: 2023-03-29 13:53:00+0700

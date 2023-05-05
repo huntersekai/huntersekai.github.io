@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: The Eminence in Shadow - E1 ID Subtitle
 eps: 1
 date: 2022-10-26 19:23:00+0700

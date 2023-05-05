@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: A Couple of Cuckoos (BD) - E7 ID Subtitle
 eps: 7
 date: 2023-01-01 11:56:00+0700

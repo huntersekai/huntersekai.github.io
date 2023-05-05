@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Spy Classroom - E10 ID Subtitle
 eps: 10
 date: 2023-03-17 20:13:00+0700

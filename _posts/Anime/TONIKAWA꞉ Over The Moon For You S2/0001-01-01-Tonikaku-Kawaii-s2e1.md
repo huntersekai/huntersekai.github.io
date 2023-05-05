@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: TONIKAWA&#58 Over The Moon For You - S2E1 ID Subtitle
 eps: 1
 date: 2023-04-10 21:24:00 +0700

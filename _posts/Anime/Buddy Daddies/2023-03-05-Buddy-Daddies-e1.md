@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Buddy Daddies - E1 ID Subtitle
 eps: 1
 date: 2023-03-05 10:10:00+0700

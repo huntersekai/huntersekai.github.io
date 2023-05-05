@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Engage Kiss (BD) - E9 ID Subtitle
 eps: 9
 date: 2022-12-30 00:49:00+0700

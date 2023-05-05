@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Engage Kiss - Batch ID Subtitle
 epsname: ENGAGE KISS
 date: 2022-09-26 21:38:00+0700

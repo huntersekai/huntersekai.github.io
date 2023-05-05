@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Engage Kiss (BD) - E12 ID Subtitle
 eps: 12
 date: 2023-02-24 17:20:00+0700

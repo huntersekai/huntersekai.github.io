@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: TONIKAWA&#58 Over The Moon For You ~Uniform~ ID Subtitle
 epsname: Seragam
 eps: OVA2

@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Shadows House (BD) - Batch ID Subtitle
 epsname: SHADOWS HOUSE
 date: 2022-06-01 19:19:00+0700

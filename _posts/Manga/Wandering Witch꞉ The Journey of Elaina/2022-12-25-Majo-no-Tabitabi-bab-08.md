@@ -1,6 +1,6 @@
 ---
 layout: post
-type: manga
+format: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C8 ID Translation
 eps: 8
 epsname: Kerajaan Celestria

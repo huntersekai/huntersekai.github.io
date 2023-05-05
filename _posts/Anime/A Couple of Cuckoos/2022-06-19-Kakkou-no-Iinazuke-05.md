@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: A Couple of Cuckoos - E5 ID Subtitle
 eps: 5
 date: 2022-06-19 14:08:00+0700

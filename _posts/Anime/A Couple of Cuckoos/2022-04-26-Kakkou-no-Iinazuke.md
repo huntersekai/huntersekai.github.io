@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: A Couple of Cuckoos - E1 ID Subtitle
 eps: 1
 date: 2022-04-26 19:36:00+0700

@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Shadows House - S2 Batch ID Subtitle
 epsname: SHADOWS HOUSE S2
 date: 2022-09-25 23:44:00+0700

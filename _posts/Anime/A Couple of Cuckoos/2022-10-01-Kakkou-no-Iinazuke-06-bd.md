@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: A Couple of Cuckoos (BD) - E6 ID Subtitle
 eps: 6
 date: 2022-10-01 02:55:00+0700

@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Laid-Back Camp△ The Movie ID Subtitle
 epsname: Film Kemah Santai△
 date: 2022-11-17 01:43:00 +0700

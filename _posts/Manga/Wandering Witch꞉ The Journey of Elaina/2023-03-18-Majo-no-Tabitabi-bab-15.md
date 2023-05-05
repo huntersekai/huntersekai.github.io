@@ -1,6 +1,6 @@
 ---
 layout: post
-type: manga
+format: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C15 ID Translation
 eps: 15
 epsname: Kota yang Diselimuti Es

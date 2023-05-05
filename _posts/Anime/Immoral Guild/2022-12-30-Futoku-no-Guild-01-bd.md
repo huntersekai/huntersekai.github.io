@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Futoku no Guild (BD) - E1 ID Subtitle
 eps: 1
 date: 2022-12-30 22:44:00+0700

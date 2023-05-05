@@ -1,6 +1,6 @@
 ---
 layout: post
-type: manga
+format: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C11.5 ID Translation
 eps: 11.5
 epsname: Cara Agar Tidak Melupakan Kewajiban

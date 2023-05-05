@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Spy Classroom - E8 ID Subtitle
 eps: 8
 date: 2023-03-08 20:29:00+0700

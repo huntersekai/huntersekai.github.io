@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Shadows House - S2E6 ID Subtitle
 eps: 6
 date: 2022-08-13 13:27:00+0700

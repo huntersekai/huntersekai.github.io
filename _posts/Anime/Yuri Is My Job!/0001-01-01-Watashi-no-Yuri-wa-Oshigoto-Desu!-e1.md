@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Yuri Is My Job! - E1 ID Subtitle
 eps: 1
 date: 2023-04-09 00:05:00+0700

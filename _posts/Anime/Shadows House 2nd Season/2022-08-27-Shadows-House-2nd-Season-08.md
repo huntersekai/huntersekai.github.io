@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Shadows House - S2E8 ID Subtitle
 eps: 8
 date: 2022-08-27 14:30:00+0700

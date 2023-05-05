@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: The Angel Next Door Spoils Me Rotten - E1 ID Subtitle
 eps: 1
 date: 2023-01-10 21:44:00+0700

@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Wandering Witch&#58 The Journey of Elaina (BD) - Paketan ID Subtitle
 epsname: Penyihir Jalan-Jalan
 date: 2021-12-21 05:40:00 +0700

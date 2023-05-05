@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Laid-Back Camp△ The Movie (BD) ID Subtitle
 epsname: Film Kemah Santai△
 date: 2023-05-03 09:52:00 +0700

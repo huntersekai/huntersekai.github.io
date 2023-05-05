@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Engage Kiss (BD) - E13 ID Subtitle
 eps: 13
 date: 2023-02-24 19:33:00+0700

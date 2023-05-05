@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: A Couple of Cuckoos (BD) - E4 ID Subtitle
 eps: 4
 date: 2022-09-13 01:21:00+0700

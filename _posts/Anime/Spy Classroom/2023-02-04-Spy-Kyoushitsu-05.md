@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Spy Classroom - E5 ID Subtitle
 eps: 5
 date: 2023-02-04 15:23:00+0700

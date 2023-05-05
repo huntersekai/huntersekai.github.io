@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Spy Classroom - E4 ID Subtitle
 eps: 4
 date: 2023-01-29 15:11:00+0700

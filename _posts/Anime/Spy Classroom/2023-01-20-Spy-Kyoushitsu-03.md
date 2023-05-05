@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Spy Classroom - E3 ID Subtitle
 eps: 3
 date: 2023-01-20 22:12:00+0700

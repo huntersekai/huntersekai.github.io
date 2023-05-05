@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: The Angel Next Door Spoils Me Rotten - E3 ID Subtitle
 eps: 3
 date: 2023-04-01 13:14:00+0700

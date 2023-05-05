@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: A Couple of Cuckoos (BD) - E1 ID Subtitle
 eps: 1
 date: 2022-08-28 19:36:00+0700

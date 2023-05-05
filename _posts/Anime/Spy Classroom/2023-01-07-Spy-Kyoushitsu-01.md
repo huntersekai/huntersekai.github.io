@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Spy Classroom - E1 ID Subtitle
 eps: 1
 date: 2023-01-07 15:18:00+0700

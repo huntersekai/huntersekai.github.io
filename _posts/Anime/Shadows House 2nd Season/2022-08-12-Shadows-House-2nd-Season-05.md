@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Shadows House - S2E5 ID Subtitle
 eps: 5
 date: 2022-08-12 06:36:00+0700

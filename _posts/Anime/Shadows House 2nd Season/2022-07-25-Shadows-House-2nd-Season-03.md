@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Shadows House - S2E3 ID Subtitle
 eps: 3
 date: 2022-07-25 18:42:00+0700

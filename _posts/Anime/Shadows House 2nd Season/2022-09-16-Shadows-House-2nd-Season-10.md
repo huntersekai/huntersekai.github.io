@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Shadows House - S2E10 ID Subtitle
 eps: 10
 date: 2022-09-16 22:45:00+0700

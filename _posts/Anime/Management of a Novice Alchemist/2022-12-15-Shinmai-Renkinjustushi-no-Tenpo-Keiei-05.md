@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Management of a Novice Alchemist - E5 ID Subtitle
 eps: 5
 date: 2022-12-15 01:13:00+0700

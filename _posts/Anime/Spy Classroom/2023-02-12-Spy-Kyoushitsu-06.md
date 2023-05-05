@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Spy Classroom - E6 ID Subtitle
 eps: 6
 date: 2023-02-12 00:51:00+0700

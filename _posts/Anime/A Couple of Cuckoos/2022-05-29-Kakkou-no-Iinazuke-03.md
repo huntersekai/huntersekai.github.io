@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: A Couple of Cuckoos - E3 ID Subtitle
 eps: 3
 date: 2022-05-29 05:32:00+0700

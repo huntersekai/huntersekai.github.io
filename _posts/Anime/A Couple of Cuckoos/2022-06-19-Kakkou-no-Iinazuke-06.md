@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: A Couple of Cuckoos - E6 ID Subtitle
 eps: 6
 date: 2022-06-26 19:41:00+0700

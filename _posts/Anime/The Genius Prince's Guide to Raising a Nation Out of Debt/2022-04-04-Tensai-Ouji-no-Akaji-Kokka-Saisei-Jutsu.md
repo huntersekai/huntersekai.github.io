@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: The Genius Prince's Guide to Raising a Nation Out of Debt - Batch ID Subtitle
 epsname: Solusi Pangeran Jenius Atasi Defisit Negara
 date: 2022-04-03 01:22:00 +0700

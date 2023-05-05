@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Buddy Daddies - E4 ID Subtitle
 eps: 4
 date: 2023-03-23 18:30:00+0700

@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Spy Classroom (BD) - E2 ID Subtitle
 eps: 2
 date: 2023-04-18 13:10:00+0700

@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: The Greatest Demon Lord Is Reborn as a Typical Nobody - E1 ID Subtitle
 eps: 1
 date: 2022-04-09 14:09:00 +0700

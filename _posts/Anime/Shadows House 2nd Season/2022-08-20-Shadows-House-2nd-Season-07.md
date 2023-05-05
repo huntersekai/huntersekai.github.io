@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Shadows House - S2E7 ID Subtitle
 eps: 7
 date: 2022-08-20 10:16:00+0700

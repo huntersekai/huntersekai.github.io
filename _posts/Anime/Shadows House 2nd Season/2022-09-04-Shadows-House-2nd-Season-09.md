@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Shadows House - S2E9 ID Subtitle
 eps: 9
 date: 2022-09-04 22:45:00+0700

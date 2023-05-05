@@ -1,6 +1,6 @@
 ---
 layout: post
-type: manga
+format: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C11 ID Translation
 eps: 11
 epsname: Penguasa dalam Reruntuhan

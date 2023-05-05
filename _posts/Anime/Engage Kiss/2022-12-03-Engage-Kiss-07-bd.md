@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Engage Kiss (BD) - E7 ID Subtitle
 eps: 7
 date: 2022-12-03 01:58:00+0700

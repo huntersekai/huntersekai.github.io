@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Aharen-san wa Hakarenai - Batch ID Subtitle
 epsname: Aharen-san yang Tak Terduga
 date: 2022-06-24 03:11:00 +0700

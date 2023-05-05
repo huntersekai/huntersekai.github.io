@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Shadows House - S2E4 ID Subtitle
 eps: 4
 date: 2022-07-31 13:45:00+0700

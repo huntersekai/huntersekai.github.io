@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Kuma Kuma Kuma Bear - S2E1 ID Subtitle
 eps: 1
 date: 2023-04-09 06:55:00+0700

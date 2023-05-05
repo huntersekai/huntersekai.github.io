@@ -1,6 +1,6 @@
 ---
 layout: post
-type: manga
+format: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C9 ID Translation
 eps: 9
 epsname: Mencari Tuan Putri

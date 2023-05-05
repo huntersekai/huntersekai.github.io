@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: TONIKAWA&#58 Over The Moon For You (BD) - Batch ID Subtitle
 epsname: Pokoknya Imut
 date: 2022-02-11 00:32:00 +0700

@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Spy Classroom (BD) - E5 ID Subtitle
 eps: 5
 date: 2023-04-18 13:10:00+0700

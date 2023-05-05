@@ -1,6 +1,6 @@
 ---
 layout: post
-type: manga
+format: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C10 ID Translation
 eps: 10 
 epsname: Ada Saatnya Salju Meleleh

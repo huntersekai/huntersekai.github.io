@@ -1,6 +1,6 @@
 ---
 layout: post
-type: manga
+format: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C6 ID Translation
 eps: 6
 epsname: Kematian yang Damai

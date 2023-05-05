@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Spy Classroom - E9 ID Subtitle
 eps: 9
 date: 2023-03-11 20:11:00+0700

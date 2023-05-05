@@ -1,6 +1,6 @@
 ---
 layout: post
-type: manga
+format: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C18 ID Translation
 eps: 18
 epsname: Bunga Higanbana yang Mekar dalam kesunyian

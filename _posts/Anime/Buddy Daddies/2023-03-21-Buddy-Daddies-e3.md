@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Buddy Daddies - E3 ID Subtitle
 eps: 3
 date: 2023-03-21 13:01:00+0700

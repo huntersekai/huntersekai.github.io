@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Spy Classroom - E12 ID Subtitle
 eps: 12
 date: 2023-03-31 14:30:00+0700

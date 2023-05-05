@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Shadows House - S2E11 ID Subtitle
 eps: 11
 date: 2022-09-17 20:28:00+0700

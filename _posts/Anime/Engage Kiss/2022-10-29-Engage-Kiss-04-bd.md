@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Engage Kiss (BD) - E4 ID Subtitle
 eps: 4
 date: 2022-10-29 18:33:00+0700

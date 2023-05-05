@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: Futoku no Guild - E2 ID Subtitle
 eps: 2
 date: 2022-10-27 00:08:00+0700

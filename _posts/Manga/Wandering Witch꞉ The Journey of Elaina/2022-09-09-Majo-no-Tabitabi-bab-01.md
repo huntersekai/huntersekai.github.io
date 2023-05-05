@@ -1,6 +1,6 @@
 ---
 layout: post
-type: manga
+format: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C1 ID Translation
 eps: 1
 epsname: Negeri Penyihir

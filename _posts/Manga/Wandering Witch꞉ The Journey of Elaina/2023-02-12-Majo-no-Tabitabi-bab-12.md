@@ -1,6 +1,6 @@
 ---
 layout: post
-type: manga
+format: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C12 ID Translation
 eps: 12
 epsname: Kota yang Terlupakan

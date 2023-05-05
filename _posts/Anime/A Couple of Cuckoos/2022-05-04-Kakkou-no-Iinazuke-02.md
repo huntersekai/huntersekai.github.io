@@ -1,6 +1,6 @@
 ---
 layout: post
-type: anime
+format: anime
 title: A Couple of Cuckoos - E2 ID Subtitle
 eps: 2
 date: 2022-05-04 22:12:00+0700
