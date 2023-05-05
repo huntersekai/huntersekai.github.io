@@ -4,7 +4,7 @@ title: Tentang
 ---
 
 Telah merilis **{{ site.categories | size }}** garapan sejak **24 Desember 2021**.
-Tipe: {{ posts.format | size }} {{ posts.epsname | size }}
+Tipe: {{ site.post.format | size }} {{ site.categories.Majo-no-Tabitabi-manga | size }}
 
 ### A-1 Fansub?
 
