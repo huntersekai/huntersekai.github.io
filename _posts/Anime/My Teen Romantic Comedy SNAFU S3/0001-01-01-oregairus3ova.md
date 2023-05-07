@@ -1,0 +1,23 @@
+---
+layout: post
+format: anime
+title: My Teen Romantic Comedy SNAFU - S3 OVA ID Subtitle
+eps: ⠀OVA
+date: 2023-05-08 01:41:00+0700
+coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1104839507511083089/mpv-shot0255.jpg
+category: My-Teen-Romantic-Comedy-SNAFU-S3-OVA
+category-link: My-Teen-Romantic-Comedy-SNAFU-S3-OVA
+epsname: Sebab Masa Muda Belum Berakhir, Masa Remaja akan Terus Berlanjut.
+---
+
+Intinya episode ini buat nyenengin pendukung Yui.
+
+Proyek dadakan banget, alhasil lirik, TS, dan segala macem ya seadanya wkwkkw<br>
+Tapi, timing dialognya udah diperbaiki kok biar enak dibacanya.
+
+Yolo: Noromi
+
+{% if page.eps %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.epsname %}Unduh{% endif %}
+
+---
+- 1080p: [AceFile](https://acefile.co/f/98478354){:target="_blank"} &middot; [Google Drive](https://drive.google.com/file/d/1LrmDxszzQdbAZavvd9HX27E2DDUiG6qO/view?usp=share_link){:target="_blank"} &middot; [Index](https://bit.ly/42vir3o){:target="_blank"} &middot; [MEGA](https://mega.nz/file/ONZSADCQ#CSGtryHbdIIJuydhcmltNn2pF4v3d_U9gL-VmyeE1Q4){:target="_blank"} &middot; [Telegram](https://t.me/a1fansub/252){:target="_blank"}
