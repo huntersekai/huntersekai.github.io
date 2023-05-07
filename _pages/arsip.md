@@ -14,7 +14,7 @@ title: Arsip
 - [Kuma Kuma Kuma Bear S2]({{ site.baseurl }}/arsip/Kuma-Kuma-Kuma-Bear-S2)
 - [Laid-Back Camp△ The Movie]({{ site.baseurl }}/arsip/Yuru-Camp-Movie)
 - [Management of a Novice Alchemist]({{ site.baseurl }}/arsip/Shinmai-Renkinjutsushi-no-Tenpo-Keiei)
-- [My Teen Romantic Comedy SNAFU S3]({{ site.baseurl }}/arsip/oregairus3ova)
+- [My Teen Romantic Comedy SNAFU S3]({{ site.baseurl }}/arsip/My-Teen-Romantic-Comedy-SNAFU-S3-OVA)
 - [Shadows House]({{ site.baseurl }}/arsip/Shadows-House)
 - [Shadows House S2]({{ site.baseurl }}/arsip/Shadows-House-2nd-Season)
 - [Slow Loop]({{ site.baseurl }}/arsip/Slow-Loop)
