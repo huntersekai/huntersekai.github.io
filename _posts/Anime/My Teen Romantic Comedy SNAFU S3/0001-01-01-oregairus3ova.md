@@ -20,4 +20,4 @@ Yolo: Noromi
 {% if page.eps %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.epsname %}Unduh{% endif %}
 
 ---
-- 1080p: [AceFile](https://acefile.co/f/98478738){:target="_blank"} &middot; [Google Drive](https://drive.google.com/file/d/1tnpOfguD7Kh7Y_vitxoQN6hLTs0Yczvu/view?usp=share_link){:target="_blank"} &middot; [Index](https://bit.ly/42vir3o){:target="_blank"} &middot; [MEGA](https://mega.nz/file/KYhlnQgI#2cMxH405Dtj4JBnN7_6qej4Dq5F0lbwQA2GbkXdTD4c){:target="_blank"} &middot; [Telegram](https://t.me/a1fansub/252){:target="_blank"}
+- 1080p: [AceFile](https://acefile.co/f/98483417){:target="_blank"} &middot; [Google Drive](https://drive.google.com/file/d/19WEn3bkXUpK8rdMiepK47HuU2qM7av-H/view?usp=share_link){:target="_blank"} &middot; [Index](https://bit.ly/42vir3o){:target="_blank"} &middot; [MEGA](https://mega.nz/file/GYBxVYpR#i6Az-wfv9y7xLSyAnps0MAnb6RXajbupPVJQL2H7qr8){:target="_blank"} &middot; [Telegram](https://t.me/a1fansub/252){:target="_blank"}
