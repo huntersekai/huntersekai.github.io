@@ -10,7 +10,7 @@ category-link: My-Teen-Romantic-Comedy-SNAFU-S3-OVA
 epsname: Sebab Masa Remaja Belum Berakhir, Masa Muda akan Terus Berlanjut.
 ---
 
-Intinya episode ini buat nyenengin pendukung Yui.
+Sinopsis: Intinya episode ini buat nyenengin pendukung Yui.
 
 Proyek dadakan banget, alhasil lirik, TS, dan segala macem ya seadanya wkwkkw<br>
 Tapi, timing dialognya udah diperbaiki kok biar enak dibacanya.

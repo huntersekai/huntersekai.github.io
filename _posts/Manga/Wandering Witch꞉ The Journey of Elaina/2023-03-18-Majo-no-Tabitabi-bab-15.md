@@ -10,7 +10,7 @@ category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---
 
-Melakukan perjalanan tanpa henti, bertemu berbagai macam orang dari berbagai macam negara, serta mengembara demi memenuhi rasa ingin tahu. Inilah kisah pertemuan dan perpisahan penyihir kelabu Elaina.
+Sinopsis: Melakukan perjalanan tanpa henti, bertemu berbagai macam orang dari berbagai macam negara, serta mengembara demi memenuhi rasa ingin tahu. Inilah kisah pertemuan dan perpisahan penyihir kelabu Elaina.
 
 Tonton anime-nya di sini: [https://a-1.fansub.id/arsip/Majo-no-Tabitabi](https://a-1.fansub.id/arsip/Majo-no-Tabitabi)
 

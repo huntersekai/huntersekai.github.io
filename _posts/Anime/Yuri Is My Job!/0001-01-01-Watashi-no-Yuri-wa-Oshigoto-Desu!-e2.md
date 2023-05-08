@@ -10,7 +10,7 @@ category-link: Watashi-no-Yuri-wa-Oshigoto-Desu!
 epsname: Maukah Menjadi Pelayan Kafe Bersama?
 ---
 
-Salah satu kafe ala eropa kuno yang punya fetish macam-macam.<br>
+Sinopsis: Salah satu kafe ala eropa kuno yang punya fetish macam-macam.<br>
 Misal suka sesama cewek. 
 
 Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek){:target="_blank"}<br>

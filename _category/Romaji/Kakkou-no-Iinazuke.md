@@ -5,7 +5,7 @@ epsname: Ikatan Perjodohan
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1028749976408440842/mpv-shot0152.jpg
 ---
 
-Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.
+Sinopsis: Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.
 
 Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek){:target="_blank"}<br>
 Penerjemah: Leqek<br>

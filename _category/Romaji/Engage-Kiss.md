@@ -5,7 +5,7 @@ epsname: ENGAGE KISS
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1023966446465863700/mpv-shot0147.jpg
 ---
 
-Kota Bayron, kota metropolitan melayang yang dibangun 'tuk mencari sumber energi terbarukan.
+Sinopsis: Kota Bayron, kota metropolitan melayang yang dibangun 'tuk mencari sumber energi terbarukan.
 
 Shuu, pemuda pemilik sekaligus pengelola bisnis kecil di area ini, menjalani hidup dengan sedikit pengeluaran karena kesembronoannya.
 Kisara, gadis yang selalu mengunjungi kantor dan rumahnya Shuu kar'na khawatir dengannya. Dia bekerja sambil menimba ilmu di SMA Kota Bayron, dia bisa melakukan segala hal mulai dari menyelesaikan tugas administrasi sampai tugas rumah tangga.

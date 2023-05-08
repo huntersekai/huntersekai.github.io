@@ -10,7 +10,7 @@ category-link: Engage-Kiss
 epsname: Seorang Pecundang, Iblis, Pria, dan Wanita
 ---
 
-Kota Bayron, kota metropolitan melayang yang dibangun 'tuk mencari sumber energi terbarukan.
+Sinopsis: Kota Bayron, kota metropolitan melayang yang dibangun 'tuk mencari sumber energi terbarukan.
 
 Shuu, pemuda pemilik sekaligus pengelola bisnis kecil di area ini, menjalani hidup dengan sedikit pengeluaran karena kesembronoannya.
 Kisara, gadis yang selalu mengunjungi kantor dan rumahnya Shuu kar'na khawatir dengannya. Dia bekerja sambil menimba ilmu di SMA Kota Bayron, dia bisa melakukan segala hal mulai dari menyelesaikan tugas administrasi sampai tugas rumah tangga.

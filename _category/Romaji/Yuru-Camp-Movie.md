@@ -5,7 +5,7 @@ epsname: Film Kemah Santai△
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1042461075947388998/image.png
 ---
 
-Berniat meramaikan kembali tempat wisata yang ditinggalkan, Rin dan kawan-kawan berencana membangun perkemahan di tempat tersebut, namun ... selebihnya silakan nonton sendiri ketimbang kena spoiler nih sinopsis.
+Sinopsis: Berniat meramaikan kembali tempat wisata yang ditinggalkan, Rin dan kawan-kawan berencana membangun perkemahan di tempat tersebut, namun ... selebihnya silakan nonton sendiri ketimbang kena spoiler nih sinopsis.
 
 Soloyolo: Noromi
 

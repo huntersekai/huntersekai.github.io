@@ -5,7 +5,7 @@ epsname: Lika-Liku Alkemis Non Gelar
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1028749977083723867/mpv-shot0150.jpg
 ---
 
-Setelah menempuh waktu selama lima tahun, impian Sarasa menjadi seorang alkemis akhirnya terwujud.
+Sinopsis: Setelah menempuh waktu selama lima tahun, impian Sarasa menjadi seorang alkemis akhirnya terwujud.
 Selebihnya bisa tonton sendiri
 
 Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek){:target="_blank"}<br>

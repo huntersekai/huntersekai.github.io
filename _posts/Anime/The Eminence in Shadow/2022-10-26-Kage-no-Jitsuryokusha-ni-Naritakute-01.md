@@ -10,7 +10,7 @@ category-link: Kage-no-Jitsuryokusha-ni-Naritakute
 epsname: Teman Kelas Paling Dibenci
 ---
 
-Ketabrak truk, ke isekai punya kekuatan, jadi pemimpin organisasi belakang layar .... Intinya kebelet jadi Penguasa Bayangan.
+Sinopsis: Ketabrak truk, ke isekai punya kekuatan, jadi pemimpin organisasi belakang layar .... Intinya kebelet jadi Penguasa Bayangan.
 
 Penerjemah: KiryuuNii<br>
 Pengecek Terjemahan: Noromi<br>

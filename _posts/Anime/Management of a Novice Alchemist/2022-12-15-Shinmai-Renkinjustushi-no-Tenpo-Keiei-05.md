@@ -10,7 +10,7 @@ category-link: Shinmai-Renkinjutsushi-no-Tenpo-Keiei
 epsname: Yuk, Mengembangkan Produk Baru!
 ---
 
-Setelah menempuh waktu selama lima tahun, impian Sarasa menjadi seorang alkemis akhirnya terwujud.
+Sinopsis: Setelah menempuh waktu selama lima tahun, impian Sarasa menjadi seorang alkemis akhirnya terwujud.
 Selebihnya bisa tonton sendiri
 
 Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek){:target="_blank"}<br>

@@ -10,7 +10,7 @@ category-link: Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ke
 epsname: Hadiah untuk Bidadari
 ---
 
-Fujimiya Amane tinggal seorang diri di apartemen, dan gadis tercantik di sekolah yaitu Shiina Mahiru, tinggal di sebelahnya. Mereka tak pernah bertemu atau pun saling mengobrol, sampai suatu ketika Fujimiya Amane melihat Shiina Mahiru kehujanan, ia pun meminjami Shiina Mahiru payung. Dan dari situ mereka pun ... tonton sendiri kelanjutannya.
+Sinopsis: Fujimiya Amane tinggal seorang diri di apartemen, dan gadis tercantik di sekolah yaitu Shiina Mahiru, tinggal di sebelahnya. Mereka tak pernah bertemu atau pun saling mengobrol, sampai suatu ketika Fujimiya Amane melihat Shiina Mahiru kehujanan, ia pun meminjami Shiina Mahiru payung. Dan dari situ mereka pun ... tonton sendiri kelanjutannya.
 
 Bareng [Amasubs](https://amasubs.xyz/){:target="_blank"}<br>
 Penerjemah: Azkaxfannx<br>

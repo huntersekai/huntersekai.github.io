@@ -10,7 +10,7 @@ category: Tonikaku-Kawaii-Seifuku
 category-link: Tonikaku-Kawaii-Seifuku
 ---
 
-Episode OVA dari [TONIKAWA&#58 Over The Moon For You](https://a-1.fansub.id/Tonikaku-Kawaii)
+Sinopsis: Episode OVA dari [TONIKAWA&#58 Over The Moon For You](https://a-1.fansub.id/Tonikaku-Kawaii)
 
 Soloyolo: Noromi
 

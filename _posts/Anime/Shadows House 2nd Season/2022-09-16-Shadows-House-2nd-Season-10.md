@@ -10,7 +10,7 @@ category-link: Shadows-House-2nd-Season
 epsname: Teman Bernilai
 ---
 
-Musim kedua dari serial [Shadows House](https://a-1fansub.github.io/Shadows-House-Paketan).
+Sinopsis: Musim kedua dari serial [Shadows House](https://a-1fansub.github.io/Shadows-House-Paketan).
 
 Penerjemah: Noromi<br>
 Pengecek Terjemahan: Noromi<br>

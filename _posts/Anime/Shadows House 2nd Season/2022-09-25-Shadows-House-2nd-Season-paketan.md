@@ -9,7 +9,7 @@ category: Shadows-House-2nd-Season
 category-link: Shadows-House-2nd-Season
 ---
 
-Musim kedua dari serial [Shadows House](https://a-1fansub.github.io/Shadows-House-Paketan).
+Sinopsis: Musim kedua dari serial [Shadows House](https://a-1fansub.github.io/Shadows-House-Paketan).
 
 Penerjemah: Noromi<br>
 Pengecek Terjemahan: Noromi<br>

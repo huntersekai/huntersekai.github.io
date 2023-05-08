@@ -5,7 +5,7 @@ epsname: SLOW LOOP
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664980547211325/mpv-shot0076.jpg
 ---
 
-Gugup karena akan bertemu dengan ayah tirinya, Hiyori selalu pergi ke laut. Saat gadis yang penuh rasa ingin tahu, Koharu muncul, Hiyori memutuskan untuk mengajarinya cara mancing, seperti yang ayahnya ajarkan sebelum meninggal. Setelah Koharu muncul, dia bertemu dengannya lagi saat makan malam dengan ayah tirinya. Dan pertemanan mereka berlanjut ke level berikutnya!
+Sinopsis: Gugup karena akan bertemu dengan ayah tirinya, Hiyori selalu pergi ke laut. Saat gadis yang penuh rasa ingin tahu, Koharu muncul, Hiyori memutuskan untuk mengajarinya cara mancing, seperti yang ayahnya ajarkan sebelum meninggal. Setelah Koharu muncul, dia bertemu dengannya lagi saat makan malam dengan ayah tirinya. Dan pertemanan mereka berlanjut ke level berikutnya!
 
 Penerjemah: Noromi<br>
 Pengecek Terjemahan: KiryuuNii<br>

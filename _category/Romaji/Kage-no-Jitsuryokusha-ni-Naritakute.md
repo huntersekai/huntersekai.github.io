@@ -5,7 +5,7 @@ epsname: Penguasa Bayangan
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1034804043685568532/mpv-shot0160.jpg
 ---
 
-Ketabrak truk, ke isekai punya kekuatan, jadi pemimpin organisasi belakang layar .... Intinya kebelet jadi Penguasa Bayangan.
+Sinopsis: Ketabrak truk, ke isekai punya kekuatan, jadi pemimpin organisasi belakang layar .... Intinya kebelet jadi Penguasa Bayangan.
 
 Penerjemah: KiryuuNii<br>
 Pengecek Terjemahan: Noromi<br>

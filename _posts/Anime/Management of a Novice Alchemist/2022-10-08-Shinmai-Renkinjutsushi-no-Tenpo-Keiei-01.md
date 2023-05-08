@@ -10,7 +10,7 @@ category-link: Shinmai-Renkinjutsushi-no-Tenpo-Keiei
 epsname: Aku Punya Toko!
 ---
 
-Setelah menempuh waktu selama lima tahun, impian Sarasa menjadi seorang alkemis akhirnya terwujud.
+Sinopsis: Setelah menempuh waktu selama lima tahun, impian Sarasa menjadi seorang alkemis akhirnya terwujud.
 Selebihnya bisa tonton sendiri
 
 Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek){:target="_blank"}<br>

@@ -10,7 +10,7 @@ epsname: Beruang, Mengawasi Para Murid
 category-link: Kuma-Kuma-Kuma-Bear-S2
 ---
 
-Musim Kedua Kuma Kuma Kuma Bear.
+Sinopsis: Musim Kedua Kuma Kuma Kuma Bear.
 
 Penerjemah: True Believer<br>
 Sisanya: Noromi

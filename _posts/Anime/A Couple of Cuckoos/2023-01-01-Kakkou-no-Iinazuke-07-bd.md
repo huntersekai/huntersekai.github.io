@@ -10,7 +10,7 @@ category-link: Kakkou-no-Iinazuke
 epsname: Apa Takdirku Bisa Berubah?
 ---
 
-Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.
+Sinopsis: Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.
 
 Bareng [Doll Fansub](https://www.perpusindo.info/user/Leqek){:target="_blank"}<br>
 Penerjemah: Leqek<br>

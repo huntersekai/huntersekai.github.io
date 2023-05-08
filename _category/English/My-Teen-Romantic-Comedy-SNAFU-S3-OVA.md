@@ -5,7 +5,7 @@ epsname: Aharen-san yang Tak Terduga
 coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1104839507859218432/mpv-shot0257.jpg
 ---
 
-Intinya episode ini buat nyenengin pendukung Yui.
+Sinopsis: Intinya episode ini buat nyenengin pendukung Yui.
 
 Yolo: Noromi
 
