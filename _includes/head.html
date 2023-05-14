@@ -7,9 +7,9 @@
   <meta name="description" content="{{ page.epsname }}">
 
     <!-- If article has a cover photo -->
-  <meta itemprop="image" content="{% if page.coverPhoto %}{{ page.coverPhoto }}{% elsif site.posts[0].coverPhoto %}{{ site.posts[0].coverPhoto }}{% endif %}">
-  <meta property="og:image" content="{% if page.coverPhoto %}{{ page.coverPhoto }}{% elsif site.posts[0].coverPhoto %}{{ site.posts[0].coverPhoto }}{% endif %}">
-  <meta name="twitter:image" content="{% if page.coverPhoto %}{{ page.coverPhoto }}{% elsif site.posts[0].coverPhoto %}{{ site.posts[0].coverPhoto }}{% endif %}">
+  <meta itemprop="image" content="{% if page.coverPhoto %}{{ page.coverPhoto }}{% elsif site.baseurl %}{{ site.baseurl/banner.png }}{% endif %}">
+  <meta property="og:image" content="{% if page.coverPhoto %}{{ page.coverPhoto }}{% elsif site.baseurl %}{{ site.baseurl/banner.png }}{% endif %}">
+  <meta name="twitter:image" content="{% if page.coverPhoto %}{{ page.coverPhoto }}{% elsif site.baseurl %}{{ site.baseurl/banner.png }}{% endif %}">
   
   <meta itemprop="name" content="{% if page.title %}{{ site.title }}: {{ page.title }}{% elsif site.title %}{{ site.title }}: {{ site.description }}{% endif %}">
   <meta itemprop="description" content="{{ page.epsname }}">
