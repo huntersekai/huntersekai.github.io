@@ -20,4 +20,4 @@ Soloyolo: Noromi
 
 ---
 - Bagian 1: [Facebook](https://www.facebook.com/a1fansub/posts/pfbid0DNLNTgf82BuvLCFgGzzhYRyaq6wBCSJvn7dC2woYxDfUm9DdxpmBA5YWATU2vkZrl){:target="_blank"} &middot; [Index](https://bit.ly/elainabab19-1){:target="_blank"} &middot; ~~MangaDex~~ &middot; [Telegram](https://t.me/a1fansubweeklies/290){:target="_blank"}
-- Bagian 2: ~~Segera~~
+- Bagian 2: _Segera_
