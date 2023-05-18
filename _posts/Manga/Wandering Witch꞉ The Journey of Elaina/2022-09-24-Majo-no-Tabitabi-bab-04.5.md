@@ -1,11 +1,11 @@
 ---
 layout: post
-format: manga
+tags: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C4.5 ID Translation
 eps: 4.5
 epsname: Apa yang Akan Kau Bawa di Pulau Terpencil?
 date: 2022-09-24 09:24:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075786834715627551/bab4.5.png
+coverPhoto: https://cdn.lewd.host/Vh4N82v9.png
 category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---

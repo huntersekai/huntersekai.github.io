@@ -1,11 +1,11 @@
 ---
 layout: post
-format: manga
+tags: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C10 ID Translation
 eps: 10 
 epsname: Ada Saatnya Salju Meleleh
 date: 2023-01-22 01:22:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075786940948942899/bab10.png
+coverPhoto: https://cdn.lewd.host/sGNHVx0u.png
 category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---

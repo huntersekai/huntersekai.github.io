@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Shadows House (BD) - Batch ID Subtitle
 epsname: SHADOWS HOUSE
 date: 2022-06-01 19:19:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/981531071344689182/wp9110852-shadows-house-wallpapers.png
+coverPhoto: https://cdn.lewd.host/f6bXGZNp.png
 category: Shadows-House-bd
 category-link: Shadows-House
 ---

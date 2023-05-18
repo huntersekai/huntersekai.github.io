@@ -2,7 +2,7 @@
 layout: category
 title: Kuma Kuma Kuma Bear S2
 epsname: KUMA KUMA KUMA BEAR S2
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1094407129823187004/mpv-shot0237.jpg
+coverPhoto: https://cdn.lewd.host/lgWmvP7P.jpg
 ---
 
 Sinopsis: Musim Kedua Kuma Kuma Kuma Bear.

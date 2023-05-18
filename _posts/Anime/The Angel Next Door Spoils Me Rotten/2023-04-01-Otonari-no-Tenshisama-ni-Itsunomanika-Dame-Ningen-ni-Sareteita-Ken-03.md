@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: The Angel Next Door Spoils Me Rotten - E3 ID Subtitle
 eps: 3
 date: 2023-04-01 13:14:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1091604934564257902/mpv-shot0229.jpg
+coverPhoto: https://cdn.lewd.host/aUudFs1Z.jpg
 category: Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken
 category-link: Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken
 epsname: Hadiah untuk Bidadari

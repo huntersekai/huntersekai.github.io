@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: I've Been Killing Slimes for 300 Years and Maxed Out My Level (BD) - Batch ID Subtitle
 epsname: Membunuh Slime 300 Tahun, Tahu-Tahu Levelku Maksimal
 date: 2022-03-20 03:29:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/980279959295754250/45feYn6zwVrwLcBtiaLOXzavtOT.jpg
+coverPhoto: https://cdn.lewd.host/uifxN1HN.jpg
 category: Slime-Taoshite-300-nen,-Shiranai-Uchi-ni-Level-Max-ni-Nattemashita-bd
 category-link: Slime-Taoshite-300-nen,-Shiranai-Uchi-ni-Level-Max-ni-Nattemashita
 ---

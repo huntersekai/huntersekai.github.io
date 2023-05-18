@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Shadows House - S2E8 ID Subtitle
 eps: 8
 date: 2022-08-27 14:30:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1012987687814303794/mpv-shot0130.jpg
+coverPhoto: https://cdn.lewd.host/FKwBR73l.jpg
 category: Shadows-House-2nd-Season
 category-link: Shadows-House-2nd-Season
 epsname: Identitas Nona Bergaun

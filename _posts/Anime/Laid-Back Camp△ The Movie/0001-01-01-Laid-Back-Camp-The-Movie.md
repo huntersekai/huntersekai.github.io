@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Laid-Back Camp△ The Movie (BD) ID Subtitle
 epsname: Film Kemah Santai△
 date: 2023-05-03 09:52:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1103066426245390386/mpv-shot0248.jpg
+coverPhoto: https://cdn.lewd.host/W2mGUU2e.jpg
 category: Yuru-Camp-Movie-bd
 category-link: Yuru-Camp-Movie
 ---

@@ -1,11 +1,11 @@
 ---
 layout: post
-format: manga
+tags: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C11.5 ID Translation
 eps: 11.5
 epsname: Cara Agar Tidak Melupakan Kewajiban
 date: 2023-02-05 02:05:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075786965200416818/bab11.5.jpg
+coverPhoto: https://cdn.lewd.host/fWQlrbkt.jpg
 category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---

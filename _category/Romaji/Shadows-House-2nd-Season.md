@@ -2,7 +2,7 @@
 layout: category
 title: Shadows House S2
 epsname: SHADOWS HOUSE S2
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1023090125556678706/unknown.png
+coverPhoto: https://cdn.lewd.host/CpVuBlHG.png
 ---
 
 Sinopsis: Musim kedua dari serial [Shadows House](https://a-1fansub.github.io/Shadows-House-Paketan).

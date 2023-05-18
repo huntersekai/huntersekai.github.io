@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: The Greatest Demon Lord Is Reborn as a Typical Nobody - E3 ID Subtitle
 eps: 3
 date: 2022-05-02 01:43:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/970327267018420255/970393186012901476/mpv-shot0006.jpg
+coverPhoto: https://cdn.lewd.host/2P7g7XmH.jpg
 category: Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru
 category-link: Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru
 epsname: Permainan Raja Iblis

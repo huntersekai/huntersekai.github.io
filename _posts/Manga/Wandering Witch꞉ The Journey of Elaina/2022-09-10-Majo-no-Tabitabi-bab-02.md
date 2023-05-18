@@ -1,11 +1,11 @@
 ---
 layout: post
-format: manga
+tags: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C2 ID Translation
 eps: 2
 epsname: Negeri Bunga
 date: 2022-09-10 09:10:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075786786166546553/bab2.png
+coverPhoto: https://cdn.lewd.host/qADZsEqv.png
 category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---

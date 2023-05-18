@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Engage Kiss (BD) - E2 ID Subtitle
 eps: 2
 date: 2022-10-01 02:53:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/995594463722352690/mpv-shot0094.jpg
+coverPhoto: https://cdn.lewd.host/hGRqlVW3.jpg
 category: Engage-Kiss-bd
 category-link: Engage-Kiss
 epsname: Pulau Idaman

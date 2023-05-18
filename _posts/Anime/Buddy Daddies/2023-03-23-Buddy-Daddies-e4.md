@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Buddy Daddies - E4 ID Subtitle
 eps: 4
 date: 2023-03-23 18:30:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1088421852877181009/mpv-shot0215.jpg
+coverPhoto: https://cdn.lewd.host/DVHfmgcO.jpg
 category: Buddy-Daddies
 category-link: Buddy-Daddies
 epsname: Apa yang Akan Terjadi, Terjadilah

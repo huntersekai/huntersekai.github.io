@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Spy Classroom - E12 ID Subtitle
 eps: 12
 date: 2023-03-31 14:30:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1091263609763549274/mpv-shot0225.jpg
+coverPhoto: https://cdn.lewd.host/8z1yXywF.jpg
 category: Spy-Kyoushitsu
 category-link: Spy-Kyoushitsu
 epsname: Berkas 《Manamusume》 Grete

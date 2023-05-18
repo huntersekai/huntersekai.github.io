@@ -2,7 +2,7 @@
 layout: category
 title: Management of a Novice Alchemist
 epsname: Lika-Liku Alkemis Non Gelar
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1028749977083723867/mpv-shot0150.jpg
+coverPhoto: https://cdn.lewd.host/mt6A4uiD.jpg
 ---
 
 Sinopsis: Setelah menempuh waktu selama lima tahun, impian Sarasa menjadi seorang alkemis akhirnya terwujud.

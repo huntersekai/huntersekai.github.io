@@ -1,11 +1,11 @@
 ---
 layout: post
-format: manga
+tags: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C16 ID Translation
 eps: 16
 epsname: Amnesia Lupa Kampung Halamannya
 date: 2023-04-04 16:11:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1088093915430780948/123.png
+coverPhoto: https://cdn.lewd.host/ameUejPK.png
 category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---

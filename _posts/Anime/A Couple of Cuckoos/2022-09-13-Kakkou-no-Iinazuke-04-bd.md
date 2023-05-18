@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: A Couple of Cuckoos (BD) - E4 ID Subtitle
 eps: 4
 date: 2022-09-13 01:21:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/991700293098160228/unknown.png
+coverPhoto: https://cdn.lewd.host/pnyPU40T.png
 category: Kakkou-no-Iinazuke-bd
 category-link: Kakkou-no-Iinazuke
 epsname: Maukah Kamu Jalan-Jalan Bersamaku?

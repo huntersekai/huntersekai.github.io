@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Engage Kiss (BD) - E3 ID Subtitle
 eps: 3
 date: 2022-10-01 02:54:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/998057540682264728/mpv-shot0097.jpg
+coverPhoto: https://cdn.lewd.host/6V9t7liB.jpg
 category: Engage-Kiss-bd
 category-link: Engage-Kiss
 epsname: Pengorbanan Kecil yang Begitu Kejam

@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Futoku no Guild (BD) - E1 ID Subtitle
 eps: 1
 date: 2022-12-30 22:44:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1058407965054468147/mpv-shot0180.jpg
+coverPhoto: https://cdn.lewd.host/XN2yw7zy.jpg
 category: Futoku-no-Guild-bd
 category-link: Futoku-no-Guild
 epsname: Aku Akan Berusaha yang Terbaik! ｜ Dunia yang Tak Diketahui Para Gadis

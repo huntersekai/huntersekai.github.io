@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Kuma Kuma Kuma Bear - S2E2 ID Subtitle
 eps: 2
 date: 2023-04-17 18:09:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1097470924871176252/mpv-shot0241.jpg
+coverPhoto: https://cdn.lewd.host/lYd3SL09.jpg
 category: Kuma-Kuma-Kuma-Bear-S2
 epsname: Beruang, Mengawasi Para Murid
 category-link: Kuma-Kuma-Kuma-Bear-S2

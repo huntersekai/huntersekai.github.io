@@ -2,7 +2,7 @@
 layout: category
 title: Engage Kiss
 epsname: ENGAGE KISS
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1023966446465863700/mpv-shot0147.jpg
+coverPhoto: https://cdn.lewd.host/A78qicMr.jpg
 ---
 
 Sinopsis: Kota Bayron, kota metropolitan melayang yang dibangun 'tuk mencari sumber energi terbarukan.

@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: TONIKAWA&#58 Over The Moon For You - S2E4 ID Subtitle
 eps: 4
 date: 2023-05-04 01:47:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1103377385392459836/mpv-shot0252.jpg
+coverPhoto: https://cdn.lewd.host/t9BqcwPr.jpg
 category: Tonikaku-Kawaii-s2
 category-link: Tonikaku-Kawaii-s2
 epsname: Bagian yang Bisa Dicium

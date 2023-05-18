@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Management of a Novice Alchemist - E5 ID Subtitle
 eps: 5
 date: 2022-12-15 01:13:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/1052599849700307065/mpv-shot0032.jpg
+coverPhoto: https://cdn.lewd.host/brGyZ48g.jpg
 category: Shinmai-Renkinjutsushi-no-Tenpo-Keiei
 category-link: Shinmai-Renkinjutsushi-no-Tenpo-Keiei
 epsname: Yuk, Mengembangkan Produk Baru!

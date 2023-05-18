@@ -1,11 +1,11 @@
 ---
 layout: post
-format: manga
+tags: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C1 ID Translation
 eps: 1
 epsname: Negeri Penyihir
 date: 2022-09-09 09:09:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075786767459946526/bab1.png
+coverPhoto: https://cdn.lewd.host/uOEbG9uC.png
 category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---

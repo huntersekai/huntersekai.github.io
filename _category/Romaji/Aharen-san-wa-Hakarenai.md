@@ -2,7 +2,7 @@
 layout: category
 title: Aharen-san wa Hakarenai
 epsname: Aharen-san yang Tak Terduga
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664980295569478/mpv-shot0107.jpg
+coverPhoto: https://cdn.lewd.host/YMIJn5fv.jpg
 ---
 
 Sinopsis: Cerita dimulai dari keseharian tak terduga antara si pendiam Aharen Reina dan Raidou yang duduk bersebelahan.

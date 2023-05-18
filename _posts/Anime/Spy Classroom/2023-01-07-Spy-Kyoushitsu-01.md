@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Spy Classroom - E1 ID Subtitle
 eps: 1
 date: 2023-01-07 15:18:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1061182688276533338/mpv-shot0181.jpg
+coverPhoto: https://cdn.lewd.host/o34i3nmH.jpg
 category: Spy-Kyoushitsu
 category-link: Spy-Kyoushitsu
 epsname: MISI 《HANAZONO》I

@@ -2,7 +2,7 @@
 layout: category
 title: A Couple of Cuckoos
 epsname: Ikatan Perjodohan
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1028749976408440842/mpv-shot0152.jpg
+coverPhoto: https://cdn.lewd.host/kNmiDSX5.jpg
 ---
 
 Sinopsis: Kisah seorang muda-mudi yang semasa bayi tertukar gegara salah naro kasur.

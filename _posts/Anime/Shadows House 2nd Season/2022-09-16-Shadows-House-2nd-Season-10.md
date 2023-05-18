@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Shadows House - S2E10 ID Subtitle
 eps: 10
 date: 2022-09-16 22:45:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1018011888375828640/mpv-shot0138.jpg
+coverPhoto: https://cdn.lewd.host/HRj0W3Ok.jpg
 category: Shadows-House-2nd-Season
 category-link: Shadows-House-2nd-Season
 epsname: Teman Bernilai

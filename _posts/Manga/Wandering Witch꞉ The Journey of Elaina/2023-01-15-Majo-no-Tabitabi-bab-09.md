@@ -1,11 +1,11 @@
 ---
 layout: post
-format: manga
+tags: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C9 ID Translation
 eps: 9
 epsname: Mencari Tuan Putri
 date: 2023-01-15 01:15:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075786925794926662/bab9.png
+coverPhoto: https://cdn.lewd.host/LobJnE2o.png
 category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---

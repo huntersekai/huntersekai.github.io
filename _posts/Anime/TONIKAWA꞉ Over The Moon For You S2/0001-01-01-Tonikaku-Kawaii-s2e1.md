@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: TONIKAWA&#58 Over The Moon For You - S2E1 ID Subtitle
 eps: 1
 date: 2023-04-10 21:24:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1094990996867125389/mpv-shot0238.jpg
+coverPhoto: https://cdn.lewd.host/6SVj8BTC.jpg
 category: Tonikaku-Kawaii-s2
 category-link: Tonikaku-Kawaii-s2
 epsname: Semua Karenamu

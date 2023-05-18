@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Shadows House - S2E1 ID Subtitle
 eps: 1
 date: 2022-07-10 15:58:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003988628491472947/mpv-shot0112.jpg
+coverPhoto: https://cdn.lewd.host/W6an6I8L.jpg
 category: Shadows-House-2nd-Season
 category-link: Shadows-House-2nd-Season
 epsname: Mereka yang Beranjak Dewasa

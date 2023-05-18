@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Spy Classroom (BD) - E4 ID Subtitle
 eps: 4
 date: 2023-04-18 13:10:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1069163842417999892/mpv-shot0196.jpg
+coverPhoto: https://cdn.lewd.host/VAYjeZhq.jpg
 category: Spy-Kyoushitsu-bd
 category-link: Spy-Kyoushitsu
 epsname: Berkas 《Gujin》Erna

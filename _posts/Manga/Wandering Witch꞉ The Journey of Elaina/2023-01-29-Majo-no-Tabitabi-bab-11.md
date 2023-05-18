@@ -1,11 +1,11 @@
 ---
 layout: post
-format: manga
+tags: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C11 ID Translation
 eps: 11
 epsname: Penguasa dalam Reruntuhan
 date: 2023-01-29 01:29:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075786952386822234/bab11.png
+coverPhoto: https://cdn.lewd.host/H2bkMbfM.png
 category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---

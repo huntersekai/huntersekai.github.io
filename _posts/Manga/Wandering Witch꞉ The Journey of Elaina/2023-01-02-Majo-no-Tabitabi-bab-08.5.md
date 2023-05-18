@@ -1,11 +1,11 @@
 ---
 layout: post
-format: manga
+tags: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C8.5 ID Translation
 eps: 8.5
 epsname: Waktu Adalah Uang
 date: 2023-01-02 01:02:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075786906962497566/bab8.5.png
+coverPhoto: https://cdn.lewd.host/9Is14HtS.png
 category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---

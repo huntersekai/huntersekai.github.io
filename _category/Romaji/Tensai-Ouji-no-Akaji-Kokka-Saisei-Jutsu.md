@@ -2,7 +2,7 @@
 layout: category
 title: The Genius Prince's Guide to Raising a Nation Out of Debt
 epsname: Solusi Pangeran Jenius Atasi Defisit Negara
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664980043898930/mpv-shot0108.jpg
+coverPhoto: https://cdn.lewd.host/b9mzS0AO.jpg
 ---
 
 Sinopsis: Pada suatu hari di suatu negeri nan jauh tinggallah seorang pangeran, seorang pangeran yang jenius.

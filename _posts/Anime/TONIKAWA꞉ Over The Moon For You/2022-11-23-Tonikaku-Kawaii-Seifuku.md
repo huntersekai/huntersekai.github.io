@@ -1,11 +1,11 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: TONIKAWA&#58 Over The Moon For You ~Uniform~ ID Subtitle
 epsname: Seragam
 eps: OVA2
 date: 2022-11-23 22:37:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1044591848473239643/image.png
+coverPhoto: https://cdn.lewd.host/nzdGtBAP.png
 category: Tonikaku-Kawaii-Seifuku
 category-link: Tonikaku-Kawaii-Seifuku
 ---

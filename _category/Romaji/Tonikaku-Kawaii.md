@@ -2,7 +2,7 @@
 layout: category
 title: TONIKAWA&#58 Over The Moon For You
 epsname: Pokoknya Imut
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664979087593492/mpv-shot0111.jpg
+coverPhoto: https://cdn.lewd.host/guTymkRb.jpg
 ---
 
 Sinopsis: Cerita dimulai dari tokoh protagonis yang memiliki nama dari penulisan "Hoshizora"(Langit berbintang), tapi dipanggil "Nasa". Suatu hari saat ujian masuk SMA, Nasa bertemu dengan gadis cantik bernama Tsukasa. Nasa merasa kalau ini adalah takdir dan mencoba memanggil gadis tersebut, tapi Nasa mengalami nasib buruk tertabrak truk dan tak bisa melanjutkan ujian masuk SMA.<br>

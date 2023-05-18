@@ -1,11 +1,11 @@
 ---
 layout: post
-format: manga
+tags: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C4 ID Translation
 eps: 4
 epsname: Penyihir Magang Elaina
 date: 2022-09-10 09:11:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075786816998875146/bab4.png
+coverPhoto: https://cdn.lewd.host/RUyNPXkX.png
 category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---

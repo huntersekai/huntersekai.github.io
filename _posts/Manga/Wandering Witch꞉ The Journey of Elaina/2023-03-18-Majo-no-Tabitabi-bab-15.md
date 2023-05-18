@@ -1,11 +1,11 @@
 ---
 layout: post
-format: manga
+tags: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C15 ID Translation
 eps: 15
 epsname: Kota yang Diselimuti Es
 date: 2023-03-18 22:15:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1086346593025929258/bab15.1.png
+coverPhoto: https://cdn.lewd.host/ySMMz2gq.png
 category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---

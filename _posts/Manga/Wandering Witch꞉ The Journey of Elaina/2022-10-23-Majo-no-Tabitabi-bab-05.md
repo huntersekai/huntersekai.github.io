@@ -1,11 +1,11 @@
 ---
 layout: post
-format: manga
+tags: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C5 ID Translation
 eps: 5
 epsname: Menyimpan Kebahagiaan
 date: 2022-10-23 10:23:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075786845293641840/bab5.png
+coverPhoto: https://cdn.lewd.host/XM3zqty6.png
 category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---

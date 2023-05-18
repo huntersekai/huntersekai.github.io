@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: The Angel Next Door Spoils Me Rotten - E1 ID Subtitle
 eps: 1
 date: 2023-01-10 21:44:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1062377001194885251/mpv-shot0184.jpg
+coverPhoto: https://cdn.lewd.host/iwYZiDS4.jpg
 category: Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken
 category-link: Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken
 epsname: Bertemu dengan Bidadari

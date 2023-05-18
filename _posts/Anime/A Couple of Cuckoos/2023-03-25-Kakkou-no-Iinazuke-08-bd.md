@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: A Couple of Cuckoos (BD) - E8 ID Subtitle
 eps: 8
 date: 2023-03-25 13:51:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/1087733167835844628/image.png
+coverPhoto: https://cdn.lewd.host/V1i41Z5r.png
 category: Kakkou-no-Iinazuke-bd
 category-link: Kakkou-no-Iinazuke
 epsname: Kamu Akan Menikah Dengannya?

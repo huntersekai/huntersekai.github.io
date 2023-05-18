@@ -1,11 +1,11 @@
 ---
 layout: post
-format: manga
+tags: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C7 ID Translation
 eps: 7
 epsname: Sang Ratu Tanpa Rakyat
 date: 2022-12-11 12:11:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1075786877661106177/bab7.png
+coverPhoto: https://cdn.lewd.host/Ih5niYLZ.png
 category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---

@@ -1,11 +1,11 @@
 ---
 layout: post
-format: manga
+tags: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C13 ID Translation
 eps: 13
 epsname: Catatan Perjalanan Amnesia yang Terlupakan
 date: 2023-02-18 19:09:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/1076474855190437889/bab13.png
+coverPhoto: https://cdn.lewd.host/qFsuBLIN.png
 category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---

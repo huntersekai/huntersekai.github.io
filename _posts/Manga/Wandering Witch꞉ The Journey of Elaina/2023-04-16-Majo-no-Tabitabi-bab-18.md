@@ -1,11 +1,11 @@
 ---
 layout: post
-format: manga
+tags: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C18 ID Translation
 eps: 18
 epsname: Bunga Higanbana yang Mekar dalam kesunyian
 date: 2023-05-15 01:09:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1097102505202155530/b18.png
+coverPhoto: https://cdn.lewd.host/1kbR9GvK.png
 category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---

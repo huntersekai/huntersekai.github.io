@@ -2,7 +2,7 @@
 layout: category
 title: I've Been Killing Slimes for 300 Years and Maxed Out My Level
 epsname: Membunuh Slime 300 Tahun, Tahu-Tahu Levelku Maksimal
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1003664979347656774/mpv-shot0110.jpg
+coverPhoto: https://cdn.lewd.host/Su5tcZih.jpg
 ---
 
 Sinopsis: Setelah sekarat karena kebanyakan kerja di dunia nyata, aku bereinkarnasi menjadi seorang penyihir abadi, aku sudah menikmati hidup santai selama 300 tahun. Suatu saat, tiba-tiba levelku mentok ke level 99! Itu karena aku terlalu banyak membunuh slime, karena itu mata pencaharianku untuk mencari uang dan menambah exp ... rumor tentang ada penyihir level 99 menyebar cepat ke telinga petualang, naga, dan bahkan monster gadis yang memanggilku mama!

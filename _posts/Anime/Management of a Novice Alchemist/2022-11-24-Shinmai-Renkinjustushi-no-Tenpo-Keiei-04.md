@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Management of a Novice Alchemist - E4 ID Subtitle
 eps: 4
 date: 2022-11-24 21:34:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/1044239225689739435/image.png
+coverPhoto: https://cdn.lewd.host/sZgoOBtP.png
 category: Shinmai-Renkinjutsushi-no-Tenpo-Keiei
 category-link: Shinmai-Renkinjutsushi-no-Tenpo-Keiei
 epsname: Mari Hidup Bersama!

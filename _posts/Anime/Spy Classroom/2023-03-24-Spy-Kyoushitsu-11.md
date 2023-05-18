@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Spy Classroom - E11 ID Subtitle
 eps: 11
 date: 2023-03-24 21:42:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1088834353079005285/mpv-shot0216.jpg
+coverPhoto: https://cdn.lewd.host/uOJOPUD5.jpg
 category: Spy-Kyoushitsu
 category-link: Spy-Kyoushitsu
 epsname: MISI 《MANAMUSUME》 IV

@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: The Greatest Demon Lord Is Reborn as a Typical Nobody - E2 ID Subtitle
 eps: 2
 date: 2022-05-01 01:39:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/895646034225688636/964111026083729488/mpv-shot0067.jpg
+coverPhoto: https://cdn.lewd.host/yu0ZItSR.jpg
 category: Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru
 category-link: Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru
 epsname: Bukan Standar

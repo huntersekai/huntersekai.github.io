@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Shadows House - S2E3 ID Subtitle
 eps: 3
 date: 2022-07-25 18:42:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1000275818053910679/mpv-shot0098.jpg
+coverPhoto: https://cdn.lewd.host/celZ93AX.jpg
 category: Shadows-House-2nd-Season
 category-link: Shadows-House-2nd-Season
 epsname: Pembersihan Massal

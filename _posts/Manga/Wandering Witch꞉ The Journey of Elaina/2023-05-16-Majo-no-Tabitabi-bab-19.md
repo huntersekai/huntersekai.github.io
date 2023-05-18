@@ -1,11 +1,11 @@
 ---
 layout: post
-format: manga
+tags: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C19 ID Translation
 eps: 19
 epsname: Malam Hujan Debu Bintang
 date: 2023-05-16 16:55:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1107969448796753940/b19.png
+coverPhoto: https://cdn.lewd.host/WW0MJVKB.png
 category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---

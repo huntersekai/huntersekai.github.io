@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Spy Classroom - E9 ID Subtitle
 eps: 9
 date: 2023-03-11 20:11:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1084100979613499434/mpv-shot0209.jpg
+coverPhoto: https://cdn.lewd.host/n5vrDcNs.jpg
 category: Spy-Kyoushitsu
 category-link: Spy-Kyoushitsu
 epsname: MISI 《MANAMUSUME》 II

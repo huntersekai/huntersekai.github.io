@@ -2,7 +2,7 @@
 layout: category
 title: Yuri Is My Job!
 epsname: Gawean Urang Mikat Awewe! 
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1094295751024201809/mpv-shot0235.jpg
+coverPhoto: https://cdn.lewd.host/CGEZs4RO.jpg
 ---
 
 Sinopsis: Salah satu kafe ala eropa kuno yang punya fetish macam-macam.<br>

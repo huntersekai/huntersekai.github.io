@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Management of a Novice Alchemist - E2 ID Subtitle
 eps: 2
 date: 2022-10-30 21:17:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/902952031923347497/1036280545316982864/mpv-shot0009.jpg
+coverPhoto: https://cdn.lewd.host/KipuULcP.jpg
 category: Shinmai-Renkinjutsushi-no-Tenpo-Keiei
 category-link: Shinmai-Renkinjutsushi-no-Tenpo-Keiei
 epsname: Aku Sampai di Desa!

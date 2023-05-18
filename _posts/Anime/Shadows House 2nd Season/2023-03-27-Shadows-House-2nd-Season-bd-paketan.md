@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Shadows House (BD) - S2 Batch ID Subtitle
 epsname: SHADOWS HOUSE S2
 date: 2023-03-27 22:04:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1089904683818168411/mpv-shot0212.jpg
+coverPhoto: https://cdn.lewd.host/UZfVZc8J.jpg
 category: Shadows-House-2nd-Season-bd
 category-link: Shadows-House-2nd-Season
 ---

@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: Spy Classroom - E5 ID Subtitle
 eps: 5
 date: 2023-02-04 15:23:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1071343996355481630/mpv-shot0197.jpg
+coverPhoto: https://cdn.lewd.host/4EPGWzAU.jpg
 category: Spy-Kyoushitsu
 category-link: Spy-Kyoushitsu
 epsname: Berkas Keseharian 《Tomoshibi》

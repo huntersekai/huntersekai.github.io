@@ -1,10 +1,10 @@
 ---
 layout: post
-format: anime
+tags: anime
 title: A Couple of Cuckoos - E6 ID Subtitle
 eps: 6
 date: 2022-06-26 19:41:00+0700
-coverPhoto: https://cdn.discordapp.com/attachments/852096360287043644/991700398966583306/unknown.png
+coverPhoto: https://cdn.lewd.host/cQr2N2Q6.png
 category: Kakkou-no-Iinazuke
 category-link: Kakkou-no-Iinazuke
 epsname: Kamu Tinggal Sendiri?

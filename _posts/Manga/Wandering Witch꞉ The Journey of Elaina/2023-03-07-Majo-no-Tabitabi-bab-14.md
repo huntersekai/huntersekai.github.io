@@ -1,11 +1,11 @@
 ---
 layout: post
-format: manga
+tags: manga
 title: Wandering Witch&#58 The Journey of Elaina (Manga) - C14 ID Translation
 eps: 14
 epsname: Mengulang Pagi
 date: 2023-03-07 00:53:00 +0700
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1082358099509252207/0.rawkuma.com.png
+coverPhoto: https://cdn.lewd.host/0m2ei3wd.png
 category: Majo-no-Tabitabi-manga
 category-link: Majo-no-Tabitabi-manga
 ---

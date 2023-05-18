@@ -2,7 +2,7 @@
 layout: category
 title: My Teen Romantic Comedy SNAFU S3 OVA
 epsname: Aharen-san yang Tak Terduga
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1104839507859218432/mpv-shot0257.jpg
+coverPhoto: https://cdn.lewd.host/maphw2hZ.jpg
 ---
 
 Sinopsis: Intinya episode ini buat nyenengin pendukung Yui.

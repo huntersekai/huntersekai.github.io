@@ -2,7 +2,7 @@
 layout: category
 title: The Greatest Demon Lord Is Reborn as a Typical Nobody
 epsname: Raja Iblis Terhebat Dalam Sejarah, bereinkarnasi Sebagai Warga Desa
-coverPhoto: https://cdn.discordapp.com/attachments/970663117057032232/1028749976165171230/mpv-shot0153.jpg
+coverPhoto: https://cdn.lewd.host/xW7AB75i.jpg
 ---
 
 Sinopsis: Sebagai perwujudan kekuasaan sepanjang masa, Raja Iblis Varvatos menganggap hidupnya sangat keruh. Dia bertindak dengan sendirinya dan memutuskan bereinkarnasi. Dia menyesuaikan kekuatan sihir dengan sempurna hingga rata-rata. Tapi, dunia yang baru sangatlah lemah, dan membuatnya menjadi yang terhebat lagi! Dilahirkan dengan nama Ard, dia memiliki gadis penjilat bersamanya, keluarga kerajaan memintanya menjadi raja selanjutnya, tapi pelayannya bersikeras membunuhnya?! Tapi, Ard tetap pada pendiriannya, dan tak akan berhenti hingga tujuan utamanya tercapai!
