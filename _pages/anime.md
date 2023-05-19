@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Anime
 epsname: Kumpulan Anime Garapan A-1 Fansub
 ---
