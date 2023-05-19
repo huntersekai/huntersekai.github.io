@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: A Couple of Cuckoos (BD) - E8 ID Subtitle
+title: A Couple of Cuckoos (BD) - S1E8 ID Subtitle
 eps: 8
 date: 2023-03-25 13:51:00+0700
 coverPhoto: https://cdn.lewd.host/V1i41Z5r.png

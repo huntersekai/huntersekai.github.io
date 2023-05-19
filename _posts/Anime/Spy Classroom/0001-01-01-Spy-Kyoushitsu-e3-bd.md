@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Spy Classroom (BD) - E3 ID Subtitle
+title: Spy Classroom (BD) - S1E3 ID Subtitle
 eps: 3
 date: 2023-04-18 13:10:00+0700
 coverPhoto: https://cdn.lewd.host/2D8xepkh.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Management of a Novice Alchemist - E4 ID Subtitle
+title: Management of a Novice Alchemist - S1E4 ID Subtitle
 eps: 4
 date: 2022-11-24 21:34:00+0700
 coverPhoto: https://cdn.lewd.host/sZgoOBtP.png

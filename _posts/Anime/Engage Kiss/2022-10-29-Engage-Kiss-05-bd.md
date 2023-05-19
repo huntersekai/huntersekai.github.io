@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Engage Kiss (BD) - E5 ID Subtitle
+title: Engage Kiss (BD) - S1E5 ID Subtitle
 eps: 5
 date: 2022-10-29 20:58:00+0700
 coverPhoto: https://cdn.lewd.host/rNXoSNgZ.jpg

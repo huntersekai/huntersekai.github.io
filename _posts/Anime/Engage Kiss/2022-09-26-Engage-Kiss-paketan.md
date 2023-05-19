@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Engage Kiss - Batch ID Subtitle
+title: Engage Kiss - S1 Batch ID Subtitle
 epsname: ENGAGE KISS
 date: 2022-09-26 21:38:00+0700
 coverPhoto: https://cdn.lewd.host/myOd6fWa.jpeg

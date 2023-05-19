@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Engage Kiss (BD) - E2 ID Subtitle
+title: Engage Kiss (BD) - S1E2 ID Subtitle
 eps: 2
 date: 2022-10-01 02:53:00+0700
 coverPhoto: https://cdn.lewd.host/hGRqlVW3.jpg

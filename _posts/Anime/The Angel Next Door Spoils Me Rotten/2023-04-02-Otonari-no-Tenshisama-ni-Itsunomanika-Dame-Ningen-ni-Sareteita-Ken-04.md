@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: The Angel Next Door Spoils Me Rotten - E4 ID Subtitle
+title: The Angel Next Door Spoils Me Rotten - S1E4 ID Subtitle
 eps: 4
 date: 2023-04-02 14:08:00+0700
 coverPhoto: https://cdn.lewd.host/ecHoGx07.jpg

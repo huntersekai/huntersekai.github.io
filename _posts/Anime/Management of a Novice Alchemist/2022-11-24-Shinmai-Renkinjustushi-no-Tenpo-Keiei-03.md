@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Management of a Novice Alchemist - E3 ID Subtitle
+title: Management of a Novice Alchemist - S1E3 ID Subtitle
 eps: 3
 date: 2022-11-24 21:33:00+0700
 coverPhoto: https://cdn.lewd.host/JhIDUOP8.png

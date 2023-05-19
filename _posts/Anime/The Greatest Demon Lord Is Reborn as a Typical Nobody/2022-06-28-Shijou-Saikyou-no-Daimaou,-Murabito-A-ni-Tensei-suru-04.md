@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: The Greatest Demon Lord Is Reborn as a Typical Nobody - E4 ID Subtitle
+title: The Greatest Demon Lord Is Reborn as a Typical Nobody - S1E4 ID Subtitle
 eps: 4
 date: 2022-06-28 16:59:00 +0700
 coverPhoto: https://cdn.lewd.host/GpMyzWYr.jpg

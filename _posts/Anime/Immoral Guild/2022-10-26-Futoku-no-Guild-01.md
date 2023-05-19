@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Futoku no Guild - E1 ID Subtitle
+title: Immoral Guild - S1E1 ID Subtitle
 eps: 1
 date: 2022-10-26 23:45:00+0700
 coverPhoto: https://cdn.lewd.host/WdAOUaZR.jpg

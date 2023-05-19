@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Buddy Daddies - E1 ID Subtitle
+title: Buddy Daddies - S1E1 ID Subtitle
 eps: 1
 date: 2023-03-05 10:10:00+0700
 coverPhoto: https://cdn.lewd.host/k5LAzEhZ.png

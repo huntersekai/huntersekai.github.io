@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Management of a Novice Alchemist - E2 ID Subtitle
+title: Management of a Novice Alchemist - S1E2 ID Subtitle
 eps: 2
 date: 2022-10-30 21:17:00+0700
 coverPhoto: https://cdn.lewd.host/KipuULcP.jpg

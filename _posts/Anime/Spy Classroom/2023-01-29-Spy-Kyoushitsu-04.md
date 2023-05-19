@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Spy Classroom - E4 ID Subtitle
+title: Spy Classroom - S1E4 ID Subtitle
 eps: 4
 date: 2023-01-29 15:11:00+0700
 coverPhoto: https://cdn.lewd.host/VAYjeZhq.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: The Angel Next Door Spoils Me Rotten - E5 ID Subtitle
+title: The Angel Next Door Spoils Me Rotten - S1E5 ID Subtitle
 eps: 5
 date: 2023-04-02 16:22:00+0700
 coverPhoto: https://cdn.lewd.host/xqwlEv0Q.jpg

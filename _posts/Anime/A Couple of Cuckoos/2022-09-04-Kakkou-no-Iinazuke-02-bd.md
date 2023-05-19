@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: A Couple of Cuckoos (BD) - E2 ID Subtitle
+title: A Couple of Cuckoos (BD) - S1E2 ID Subtitle
 eps: 2
 date: 2022-09-04 20:02:00+0700
 coverPhoto: https://cdn.lewd.host/bAZ1fBmT.png

@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Spy Classroom (BD) - E6 ID Subtitle
+title: Spy Classroom (BD) - S1E6 ID Subtitle
 eps: 6
 date: 2023-04-18 13:10:00+0700
 coverPhoto: https://cdn.lewd.host/jk4Hz1Ds.jpg

@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Engage Kiss (BD) - E11 ID Subtitle
+title: Engage Kiss (BD) - S1E11 ID Subtitle
 eps: 11
 date: 2023-01-26 20:56:00+0700
 coverPhoto: https://cdn.lewd.host/adLo5W8d.jpg

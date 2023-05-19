@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: The Eminence in Shadow - E1 ID Subtitle
+title: The Eminence in Shadow - S1E1 ID Subtitle
 eps: 1
 date: 2022-10-26 19:23:00+0700
 coverPhoto: https://cdn.lewd.host/c3XrxAVF.jpg

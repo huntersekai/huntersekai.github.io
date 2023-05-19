@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Spy Classroom - Batch ID Subtitle
+title: Spy Classroom - S1 Batch ID Subtitle
 date: 2023-03-31 21:59:00+0700
 coverPhoto: https://cdn.lewd.host/gzRcsfvw.jpg
 category: Spy-Kyoushitsu

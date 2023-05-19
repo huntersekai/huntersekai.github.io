@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Engage Kiss (BD) - E8 ID Subtitle
+title: Engage Kiss (BD) - S1E8 ID Subtitle
 eps: 8
 date: 2022-12-29 20:00:00+0700
 coverPhoto: https://cdn.lewd.host/CNDSb0Tp.jpg

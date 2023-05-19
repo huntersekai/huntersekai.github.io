@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Engage Kiss (BD) - E10 ID Subtitle
+title: Engage Kiss (BD) - S1E10 ID Subtitle
 eps: 10
 date: 2023-01-26 01:41:00+0700
 coverPhoto: https://cdn.lewd.host/QN2KEx7U.jpg

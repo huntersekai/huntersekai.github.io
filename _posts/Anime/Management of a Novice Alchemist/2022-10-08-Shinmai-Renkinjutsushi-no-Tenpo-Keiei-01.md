@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Management of a Novice Alchemist - E1 ID Subtitle
+title: Management of a Novice Alchemist - S1E1 ID Subtitle
 eps: 1
 date: 2022-10-08 21:13:00+0700
 coverPhoto: https://cdn.lewd.host/kw3MPems.png

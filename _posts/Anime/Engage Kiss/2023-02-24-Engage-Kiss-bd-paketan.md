@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Engage Kiss (BD) - Batch ID Subtitle
+title: Engage Kiss (BD) - S1 Batch ID Subtitle
 date: 2023-02-24 19:33:00+0700
 coverPhoto: https://cdn.lewd.host/xcm5aW2u.png
 category: Engage-Kiss-bd

@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Engage Kiss (BD) - E3 ID Subtitle
+title: Engage Kiss (BD) - S1E3 ID Subtitle
 eps: 3
 date: 2022-10-01 02:54:00+0700
 coverPhoto: https://cdn.lewd.host/6V9t7liB.jpg

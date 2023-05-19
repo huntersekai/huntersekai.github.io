@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: A Couple of Cuckoos - E1 ID Subtitle
+title: A Couple of Cuckoos - S1E1 ID Subtitle
 eps: 1
 date: 2022-04-26 19:36:00+0700
 coverPhoto: https://cdn.lewd.host/xVmACQFh.png

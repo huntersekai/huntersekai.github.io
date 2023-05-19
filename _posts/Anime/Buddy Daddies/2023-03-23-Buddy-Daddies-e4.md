@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Buddy Daddies - E4 ID Subtitle
+title: Buddy Daddies - S1E4 ID Subtitle
 eps: 4
 date: 2023-03-23 18:30:00+0700
 coverPhoto: https://cdn.lewd.host/DVHfmgcO.jpg

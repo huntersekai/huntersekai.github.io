@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: The Greatest Demon Lord Is Reborn as a Typical Nobody - E2 ID Subtitle
+title: The Greatest Demon Lord Is Reborn as a Typical Nobody - S1E2 ID Subtitle
 eps: 2
 date: 2022-05-01 01:39:00 +0700
 coverPhoto: https://cdn.lewd.host/yu0ZItSR.jpg
