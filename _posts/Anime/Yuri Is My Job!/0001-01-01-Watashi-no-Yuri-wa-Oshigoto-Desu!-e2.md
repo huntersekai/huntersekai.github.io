@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: anime
-title: Yuri Is My Job! - E2 ID Subtitle
+title: Yuri Is My Job! - S1E2 ID Subtitle
 eps: 2
 date: 2023-04-26 16:00:00+0700
 coverPhoto: https://cdn.lewd.host/Mn13VlOI.png
