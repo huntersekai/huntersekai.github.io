@@ -19,5 +19,5 @@ Soloyolo: Noromi
 {% if page.epsname %}B{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
-- Bagian 1: [Facebook](https://www.facebook.com/a1fansub/posts/pfbid0DNLNTgf82BuvLCFgGzzhYRyaq6wBCSJvn7dC2woYxDfUm9DdxpmBA5YWATU2vkZrl){:target="_blank"} &middot; [Index](https://bit.ly/elainabab19-1){:target="_blank"} &middot; ~~MangaDex~~ &middot; [Telegram](https://t.me/a1fansubweeklies/290){:target="_blank"}
+- Bagian 1: [Facebook](https://www.facebook.com/a1fansub/posts/pfbid0DNLNTgf82BuvLCFgGzzhYRyaq6wBCSJvn7dC2woYxDfUm9DdxpmBA5YWATU2vkZrl){:target="_blank"} &middot; [Index](https://bit.ly/elainabab19-1){:target="_blank"} &middot; [MangaDex](https://mangadex.org/chapter/9cfc2d8c-9d4b-4e3a-9e56-470e31255d2c){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/290){:target="_blank"}
 - Bagian 2: _Segera_
