@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: manga
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - C17 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina - C17 ID Translation
 eps: 17
 epsname: Bulan Madu dan Bunga Bakung Kebahagiaan
 date: 2023-04-06 12:39:00 +0700

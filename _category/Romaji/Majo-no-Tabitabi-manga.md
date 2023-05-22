@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Wandering Witch&#58 The Journey of Elaina (Manga)
+title: Wandering Witch&#58 The Journey of Elaina
 epsname: Penyihir Pengembara꞉ Petualangan Elaina
 coverPhoto: https://cdn.lewd.host/XFE3bNSR.jpg
 ---

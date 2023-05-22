@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: manga
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - C14 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina - C14 ID Translation
 eps: 14
 epsname: Mengulang Pagi
 date: 2023-03-07 00:53:00 +0700

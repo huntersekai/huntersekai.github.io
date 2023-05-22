@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: manga
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - C16 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina - C16 ID Translation
 eps: 16
 epsname: Amnesia Lupa Kampung Halamannya
 date: 2023-04-04 16:11:00 +0700

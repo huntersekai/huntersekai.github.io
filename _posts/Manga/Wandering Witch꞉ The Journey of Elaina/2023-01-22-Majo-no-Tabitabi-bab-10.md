@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: manga
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - C10 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina - C10 ID Translation
 eps: 10 
 epsname: Ada Saatnya Salju Meleleh
 date: 2023-01-22 01:22:00 +0700

@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: manga
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - C4.5 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina - C4.5 ID Translation
 eps: 4.5
 epsname: Apa yang Akan Kau Bawa di Pulau Terpencil?
 date: 2022-09-24 09:24:00 +0700

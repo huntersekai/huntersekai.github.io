@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: manga
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - C3 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina - C3 ID Translation
 eps: 3
 epsname: Penggalangan Dana
 date: 2022-09-10 09:11:00 +0700

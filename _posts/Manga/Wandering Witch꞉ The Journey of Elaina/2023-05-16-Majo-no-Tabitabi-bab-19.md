@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: manga
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - C19 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina - C19 ID Translation
 eps: 19
 epsname: Malam Hujan Debu Bintang
 date: 2023-05-16 16:55:00 +0700

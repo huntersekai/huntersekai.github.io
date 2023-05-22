@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: manga
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - C13 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina - C13 ID Translation
 eps: 13
 epsname: Catatan Perjalanan Amnesia yang Terlupakan
 date: 2023-02-18 19:09:00 +0700

@@ -1,7 +1,7 @@
 ---
 layout: post
 tags: manga
-title: Wandering Witch&#58 The Journey of Elaina (Manga) - C9 ID Translation
+title: Wandering Witch&#58 The Journey of Elaina - C9 ID Translation
 eps: 9
 epsname: Mencari Tuan Putri
 date: 2023-01-15 01:15:00 +0700
