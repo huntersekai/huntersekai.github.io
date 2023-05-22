@@ -16,7 +16,7 @@ Tonton anime-nya di sini: [https://a-1.fansub.id/arsip/Majo-no-Tabitabi](https:/
 
 Soloyolo: Noromi
 
-{% if page.epsname %}B{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}C{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - [Facebook](https://www.facebook.com/a1fansub/posts/pfbid08XPaT4BjEFXtYxG9y4RAAe3ek9zL3yfZ5N31HjaC35WBoVsQhFb2TuCX23rxhmGsl){:target="_blank"} &middot; [Index](https://proyek.a-1ddl.workers.dev/2:/[Elaina] Wandering Witch&#58 The Journey of Elaina/[Elaina] Wandering Witch&#58 The Journey of Elaina - Bab 11.5 [Digital].pdf){:target="_blank"} &middot; [MangaDex](https://mangadex.org/chapter/96bc5207-a2d8-4efe-98fb-628392f779ff){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/230){:target="_blank"}

@@ -33,4 +33,5 @@ title: Arsip
 
 ### Manga
 
+- [Shimotsuki-san Likes the Mob ~This Shy Girl is Only Sweet Towards Me~]({{ site.baseurl }}/arsip/Shimotsuki-san-Likes-the-Mob)
 - [Wandering Witch: The Journey of Elaina]({{ site.baseurl }}/arsip/Majo-no-Tabitabi-manga)

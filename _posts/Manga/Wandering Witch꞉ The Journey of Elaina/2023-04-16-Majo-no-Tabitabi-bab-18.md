@@ -16,7 +16,7 @@ Tonton anime-nya di sini: [https://a-1.fansub.id/arsip/Majo-no-Tabitabi](https:/
 
 Soloyolo: Noromi
 
-{% if page.epsname %}B{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
+{% if page.epsname %}C{{ page.eps }} - {{ page.epsname }}{% elsif page.eps %}Unduh{% endif %}
 
 ---
 - Bagian 1: [Facebook](https://www.facebook.com/a1fansub/posts/pfbid0mF2VB3DysvQmMd1GddHK7xA1iSCxj2NJPSKFYxJrQ31KM6T4sWAUwN7ddeZJWgADl){:target="_blank"} &middot; [Index](https://bit.ly/elainabab18-1v2){:target="_blank"} &middot; [MangaDex](https://mangadex.org/chapter/6f62a10a-85bd-4160-abdd-e2de5162b3f5){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/286){:target="_blank"}

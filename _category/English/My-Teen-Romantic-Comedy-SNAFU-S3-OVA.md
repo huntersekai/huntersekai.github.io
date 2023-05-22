@@ -1,7 +1,7 @@
 ---
 layout: category
 title: My Teen Romantic Comedy SNAFU S3 OVA
-epsname: Aharen-san yang Tak Terduga
+epsname: Kisah Komedi-Romantis Masa Mudaku Ternyata Salah Kaprah S3 OVA
 coverPhoto: https://cdn.lewd.host/maphw2hZ.jpg
 ---
 
