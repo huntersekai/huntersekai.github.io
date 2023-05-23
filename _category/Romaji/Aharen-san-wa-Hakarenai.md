@@ -22,11 +22,11 @@ Unduh
 ---
   <ul>
   BD
-    {% for post in site.categories['Aharen-san yang Tak Terduga'] %}
+    {% for post in site.categories['Aharen-san yang Tak Terduga BD'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}<br>
   WEB
-  {% for post in site.categories['Aharen-san-wa-Hakarenai'] %}
+  {% for post in site.categories['Aharen-san yang Tak Terduga'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>
