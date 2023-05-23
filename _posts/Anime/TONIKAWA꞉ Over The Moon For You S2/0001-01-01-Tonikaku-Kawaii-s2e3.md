@@ -5,7 +5,7 @@ title: TONIKAWA&#58 Over The Moon For You - S2E3 ID Subtitle
 eps: 3
 date: 2023-04-26 17:27:00 +0700
 coverPhoto: https://cdn.lewd.host/rcUOuFLZ.jpg
-category: TONIKAWA&#58 Over The Moon For You S2
+category: Pokoknya Imut S2
 category-link: Tonikaku-Kawaii-s2
 epsname: Sebelum Kembang Api Meledak
 ---

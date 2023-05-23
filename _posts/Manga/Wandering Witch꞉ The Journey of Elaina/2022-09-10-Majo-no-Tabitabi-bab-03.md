@@ -6,7 +6,7 @@ eps: 3
 epsname: Penggalangan Dana
 date: 2022-09-10 09:11:00 +0700
 coverPhoto: https://cdn.lewd.host/3L6P2EiZ.png
-category: Wandering Witch&#58 The Journey of Elaina Manga
+category: Penyihir Jalan-Jalan Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

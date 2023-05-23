@@ -6,7 +6,7 @@ eps: 4.5
 epsname: Apa yang Akan Kau Bawa di Pulau Terpencil?
 date: 2022-09-24 09:24:00 +0700
 coverPhoto: https://cdn.lewd.host/Vh4N82v9.png
-category: Wandering Witch&#58 The Journey of Elaina Manga
+category: Penyihir Jalan-Jalan Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

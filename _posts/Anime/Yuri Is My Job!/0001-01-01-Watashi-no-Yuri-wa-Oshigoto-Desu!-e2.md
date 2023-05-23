@@ -5,7 +5,7 @@ title: Yuri Is My Job! - S1E2 ID Subtitle
 eps: 2
 date: 2023-04-26 16:00:00+0700
 coverPhoto: https://cdn.lewd.host/Mn13VlOI.png
-category: Yuri Is My Job!
+category: Gawean Urang Mikat Awewe!
 category-link: Watashi-no-Yuri-wa-Oshigoto-Desu!
 epsname: Maukah Menjadi Pelayan Kafe Bersama?
 ---

@@ -5,7 +5,7 @@ title: Immoral Guild - S1E2 ID Subtitle
 eps: 2
 date: 2022-10-27 00:08:00+0700
 coverPhoto: https://cdn.lewd.host/x4m7o202.jpg
-category: Immoral Guild
+category: Serikat Amoral
 category-link: Futoku-no-Guild
 epsname: Kejadian Tak Terduga — Pemburu yang Sekarat
 ---

@@ -1,7 +1,7 @@
 ---
 layout: category
 title: Yuri Is My Job!
-epsname: Gawean Urang Mikat Awewe! 
+epsname: Gawean Urang Mikat Awewe!
 coverPhoto: https://cdn.lewd.host/CGEZs4RO.jpg
 ---
 
@@ -17,7 +17,7 @@ Unduh
 ---
   <ul>
   WEB
-    {% for post in site.categories['Yuri Is My Job!'] %}
+    {% for post in site.categories['Gawean Urang Mikat Awewe!'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

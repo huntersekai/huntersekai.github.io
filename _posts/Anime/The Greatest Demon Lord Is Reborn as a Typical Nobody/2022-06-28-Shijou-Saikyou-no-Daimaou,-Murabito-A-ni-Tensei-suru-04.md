@@ -5,7 +5,7 @@ title: The Greatest Demon Lord Is Reborn as a Typical Nobody - S1E4 ID Subtitle
 eps: 4
 date: 2022-06-28 16:59:00 +0700
 coverPhoto: https://cdn.lewd.host/GpMyzWYr.jpg
-category: The Greatest Demon Lord Is Reborn as a Typical Nobody
+category: Raja Iblis Terhebat Dalam Sejarah, bereinkarnasi Sebagai Warga Desa
 category-link: Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru
 epsname: Duel
 ---

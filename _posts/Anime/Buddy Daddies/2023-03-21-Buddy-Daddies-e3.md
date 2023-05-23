@@ -5,7 +5,7 @@ title: Buddy Daddies - S1E3 ID Subtitle
 eps: 3
 date: 2023-03-21 13:01:00+0700
 coverPhoto: https://cdn.lewd.host/DxezNrqo.jpg
-category: Buddy Daddies
+category: BUDDY DADDIES
 category-link: Buddy-Daddies
 epsname: Bumbu Kehidupan
 ---

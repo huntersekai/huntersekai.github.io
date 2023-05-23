@@ -6,7 +6,7 @@ epsname: Seragam
 eps: OVA2
 date: 2022-11-23 22:37:00 +0700
 coverPhoto: https://cdn.lewd.host/nzdGtBAP.png
-category: TONIKAWA&#58 Over The Moon For You ~Uniform~
+category: Pokoknya Imut ~Uniform~
 category-link: Tonikaku-Kawaii-Seifuku
 ---
 

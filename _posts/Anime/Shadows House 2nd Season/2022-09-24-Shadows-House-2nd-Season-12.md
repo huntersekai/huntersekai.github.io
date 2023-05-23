@@ -5,7 +5,7 @@ title: Shadows House - S2E12 ID Subtitle
 eps: 12
 date: 2022-09-24 23:44:00+0700
 coverPhoto: https://cdn.lewd.host/1Wn3Am9a.png
-category: Shadows House S2
+category: SHADOWS HOUSE S2
 category-link: Shadows-House-2nd-Season
 epsname: Perlawanan Mereka
 ---

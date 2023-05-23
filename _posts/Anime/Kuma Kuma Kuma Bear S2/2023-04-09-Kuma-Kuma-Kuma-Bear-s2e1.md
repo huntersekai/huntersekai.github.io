@@ -5,7 +5,7 @@ title: Kuma Kuma Kuma Bear - S2E1 ID Subtitle
 eps: 1
 date: 2023-04-09 06:55:00+0700
 coverPhoto: https://cdn.lewd.host/fOV8KW9P.jpg
-category: Kuma Kuma Kuma Bear S2
+category: KUMA KUMA KUMA BEAR S2
 epsname: Beruang Pulang ke Rumah
 category-link: Kuma-Kuma-Kuma-Bear-S2
 ---

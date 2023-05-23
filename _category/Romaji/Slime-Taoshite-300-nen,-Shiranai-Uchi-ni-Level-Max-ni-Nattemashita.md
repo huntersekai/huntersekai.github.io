@@ -1,7 +1,7 @@
 ---
 layout: category
 title: I've Been Killing Slimes for 300 Years and Maxed Out My Level
-epsname: Membunuh Slime 300 Tahun, Tahu-Tahu Levelku Maksimal
+epsname: Ngebunuh Slime Selama 300 Tahun, Tahu-Tahu Levelku Mentok
 coverPhoto: https://cdn.lewd.host/Su5tcZih.jpg
 ---
 
@@ -15,7 +15,7 @@ Unduh
 ---
   <ul>
   BD
-    {% for post in site.categories['I've Been Killing Slimes for 300 Years and Maxed Out My Level BD'] %}
+    {% for post in site.categories['Ngebunuh Slime Selama 300 Tahun, Tahu-Tahu Levelku Mentok BD'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

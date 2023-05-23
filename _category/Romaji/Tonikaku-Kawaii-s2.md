@@ -14,7 +14,7 @@ Unduh
 ---
   <ul>
   WEB
-    {% for post in site.categories['TONIKAWA&#58 Over The Moon For You S2'] %}
+    {% for post in site.categories['Pokoknya Imut S2'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

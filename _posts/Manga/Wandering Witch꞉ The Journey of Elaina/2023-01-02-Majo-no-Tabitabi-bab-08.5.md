@@ -6,7 +6,7 @@ eps: 8.5
 epsname: Waktu Adalah Uang
 date: 2023-01-02 01:02:00 +0700
 coverPhoto: https://cdn.lewd.host/9Is14HtS.png
-category: Wandering Witch&#58 The Journey of Elaina Manga
+category: Penyihir Jalan-Jalan Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

@@ -15,7 +15,7 @@ Baca/Unduh
 
 ---
   <ul>
-    {% for post in site.categories['Wandering Witch&#58 The Journey of Elaina Manga'] %}
+    {% for post in site.categories['Penyihir Jalan-Jalan Manga'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.epsname %}C{{ post.eps }} - {{ post.epsname }}{% else %} Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

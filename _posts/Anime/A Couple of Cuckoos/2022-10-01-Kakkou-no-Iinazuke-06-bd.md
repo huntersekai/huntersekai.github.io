@@ -5,7 +5,7 @@ title: A Couple of Cuckoos (BD) - S1E6 ID Subtitle
 eps: 6
 date: 2022-10-01 02:55:00+0700
 coverPhoto: https://cdn.lewd.host/cQr2N2Q6.png
-category: A Couple of Cuckoos BD
+category: Ikatan Perjodohan BD
 category-link: Kakkou-no-Iinazuke
 epsname: Kamu Tinggal Sendiri?
 ---

@@ -25,11 +25,11 @@ Unduh
 ---
   <ul>
   BD
-    {% for post in site.categories['Engage Kiss BD'] %}
+    {% for post in site.categories['ENGAGE KISS BD'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}<br>
   WEB
-    {% for post in site.categories['Engage Kiss'] %}
+    {% for post in site.categories['ENGAGE KISS'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

@@ -6,7 +6,7 @@ eps: 18
 epsname: Bunga Higanbana yang Mekar dalam kesunyian
 date: 2023-05-15 01:09:00 +0700
 coverPhoto: https://cdn.lewd.host/1kbR9GvK.png
-category: Wandering Witch&#58 The Journey of Elaina Manga
+category: Penyihir Jalan-Jalan Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

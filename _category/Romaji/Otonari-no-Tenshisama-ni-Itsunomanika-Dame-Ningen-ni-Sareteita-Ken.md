@@ -21,7 +21,7 @@ Unduh
 ---
   <ul>
   WEB
-    {% for post in site.categories['The Angel Next Door Spoils Me Rotten'] %}
+    {% for post in site.categories['Entah Sejak Kapan Diriku Dibuat Jadi Orang Payah oleh Tetangga Bidadari'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

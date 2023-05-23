@@ -5,7 +5,7 @@ title: Spy Classroom (BD) - S1E3 ID Subtitle
 eps: 3
 date: 2023-04-18 13:10:00+0700
 coverPhoto: https://cdn.lewd.host/2D8xepkh.jpg
-category: Spy Classroom BD
+category: Kelas Intel BD
 category-link: Spy-Kyoushitsu
 epsname: MISI 《HANAZONO》III
 ---

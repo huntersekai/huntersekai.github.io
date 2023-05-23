@@ -6,7 +6,7 @@ eps: 14
 epsname: Mengulang Pagi
 date: 2023-03-07 00:53:00 +0700
 coverPhoto: https://cdn.lewd.host/0m2ei3wd.png
-category: Wandering Witch&#58 The Journey of Elaina Manga
+category: Penyihir Jalan-Jalan Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

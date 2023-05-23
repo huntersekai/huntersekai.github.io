@@ -5,7 +5,7 @@ title: A Couple of Cuckoos (BD) - S1E2 ID Subtitle
 eps: 2
 date: 2022-09-04 20:02:00+0700
 coverPhoto: https://cdn.lewd.host/bAZ1fBmT.png
-category: A Couple of Cuckoos BD
+category: Ikatan Perjodohan BD
 category-link: Kakkou-no-Iinazuke
 epsname: Aku Takkan Menikah Denganmu
 ---

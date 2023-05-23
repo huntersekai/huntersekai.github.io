@@ -19,7 +19,7 @@ Unduh
 ---
   <ul>
   WEB
-    {% for post in site.categories['The Greatest Demon Lord Is Reborn as a Typical Nobody'] %}
+    {% for post in site.categories['Raja Iblis Terhebat Dalam Sejarah, bereinkarnasi Sebagai Warga Desa'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

@@ -5,7 +5,7 @@ title: Buddy Daddies - S1E2 ID Subtitle
 eps: 2
 date: 2023-03-15 23:47:00+0700
 coverPhoto: https://cdn.lewd.host/B60t2Msr.jpg
-category: Buddy Daddies
+category: BUDDY DADDIES
 category-link: Buddy-Daddies
 epsname: Ciuman Kematian
 ---

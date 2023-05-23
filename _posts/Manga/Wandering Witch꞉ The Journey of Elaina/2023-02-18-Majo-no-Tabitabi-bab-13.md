@@ -6,7 +6,7 @@ eps: 13
 epsname: Catatan Perjalanan Amnesia yang Terlupakan
 date: 2023-02-18 19:09:00 +0700
 coverPhoto: https://cdn.lewd.host/qFsuBLIN.png
-category: Wandering Witch&#58 The Journey of Elaina Manga
+category: Penyihir Jalan-Jalan Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

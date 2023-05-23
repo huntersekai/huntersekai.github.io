@@ -5,7 +5,7 @@ title: Management of a Novice Alchemist - S1E4 ID Subtitle
 eps: 4
 date: 2022-11-24 21:34:00+0700
 coverPhoto: https://cdn.lewd.host/sZgoOBtP.png
-category: Management of a Novice Alchemist
+category: Lika-Liku Alkemis Non Gelar
 category-link: Shinmai-Renkinjutsushi-no-Tenpo-Keiei
 epsname: Mari Hidup Bersama!
 ---

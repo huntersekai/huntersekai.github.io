@@ -15,7 +15,7 @@ Unduh
 ---
   <ul>
   WEB
-    {% for post in site.categories['Buddy Daddies'] %}
+    {% for post in site.categories['BUDDY DADDIES'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

@@ -21,11 +21,11 @@ Unduh
 ---
   <ul>
   BD
-    {% for post in site.categories['A Couple of Cuckoos BD'] %}
+    {% for post in site.categories['Ikatan Perjodohan BD'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}<br>
   WEB
-    {% for post in site.categories['A Couple of Cuckoos'] %}
+    {% for post in site.categories['Ikatan Perjodohan'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

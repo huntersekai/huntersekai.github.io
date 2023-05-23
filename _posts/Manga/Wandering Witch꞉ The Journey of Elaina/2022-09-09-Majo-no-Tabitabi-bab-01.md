@@ -6,7 +6,7 @@ eps: 1
 epsname: Negeri Penyihir
 date: 2022-09-09 09:09:00 +0700
 coverPhoto: https://cdn.lewd.host/uOEbG9uC.png
-category: Wandering Witch&#58 The Journey of Elaina Manga
+category: Penyihir Jalan-Jalan Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

@@ -6,7 +6,7 @@ eps: 6
 epsname: Kematian yang Damai
 date: 2022-11-21 11:21:00 +0700
 coverPhoto: https://cdn.lewd.host/zk1Ln6n4.png
-category: Wandering Witch&#58 The Journey of Elaina Manga
+category: Penyihir Jalan-Jalan Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

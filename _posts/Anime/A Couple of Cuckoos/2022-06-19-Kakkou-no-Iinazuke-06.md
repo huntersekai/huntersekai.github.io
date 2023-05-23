@@ -5,7 +5,7 @@ title: A Couple of Cuckoos - S1E6 ID Subtitle
 eps: 6
 date: 2022-06-26 19:41:00+0700
 coverPhoto: https://cdn.lewd.host/cQr2N2Q6.png
-category: A Couple of Cuckoos
+category: Ikatan Perjodohan
 category-link: Kakkou-no-Iinazuke
 epsname: Kamu Tinggal Sendiri?
 ---

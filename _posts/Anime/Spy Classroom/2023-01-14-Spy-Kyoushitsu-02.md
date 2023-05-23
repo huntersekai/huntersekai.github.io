@@ -5,7 +5,7 @@ title: Spy Classroom - S1E2 ID Subtitle
 eps: 2
 date: 2023-01-14 00:55:00+0700
 coverPhoto: https://cdn.lewd.host/ga52Fcgm.jpg
-category: Spy Classroom
+category: Kelas Intel
 category-link: Spy-Kyoushitsu
 epsname: MISI 《HANAZONO》II
 ---

@@ -6,7 +6,7 @@ eps: 11
 epsname: Penguasa dalam Reruntuhan
 date: 2023-01-29 01:29:00 +0700
 coverPhoto: https://cdn.lewd.host/H2bkMbfM.png
-category: Wandering Witch&#58 The Journey of Elaina Manga
+category: Penyihir Jalan-Jalan Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

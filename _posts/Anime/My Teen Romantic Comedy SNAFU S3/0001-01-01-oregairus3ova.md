@@ -5,7 +5,7 @@ title: My Teen Romantic Comedy SNAFU - S3 OVA ID Subtitle
 eps: ⠀OVA
 date: 2023-05-08 01:41:00+0700
 coverPhoto: https://cdn.lewd.host/4CFIgkwB.jpg
-category: My Teen Romantic Comedy SNAFU S3 OVA
+category: Kisah Komedi-Romantis Masa Mudaku Ternyata Salah Kaprah S3 OVA BD
 category-link: My-Teen-Romantic-Comedy-SNAFU-S3-OVA
 epsname: Sebab Masa Remaja Belum Berakhir, Masa Muda akan Terus Berlanjut.
 ---

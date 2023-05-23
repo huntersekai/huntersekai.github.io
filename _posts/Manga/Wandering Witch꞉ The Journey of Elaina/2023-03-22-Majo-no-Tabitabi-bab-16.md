@@ -6,7 +6,7 @@ eps: 16
 epsname: Amnesia Lupa Kampung Halamannya
 date: 2023-04-04 16:11:00 +0700
 coverPhoto: https://cdn.lewd.host/ameUejPK.png
-category: Wandering Witch&#58 The Journey of Elaina Manga
+category: Penyihir Jalan-Jalan Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

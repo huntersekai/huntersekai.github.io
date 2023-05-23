@@ -5,7 +5,7 @@ title: TONIKAWA&#58 Over The Moon For You - S2E4 ID Subtitle
 eps: 4
 date: 2023-05-04 01:47:00 +0700
 coverPhoto: https://cdn.lewd.host/t9BqcwPr.jpg
-category: TONIKAWA&#58 Over The Moon For You S2
+category: Pokoknya Imut S2
 category-link: Tonikaku-Kawaii-s2
 epsname: Bagian yang Bisa Dicium
 ---

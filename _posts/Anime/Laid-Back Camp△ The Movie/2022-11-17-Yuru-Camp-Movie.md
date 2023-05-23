@@ -5,7 +5,7 @@ title: Laid-Back Camp△ The Movie ID Subtitle
 epsname: Film Kemah Santai△
 date: 2022-11-17 01:43:00 +0700
 coverPhoto: https://cdn.lewd.host/wPlIovX5.jpg
-category: Laid-Back Camp△ The Movie
+category: Film Kemah Santai△
 category-link: Yuru-Camp-Movie
 ---
 

@@ -5,7 +5,7 @@ title: Shadows House - S2E3 ID Subtitle
 eps: 3
 date: 2022-07-25 18:42:00+0700
 coverPhoto: https://cdn.lewd.host/celZ93AX.jpg
-category: Shadows House S2
+category: SHADOWS HOUSE S2
 category-link: Shadows-House-2nd-Season
 epsname: Pembersihan Massal
 ---

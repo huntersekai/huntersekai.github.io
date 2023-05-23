@@ -14,7 +14,7 @@ Unduh
 ---
   <ul>
   BD
-    {% for post in site.categories['My Teen Romantic Comedy SNAFU S3 OVA'] %}
+    {% for post in site.categories['Kisah Komedi-Romantis Masa Mudaku Ternyata Salah Kaprah S3 OVA BD'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}<br>
   </ul>

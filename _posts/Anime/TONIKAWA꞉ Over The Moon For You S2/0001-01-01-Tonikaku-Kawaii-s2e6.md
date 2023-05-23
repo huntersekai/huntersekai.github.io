@@ -5,7 +5,7 @@ title: TONIKAWA&#58 Over The Moon For You - S2E6 ID Subtitle
 eps: 6
 date: 2023-05-20 00:06:00 +0700
 coverPhoto: https://cdn.lewd.host/L7hGtrBA.jpg
-category: TONIKAWA&#58 Over The Moon For You S2
+category: Pokoknya Imut S2
 category-link: Tonikaku-Kawaii-s2
 epsname: Di Bawah Cahaya Rembulan
 ---

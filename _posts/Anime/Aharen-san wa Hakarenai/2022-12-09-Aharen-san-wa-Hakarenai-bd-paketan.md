@@ -5,7 +5,7 @@ title: Aharen-san wa Hakarenai (BD) - S1 Batch ID Subtitle
 epsname: Aharen-san yang Tak Terduga
 date: 2022-12-09 21:26:00 +0700
 coverPhoto: https://cdn.lewd.host/lgwV2jk4.jpg
-category: Aharen-san wa Hakarenai-bd
+category: Aharen-san yang Tak Terduga-bd
 category-link: Aharen-san-wa-Hakarenai
 ---
 

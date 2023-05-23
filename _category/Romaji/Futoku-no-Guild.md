@@ -20,11 +20,11 @@ Unduh
 ---
   <ul>
   BD
-    {% for post in site.categories['Immoral Guild BD'] %}
+    {% for post in site.categories['Serikat Amoral BD'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}<br>
   WEB
-    {% for post in site.categories['Immoral Guild'] %}
+    {% for post in site.categories['Serikat Amoral'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

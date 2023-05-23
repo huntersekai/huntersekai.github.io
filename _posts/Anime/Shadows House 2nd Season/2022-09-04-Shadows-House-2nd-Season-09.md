@@ -5,7 +5,7 @@ title: Shadows House - S2E9 ID Subtitle
 eps: 9
 date: 2022-09-04 22:45:00+0700
 coverPhoto: https://cdn.lewd.host/1wncXfJg.jpg
-category: Shadows House S2
+category: SHADOWS HOUSE S2
 category-link: Shadows-House-2nd-Season
 epsname: Pelajaran Terakhir
 ---

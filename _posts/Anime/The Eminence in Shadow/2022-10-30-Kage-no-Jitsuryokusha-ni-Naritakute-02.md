@@ -5,7 +5,7 @@ title: The Eminence in Shadow - S1E2 ID Subtitle
 eps: 2
 date: 2022-10-30 14:41:00+0700
 coverPhoto: https://cdn.lewd.host/c3PsooF8.jpg
-category: The Eminence in Shadow
+category: Penguasa Bayangan
 category-link: Kage-no-Jitsuryokusha-ni-Naritakute
 epsname: Formasi Shadow Garden
 ---

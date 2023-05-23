@@ -14,11 +14,11 @@ Unduh
 ---
   <ul>
   BD
-    {% for post in site.categories['Spy Classroom BD'] %}
+    {% for post in site.categories['Kelas Intel BD'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}<br>
   WEB
-    {% for post in site.categories['Spy Classroom'] %}
+    {% for post in site.categories['Kelas Intel'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

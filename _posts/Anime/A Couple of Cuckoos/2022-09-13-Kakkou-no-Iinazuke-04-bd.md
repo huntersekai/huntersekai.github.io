@@ -5,7 +5,7 @@ title: A Couple of Cuckoos (BD) - S1E4 ID Subtitle
 eps: 4
 date: 2022-09-13 01:21:00+0700
 coverPhoto: https://cdn.lewd.host/pnyPU40T.png
-category: A Couple of Cuckoos BD
+category: Ikatan Perjodohan BD
 category-link: Kakkou-no-Iinazuke
 epsname: Maukah Kamu Jalan-Jalan Bersamaku?
 ---

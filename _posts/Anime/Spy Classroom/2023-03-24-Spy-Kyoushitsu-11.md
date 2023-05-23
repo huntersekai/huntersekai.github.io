@@ -5,7 +5,7 @@ title: Spy Classroom - S1E11 ID Subtitle
 eps: 11
 date: 2023-03-24 21:42:00+0700
 coverPhoto: https://cdn.lewd.host/uOJOPUD5.jpg
-category: Spy Classroom
+category: Kelas Intel
 category-link: Spy-Kyoushitsu
 epsname: MISI 《MANAMUSUME》 IV
 ---

@@ -5,7 +5,7 @@ title: Buddy Daddies - S1E1 ID Subtitle
 eps: 1
 date: 2023-03-05 10:10:00+0700
 coverPhoto: https://cdn.lewd.host/k5LAzEhZ.png
-category: Buddy Daddies
+category: BUDDY DADDIES
 category-link: Buddy-Daddies
 epsname: Secuil Kue
 ---

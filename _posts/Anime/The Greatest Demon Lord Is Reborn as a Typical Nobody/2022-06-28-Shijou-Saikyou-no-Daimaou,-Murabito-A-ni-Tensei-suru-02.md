@@ -5,7 +5,7 @@ title: The Greatest Demon Lord Is Reborn as a Typical Nobody - S1E2 ID Subtitle
 eps: 2
 date: 2022-05-01 01:39:00 +0700
 coverPhoto: https://cdn.lewd.host/yu0ZItSR.jpg
-category: The Greatest Demon Lord Is Reborn as a Typical Nobody
+category: Raja Iblis Terhebat Dalam Sejarah, bereinkarnasi Sebagai Warga Desa
 category-link: Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru
 epsname: Bukan Standar
 ---

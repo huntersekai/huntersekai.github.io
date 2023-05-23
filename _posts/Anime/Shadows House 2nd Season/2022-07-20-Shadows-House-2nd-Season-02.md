@@ -5,7 +5,7 @@ title: Shadows House - S2E2 ID Subtitle
 eps: 2
 date: 2022-07-20 02:31:00+0700
 coverPhoto: https://cdn.lewd.host/pSdqXYaV.jpg
-category: Shadows House S2
+category: SHADOWS HOUSE S2
 category-link: Shadows-House-2nd-Season
 epsname: Pembawa Bintang Terhebat
 ---

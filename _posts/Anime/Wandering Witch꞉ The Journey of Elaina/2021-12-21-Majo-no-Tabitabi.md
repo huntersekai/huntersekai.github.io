@@ -5,7 +5,7 @@ title: Wandering Witch&#58 The Journey of Elaina (BD) - S1 Paketan ID Subtitle
 epsname: Penyihir Jalan-Jalan
 date: 2021-12-21 05:40:00 +0700
 coverPhoto: https://cdn.lewd.host/9XaVZHKc.jpg
-category: Wandering Witch&#58 The Journey of Elaina BD
+category: Penyihir Jalan-Jalan BD
 category-link: Majo-no-Tabitabi-bd
 ---
 

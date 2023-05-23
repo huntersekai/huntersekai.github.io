@@ -5,7 +5,7 @@ title: Spy Classroom - S1E7 ID Subtitle
 eps: 7
 date: 2023-02-18 00:50:00+0700
 coverPhoto: https://cdn.lewd.host/CTkZMeFK.jpg
-category: Spy Classroom
+category: Kelas Intel
 category-link: Spy-Kyoushitsu
 epsname: Berkas 《Sougen》 Sara
 ---

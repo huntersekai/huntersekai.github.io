@@ -5,7 +5,7 @@ title: The Angel Next Door Spoils Me Rotten - S1E1 ID Subtitle
 eps: 1
 date: 2023-01-10 21:44:00+0700
 coverPhoto: https://cdn.lewd.host/iwYZiDS4.jpg
-category: The Angel Next Door Spoils Me Rotten
+category: Entah Sejak Kapan Diriku Dibuat Jadi Orang Payah oleh Tetangga Bidadari
 category-link: Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken
 epsname: Bertemu dengan Bidadari
 ---
