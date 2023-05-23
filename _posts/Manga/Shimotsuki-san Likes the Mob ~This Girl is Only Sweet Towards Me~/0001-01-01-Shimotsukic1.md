@@ -31,7 +31,7 @@ category-link: Shimotsuki-san-Likes-the-Mob
 ![](https://cdn.lewd.host/pnHjIBcQ.png)
 ![](https://cdn.lewd.host/f3ckXsl7.png)
 ![](https://cdn.lewd.host/VPXb2ZtB.png)
-![](https://cdn.lewd.host/lm8nWtXM.png)
+![](https://cdn.lewd.host/hHEVNDcd.png)
 ![](https://cdn.lewd.host/P5cfp7CY.png)
 ![](https://cdn.lewd.host/q73vZqX4.png)
 ![](https://cdn.lewd.host/SVFR4Exb.png)
