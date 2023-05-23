@@ -5,7 +5,7 @@ title: I've Been Killing Slimes for 300 Years and Maxed Out My Level (BD) - S1 B
 epsname: Membunuh Slime 300 Tahun, Tahu-Tahu Levelku Maksimal
 date: 2022-03-20 03:29:00 +0700
 coverPhoto: https://cdn.lewd.host/uifxN1HN.jpg
-category: Slime-Taoshite-300-nen,-Shiranai-Uchi-ni-Level-Max-ni-Nattemashita-bd
+category: I've Been Killing Slimes for 300 Years and Maxed Out My Level BD
 category-link: Slime-Taoshite-300-nen,-Shiranai-Uchi-ni-Level-Max-ni-Nattemashita
 ---
 

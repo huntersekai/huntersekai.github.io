@@ -5,7 +5,7 @@ title: Shadows House - S2E5 ID Subtitle
 eps: 5
 date: 2022-08-12 06:36:00+0700
 coverPhoto: https://cdn.lewd.host/tgA3pfFS.jpg
-category: Shadows-House-2nd-Season
+category: Shadows House S2
 category-link: Shadows-House-2nd-Season
 epsname: Bertemu Rekan Tengah Malam
 ---

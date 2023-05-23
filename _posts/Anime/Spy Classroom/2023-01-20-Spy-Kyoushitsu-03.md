@@ -5,7 +5,7 @@ title: Spy Classroom - S1E3 ID Subtitle
 eps: 3
 date: 2023-01-20 22:12:00+0700
 coverPhoto: https://cdn.lewd.host/2D8xepkh.jpg
-category: Spy-Kyoushitsu
+category: Spy Classroom
 category-link: Spy-Kyoushitsu
 epsname: MISI 《HANAZONO》III
 ---

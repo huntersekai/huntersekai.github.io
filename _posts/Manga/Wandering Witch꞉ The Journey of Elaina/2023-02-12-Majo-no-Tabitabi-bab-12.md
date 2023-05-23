@@ -6,7 +6,7 @@ eps: 12
 epsname: Kota yang Terlupakan
 date: 2023-02-12 09:24:00 +0700
 coverPhoto: https://cdn.lewd.host/3skDB5jl.jpg
-category: Majo-no-Tabitabi-manga
+category: Wandering Witch&#58 The Journey of Elaina Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

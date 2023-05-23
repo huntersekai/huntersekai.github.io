@@ -5,7 +5,7 @@ title: The Angel Next Door Spoils Me Rotten - S1E5 ID Subtitle
 eps: 5
 date: 2023-04-02 16:22:00+0700
 coverPhoto: https://cdn.lewd.host/xqwlEv0Q.jpg
-category: Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken
+category: The Angel Next Door Spoils Me Rotten
 category-link: Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken
 epsname: Hatsumode Bersama Bidadari
 ---

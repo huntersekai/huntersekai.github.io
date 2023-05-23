@@ -21,7 +21,7 @@ Unduh
 ---
   <ul>
   WEB
-    {% for post in site.categories['Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken'] %}
+    {% for post in site.categories['The Angel Next Door Spoils Me Rotten'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

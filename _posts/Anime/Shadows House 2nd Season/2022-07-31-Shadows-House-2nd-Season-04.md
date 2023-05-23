@@ -5,7 +5,7 @@ title: Shadows House - S2E4 ID Subtitle
 eps: 4
 date: 2022-07-31 13:45:00+0700
 coverPhoto: https://cdn.lewd.host/WQrhgPlP.jpg
-category: Shadows-House-2nd-Season
+category: Shadows House S2
 category-link: Shadows-House-2nd-Season
 epsname: Kemungkinan Terdakwa
 ---

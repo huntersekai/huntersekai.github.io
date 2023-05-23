@@ -6,7 +6,7 @@ eps: 7
 epsname: Sang Ratu Tanpa Rakyat
 date: 2022-12-11 12:11:00 +0700
 coverPhoto: https://cdn.lewd.host/Ih5niYLZ.png
-category: Majo-no-Tabitabi-manga
+category: Wandering Witch&#58 The Journey of Elaina Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

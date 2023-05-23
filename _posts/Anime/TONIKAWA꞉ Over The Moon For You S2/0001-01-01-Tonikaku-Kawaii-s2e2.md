@@ -5,7 +5,7 @@ title: TONIKAWA&#58 Over The Moon For You - S2E2 ID Subtitle
 eps: 2
 date: 2023-04-20 03:05:00 +0700
 coverPhoto: https://cdn.lewd.host/32Le6WEa.jpg
-category: Tonikaku-Kawaii-s2
+category: TONIKAWA&#58 Over The Moon For You S2
 category-link: Tonikaku-Kawaii-s2
 epsname: Seputar Kebahagiaan
 ---

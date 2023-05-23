@@ -5,7 +5,7 @@ title: A Couple of Cuckoos - S1E3 ID Subtitle
 eps: 3
 date: 2022-05-29 05:32:00+0700
 coverPhoto: https://cdn.lewd.host/fdiYky51.png
-category: Kakkou-no-Iinazuke
+category: A Couple of Cuckoos
 category-link: Kakkou-no-Iinazuke
 epsname: Kamu Takkan Bisa Mengalahkanku!!
 ---

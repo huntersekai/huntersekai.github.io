@@ -5,7 +5,7 @@ title: Shadows House - S2E10 ID Subtitle
 eps: 10
 date: 2022-09-16 22:45:00+0700
 coverPhoto: https://cdn.lewd.host/HRj0W3Ok.jpg
-category: Shadows-House-2nd-Season
+category: Shadows House S2
 category-link: Shadows-House-2nd-Season
 epsname: Teman Bernilai
 ---

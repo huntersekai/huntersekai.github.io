@@ -15,7 +15,7 @@ Baca/Unduh
 
 ---
   <ul>
-    {% for post in site.categories['Majo-no-Tabitabi-manga'] %}
+    {% for post in site.categories['Wandering Witch&#58 The Journey of Elaina Manga'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.epsname %}C{{ post.eps }} - {{ post.epsname }}{% else %} Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

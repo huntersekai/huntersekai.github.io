@@ -6,7 +6,7 @@ eps: 2
 epsname: Negeri Bunga
 date: 2022-09-10 09:10:00 +0700
 coverPhoto: https://cdn.lewd.host/qADZsEqv.png
-category: Majo-no-Tabitabi-manga
+category: Wandering Witch&#58 The Journey of Elaina Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

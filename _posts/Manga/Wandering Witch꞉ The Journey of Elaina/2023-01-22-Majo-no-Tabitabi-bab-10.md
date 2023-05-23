@@ -6,7 +6,7 @@ eps: 10
 epsname: Ada Saatnya Salju Meleleh
 date: 2023-01-22 01:22:00 +0700
 coverPhoto: https://cdn.lewd.host/sGNHVx0u.png
-category: Majo-no-Tabitabi-manga
+category: Wandering Witch&#58 The Journey of Elaina Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

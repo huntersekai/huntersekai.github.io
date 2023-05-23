@@ -5,7 +5,7 @@ title: Shadows House - S2E7 ID Subtitle
 eps: 7
 date: 2022-08-20 10:16:00+0700
 coverPhoto: https://cdn.lewd.host/jSk9pCbp.jpg
-category: Shadows-House-2nd-Season
+category: Shadows House S2
 category-link: Shadows-House-2nd-Season
 epsname: Investigasi Mandiri
 ---

@@ -5,7 +5,7 @@ title: TONIKAWA&#58 Over The Moon For You - S2E5 ID Subtitle
 eps: 5
 date: 2023-05-09 01:47:00 +0700
 coverPhoto: https://cdn.lewd.host/C87Hcztp.jpg
-category: Tonikaku-Kawaii-s2
+category: TONIKAWA&#58 Over The Moon For You S2
 category-link: Tonikaku-Kawaii-s2
 epsname: Sang Pakar Penikmat Pemandian Air Panas
 ---

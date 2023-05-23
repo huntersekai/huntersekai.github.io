@@ -5,7 +5,7 @@ title: A Couple of Cuckoos - S1E5 ID Subtitle
 eps: 5
 date: 2022-06-19 14:08:00+0700
 coverPhoto: https://cdn.lewd.host/OIH7joqM.png
-category: Kakkou-no-Iinazuke
+category: A Couple of Cuckoos
 category-link: Kakkou-no-Iinazuke
 epsname: Kita Bisa Belajar Bersama Setiap Pagi?
 ---

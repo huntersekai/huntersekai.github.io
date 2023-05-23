@@ -5,7 +5,7 @@ title: Spy Classroom - S1E8 ID Subtitle
 eps: 8
 date: 2023-03-08 20:29:00+0700
 coverPhoto: https://cdn.lewd.host/ibiVp9gU.jpg
-category: Spy-Kyoushitsu
+category: Spy Classroom
 category-link: Spy-Kyoushitsu
 epsname: MISI 《MANAMUSUME》 I
 ---

@@ -5,7 +5,7 @@ title: A Couple of Cuckoos - S1E2 ID Subtitle
 eps: 2
 date: 2022-05-04 22:12:00+0700
 coverPhoto: https://cdn.lewd.host/bAZ1fBmT.png
-category: Kakkou-no-Iinazuke
+category: A Couple of Cuckoos
 category-link: Kakkou-no-Iinazuke
 epsname: Aku Takkan Menikah Denganmu
 ---

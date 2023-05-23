@@ -5,7 +5,7 @@ title: Management of a Novice Alchemist - S1E5 ID Subtitle
 eps: 5
 date: 2022-12-15 01:13:00+0700
 coverPhoto: https://cdn.lewd.host/brGyZ48g.jpg
-category: Shinmai-Renkinjutsushi-no-Tenpo-Keiei
+category: Management of a Novice Alchemist
 category-link: Shinmai-Renkinjutsushi-no-Tenpo-Keiei
 epsname: Yuk, Mengembangkan Produk Baru!
 ---

@@ -5,7 +5,7 @@ title: Spy Classroom - S1E10 ID Subtitle
 eps: 10
 date: 2023-03-17 20:13:00+0700
 coverPhoto: https://cdn.lewd.host/RWVDEx4t.jpg
-category: Spy-Kyoushitsu
+category: Spy Classroom
 category-link: Spy-Kyoushitsu
 epsname: MISI 《MANAMUSUME》 III
 ---

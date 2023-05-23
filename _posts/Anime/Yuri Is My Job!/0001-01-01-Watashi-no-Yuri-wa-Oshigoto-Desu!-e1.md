@@ -5,7 +5,7 @@ title: Yuri Is My Job! - S1E1 ID Subtitle
 eps: 1
 date: 2023-04-09 00:05:00+0700
 coverPhoto: https://cdn.lewd.host/TWV5kgXc.png
-category: Watashi-no-Yuri-wa-Oshigoto-Desu!
+category: Yuri Is My Job!
 category-link: Watashi-no-Yuri-wa-Oshigoto-Desu!
 epsname: Selamat Datang di SMA Perempuan Liebe!
 ---

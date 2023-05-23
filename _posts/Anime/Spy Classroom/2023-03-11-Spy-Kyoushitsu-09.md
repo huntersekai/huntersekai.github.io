@@ -5,7 +5,7 @@ title: Spy Classroom - S1E9 ID Subtitle
 eps: 9
 date: 2023-03-11 20:11:00+0700
 coverPhoto: https://cdn.lewd.host/n5vrDcNs.jpg
-category: Spy-Kyoushitsu
+category: Spy Classroom
 category-link: Spy-Kyoushitsu
 epsname: MISI 《MANAMUSUME》 II
 ---

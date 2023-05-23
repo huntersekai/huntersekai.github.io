@@ -5,7 +5,7 @@ title: A Couple of Cuckoos (BD) - S1E3 ID Subtitle
 eps: 3
 date: 2022-09-07 21:02:00+0700
 coverPhoto: https://cdn.lewd.host/fdiYky51.png
-category: Kakkou-no-Iinazuke-bd
+category: A Couple of Cuckoos BD
 category-link: Kakkou-no-Iinazuke
 epsname: Kamu Takkan Bisa Mengalahkanku!!
 ---

@@ -5,7 +5,7 @@ title: Shadows House - S2 Batch ID Subtitle
 epsname: SHADOWS HOUSE S2
 date: 2022-09-25 23:44:00+0700
 coverPhoto: https://cdn.lewd.host/53kptvLg.jpg
-category: Shadows-House-2nd-Season
+category: Shadows House S2
 category-link: Shadows-House-2nd-Season
 ---
 

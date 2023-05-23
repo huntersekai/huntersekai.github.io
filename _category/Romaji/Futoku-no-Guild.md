@@ -20,11 +20,11 @@ Unduh
 ---
   <ul>
   BD
-    {% for post in site.categories['Futoku-no-Guild-bd'] %}
+    {% for post in site.categories['Immoral Guild BD'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}<br>
   WEB
-    {% for post in site.categories['Futoku-no-Guild'] %}
+    {% for post in site.categories['Immoral Guild'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

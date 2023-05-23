@@ -6,7 +6,7 @@ eps: 11.5
 epsname: Cara Agar Tidak Melupakan Kewajiban
 date: 2023-02-05 02:05:00 +0700
 coverPhoto: https://cdn.lewd.host/fWQlrbkt.jpg
-category: Majo-no-Tabitabi-manga
+category: Wandering Witch&#58 The Journey of Elaina Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

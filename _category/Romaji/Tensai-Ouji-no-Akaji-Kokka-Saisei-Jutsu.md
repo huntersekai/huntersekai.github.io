@@ -22,7 +22,7 @@ Unduh
 ---
   <ul>
   WEB
-    {% for post in site.categories['Tensai-Ouji-no-Akaji-Kokka-Saisei-Jutsu'] %}
+    {% for post in site.categories['The Genius Prince's Guide to Raising a Nation Out of Debt'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

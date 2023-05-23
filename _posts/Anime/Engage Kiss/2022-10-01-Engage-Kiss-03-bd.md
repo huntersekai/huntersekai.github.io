@@ -5,7 +5,7 @@ title: Engage Kiss (BD) - S1E3 ID Subtitle
 eps: 3
 date: 2022-10-01 02:54:00+0700
 coverPhoto: https://cdn.lewd.host/6V9t7liB.jpg
-category: Engage-Kiss-bd
+category: Engage Kiss BD
 category-link: Engage-Kiss
 epsname: Pengorbanan Kecil yang Begitu Kejam
 ---

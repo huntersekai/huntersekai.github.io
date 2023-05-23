@@ -5,7 +5,7 @@ title: A Couple of Cuckoos (BD) - S1E1 ID Subtitle
 eps: 1
 date: 2022-08-28 19:36:00+0700
 coverPhoto: https://cdn.lewd.host/xVmACQFh.png
-category: Kakkou-no-Iinazuke-bd
+category: A Couple of Cuckoos BD
 category-link: Kakkou-no-Iinazuke
 epsname: Kamu Akan Menjadi Pasanganku
 ---

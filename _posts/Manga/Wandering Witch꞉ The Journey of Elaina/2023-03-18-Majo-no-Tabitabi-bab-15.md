@@ -6,7 +6,7 @@ eps: 15
 epsname: Kota yang Diselimuti Es
 date: 2023-03-18 22:15:00 +0700
 coverPhoto: https://cdn.lewd.host/ySMMz2gq.png
-category: Majo-no-Tabitabi-manga
+category: Wandering Witch&#58 The Journey of Elaina Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

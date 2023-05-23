@@ -5,7 +5,7 @@ title: Management of a Novice Alchemist - S1E3 ID Subtitle
 eps: 3
 date: 2022-11-24 21:33:00+0700
 coverPhoto: https://cdn.lewd.host/JhIDUOP8.png
-category: Shinmai-Renkinjutsushi-no-Tenpo-Keiei
+category: Management of a Novice Alchemist
 category-link: Shinmai-Renkinjutsushi-no-Tenpo-Keiei
 epsname: Muncul Monster!
 ---

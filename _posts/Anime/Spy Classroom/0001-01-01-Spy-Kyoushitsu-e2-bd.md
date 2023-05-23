@@ -5,7 +5,7 @@ title: Spy Classroom (BD) - S1E2 ID Subtitle
 eps: 2
 date: 2023-04-18 13:10:00+0700
 coverPhoto: https://cdn.lewd.host/ga52Fcgm.jpg
-category: Spy-Kyoushitsu-bd
+category: Spy Classroom BD
 category-link: Spy-Kyoushitsu
 epsname: MISI 《HANAZONO》II
 ---

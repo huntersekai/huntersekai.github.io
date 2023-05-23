@@ -6,7 +6,7 @@ eps: 19
 epsname: Malam Hujan Debu Bintang
 date: 2023-05-16 16:55:00 +0700
 coverPhoto: https://cdn.lewd.host/WW0MJVKB.png
-category: Majo-no-Tabitabi-manga
+category: Wandering Witch&#58 The Journey of Elaina Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

@@ -5,7 +5,7 @@ title: The Angel Next Door Spoils Me Rotten - S1E2 ID Subtitle
 eps: 2
 date: 2023-03-29 13:53:00+0700
 coverPhoto: https://cdn.lewd.host/h6goXGGL.jpg
-category: Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken
+category: The Angel Next Door Spoils Me Rotten
 category-link: Otonari-no-Tenshisama-ni-Itsunomanika-Dame-Ningen-ni-Sareteita-Ken
 epsname: Makan Malam Bersama Bidadari
 ---

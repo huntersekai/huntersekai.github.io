@@ -5,7 +5,7 @@ title: The Greatest Demon Lord Is Reborn as a Typical Nobody - S1E5 ID Subtitle
 eps: 5
 date: 2022-06-29 05:56:00 +0700
 coverPhoto: https://cdn.lewd.host/kiGghC7r.jpg
-category: Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru
+category: The Greatest Demon Lord Is Reborn as a Typical Nobody
 category-link: Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru
 epsname: Kisah Raja yang Kesepian
 ---

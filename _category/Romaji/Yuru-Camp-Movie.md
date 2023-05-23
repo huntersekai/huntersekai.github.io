@@ -14,11 +14,11 @@ Unduh
 ---
   <ul>
   BD
-    {% for post in site.categories['Yuru-Camp-Movie-bd'] %}
+    {% for post in site.categories['Laid-Back Camp△ The Movie BD'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}<br>
   WEB
-    {% for post in site.categories['Yuru-Camp-Movie'] %}
+    {% for post in site.categories['Laid-Back Camp△ The Movie'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

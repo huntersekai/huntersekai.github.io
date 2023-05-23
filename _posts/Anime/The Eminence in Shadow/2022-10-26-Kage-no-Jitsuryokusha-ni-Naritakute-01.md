@@ -5,7 +5,7 @@ title: The Eminence in Shadow - S1E1 ID Subtitle
 eps: 1
 date: 2022-10-26 19:23:00+0700
 coverPhoto: https://cdn.lewd.host/c3XrxAVF.jpg
-category: Kage-no-Jitsuryokusha-ni-Naritakute
+category: The Eminence in Shadow
 category-link: Kage-no-Jitsuryokusha-ni-Naritakute
 epsname: Teman Kelas Paling Dibenci
 ---

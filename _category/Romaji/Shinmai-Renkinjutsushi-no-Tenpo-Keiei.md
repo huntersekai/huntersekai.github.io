@@ -22,7 +22,7 @@ Unduh
 ---
   <ul>
   WEB
-    {% for post in site.categories['Shinmai-Renkinjutsushi-no-Tenpo-Keiei'] %}
+    {% for post in site.categories['Management of a Novice Alchemist'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

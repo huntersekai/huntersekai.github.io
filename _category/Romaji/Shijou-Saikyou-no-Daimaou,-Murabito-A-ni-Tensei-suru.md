@@ -19,7 +19,7 @@ Unduh
 ---
   <ul>
   WEB
-    {% for post in site.categories['Shijou-Saikyou-no-Daimaou,-Murabito-A-ni-Tensei-suru'] %}
+    {% for post in site.categories['The Greatest Demon Lord Is Reborn as a Typical Nobody'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

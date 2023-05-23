@@ -5,7 +5,7 @@ title: Shadows House - S2E11 ID Subtitle
 eps: 11
 date: 2022-09-17 20:28:00+0700
 coverPhoto: https://cdn.lewd.host/QwK8d4wA.jpg
-category: Shadows-House-2nd-Season
+category: Shadows House S2
 category-link: Shadows-House-2nd-Season
 epsname: Jawaban Mereka Berdua
 ---

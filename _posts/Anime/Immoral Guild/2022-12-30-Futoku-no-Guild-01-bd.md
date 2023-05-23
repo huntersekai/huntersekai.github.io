@@ -5,7 +5,7 @@ title: Immoral Guild (BD) - S1E1 ID Subtitle
 eps: 1
 date: 2022-12-30 22:44:00+0700
 coverPhoto: https://cdn.lewd.host/XN2yw7zy.jpg
-category: Futoku-no-Guild-bd
+category: Immoral Guild BD
 category-link: Futoku-no-Guild
 epsname: Aku Akan Berusaha yang Terbaik! ｜ Dunia yang Tak Diketahui Para Gadis
 ---

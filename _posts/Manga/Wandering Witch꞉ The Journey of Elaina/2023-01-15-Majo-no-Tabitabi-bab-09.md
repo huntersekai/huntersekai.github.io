@@ -6,7 +6,7 @@ eps: 9
 epsname: Mencari Tuan Putri
 date: 2023-01-15 01:15:00 +0700
 coverPhoto: https://cdn.lewd.host/LobJnE2o.png
-category: Majo-no-Tabitabi-manga
+category: Wandering Witch&#58 The Journey of Elaina Manga
 category-link: Majo-no-Tabitabi-manga
 ---
 

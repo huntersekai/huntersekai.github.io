@@ -5,7 +5,7 @@ title: A Couple of Cuckoos (BD) - S1E7 ID Subtitle
 eps: 7
 date: 2023-01-01 11:56:00+0700
 coverPhoto: https://cdn.lewd.host/etgBpPh2.png
-category: Kakkou-no-Iinazuke-bd
+category: A Couple of Cuckoos BD
 category-link: Kakkou-no-Iinazuke
 epsname: Apa Takdirku Bisa Berubah?
 ---

@@ -5,7 +5,7 @@ title: Management of a Novice Alchemist - S1E1 ID Subtitle
 eps: 1
 date: 2022-10-08 21:13:00+0700
 coverPhoto: https://cdn.lewd.host/kw3MPems.png
-category: Shinmai-Renkinjutsushi-no-Tenpo-Keiei
+category: Management of a Novice Alchemist
 category-link: Shinmai-Renkinjutsushi-no-Tenpo-Keiei
 epsname: Aku Punya Toko!
 ---

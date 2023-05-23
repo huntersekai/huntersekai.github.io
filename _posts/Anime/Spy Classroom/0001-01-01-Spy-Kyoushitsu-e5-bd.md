@@ -5,7 +5,7 @@ title: Spy Classroom (BD) - S1E5 ID Subtitle
 eps: 5
 date: 2023-04-18 13:10:00+0700
 coverPhoto: https://cdn.lewd.host/4EPGWzAU.jpg
-category: Spy-Kyoushitsu-bd
+category: Spy Classroom BD
 category-link: Spy-Kyoushitsu
 epsname: Berkas Keseharian 《Tomoshibi》
 ---

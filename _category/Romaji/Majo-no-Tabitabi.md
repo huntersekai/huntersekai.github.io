@@ -16,7 +16,7 @@ Unduh
 ---
   <ul>
   BD
-    {% for post in site.categories['Majo-no-Tabitabi-bd'] %}
+    {% for post in site.categories['Wandering Witch&#58 The Journey of Elaina BD'] %}
   <li><a class="white pinkhover" href="{{ site.baseurl }}{{ post.url }}">{% if post.eps %}E{{ post.eps }} - {{ post.epsname }}{% else %}Paketan - {{ page.epsname }}{% endif %}</a></li>
   {% endfor %}
   </ul>

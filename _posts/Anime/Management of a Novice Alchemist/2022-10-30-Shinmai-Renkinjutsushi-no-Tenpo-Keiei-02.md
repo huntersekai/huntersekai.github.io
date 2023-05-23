@@ -5,7 +5,7 @@ title: Management of a Novice Alchemist - S1E2 ID Subtitle
 eps: 2
 date: 2022-10-30 21:17:00+0700
 coverPhoto: https://cdn.lewd.host/KipuULcP.jpg
-category: Shinmai-Renkinjutsushi-no-Tenpo-Keiei
+category: Management of a Novice Alchemist
 category-link: Shinmai-Renkinjutsushi-no-Tenpo-Keiei
 epsname: Aku Sampai di Desa!
 ---
