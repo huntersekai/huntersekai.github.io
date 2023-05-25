@@ -1,0 +1,22 @@
+---
+layout: post
+tags: anime
+title: TONIKAWA&#58 Over The Moon For You - S2E7 ID Subtitle
+eps: 7
+date: 2023-05-26 01:45:00 +0700
+coverPhoto: https://cdn.lewd.host/6cCrvShH.jpg
+category: Pokoknya Imut S2
+category-link: Tonikaku-Kawaii-s2
+epsname: Dunia Semakin Luas
+---
+
+Enaknya bolos sekolah.
+
+Sebagai ganti index DDL, saya menggunakan pomf. Karena itu juga, khusus link pomf videonya di-zip supaya nama berkas videonya tidak rusak seperti nama pada zip-nya. Karena apa pun berkas yang diunggah di sana namanya bakal jadi acak seperti itu.
+
+Soloyolo: Noromi
+
+{% if page.eps %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.epsname %}Unduh{% endif %}
+
+---
+- 1080p: [MiteDrive](https://mitedrive.com/view/4VganD){:target="_blank"} &middot; [Pomf](https://bit.ly/3IHGggV){:target="_blank"} &middot; [Telegram](https://t.me/a1fansubweeklies/292){:target="_blank"}
