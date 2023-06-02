@@ -1,7 +1,8 @@
 ---
 layout: post
 tags: anime
-title: Aharen-san wa Hakarenai - S1 Batch ID Subtitle
+title: Aharen-san wa Hakarenai - S1E1-12 ID Subtitle
+eps: 1-12
 epsname: Aharen-san yang Tak Terduga
 date: 2022-06-24 03:11:00 +0700
 coverPhoto: https://cdn.lewd.host/fQgVW9wy.jpg

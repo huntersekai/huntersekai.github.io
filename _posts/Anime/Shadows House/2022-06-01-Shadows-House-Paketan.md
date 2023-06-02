@@ -1,7 +1,8 @@
 ---
 layout: post
 tags: anime
-title: Shadows House (BD) - S1 Batch ID Subtitle
+title: Shadows House (BD) - S1E1-13 ID Subtitle
+eps: 1-13
 epsname: SHADOWS HOUSE
 date: 2022-06-01 19:19:00+0700
 coverPhoto: https://cdn.lewd.host/f6bXGZNp.png

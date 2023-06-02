@@ -1,7 +1,8 @@
 ---
 layout: post
 tags: anime
-title: Spy Classroom - S1 Batch ID Subtitle
+title: Spy Classroom - S1E1-12 ID Subtitle
+eps: 1-12
 date: 2023-03-31 21:59:00+0700
 coverPhoto: https://cdn.lewd.host/gzRcsfvw.jpg
 category: Kelas Intel

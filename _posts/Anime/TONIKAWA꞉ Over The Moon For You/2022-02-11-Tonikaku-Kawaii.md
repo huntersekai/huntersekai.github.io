@@ -1,7 +1,8 @@
 ---
 layout: post
 tags: anime
-title: TONIKAWA&#58 Over The Moon For You (BD) - S1 Batch ID Subtitle
+title: TONIKAWA&#58 Over The Moon For You (BD) - S1E1-12 ID Subtitle
+eps: 1-12
 epsname: Pokoknya Imut
 date: 2022-02-11 00:32:00 +0700
 coverPhoto: https://cdn.lewd.host/yVq905z6.jpg

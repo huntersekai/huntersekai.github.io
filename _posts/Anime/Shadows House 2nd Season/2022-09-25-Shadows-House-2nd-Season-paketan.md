@@ -1,7 +1,8 @@
 ---
 layout: post
 tags: anime
-title: Shadows House - S2 Batch ID Subtitle
+title: Shadows House - S2E1-12 ID Subtitle
+eps: 1-12
 epsname: SHADOWS HOUSE S2
 date: 2022-09-25 23:44:00+0700
 coverPhoto: https://cdn.lewd.host/53kptvLg.jpg

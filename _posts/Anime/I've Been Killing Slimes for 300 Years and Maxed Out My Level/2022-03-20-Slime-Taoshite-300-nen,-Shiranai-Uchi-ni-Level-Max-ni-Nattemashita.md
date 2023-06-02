@@ -1,7 +1,8 @@
 ---
 layout: post
 tags: anime
-title: I've Been Killing Slimes for 300 Years and Maxed Out My Level (BD) - S1 Batch ID Subtitle
+title: I've Been Killing Slimes for 300 Years and Maxed Out My Level (BD) - S1E1-12 ID Subtitle
+eps: 1-12
 epsname: Membunuh Slime 300 Tahun, Tahu-Tahu Levelku Maksimal
 date: 2022-03-20 03:29:00 +0700
 coverPhoto: https://cdn.lewd.host/uifxN1HN.jpg
