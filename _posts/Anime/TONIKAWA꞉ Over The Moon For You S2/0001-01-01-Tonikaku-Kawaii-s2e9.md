@@ -10,7 +10,7 @@ category-link: Tonikaku-Kawaii-s2
 epsname: Hari Musim Panas
 ---
 
-Nenek lo progammer.
+Nenek lo programmer.
 
 Mandiri: Noromi
 
