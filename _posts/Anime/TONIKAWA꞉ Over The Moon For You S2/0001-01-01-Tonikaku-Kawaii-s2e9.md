@@ -10,6 +10,8 @@ category-link: Tonikaku-Kawaii-s2
 epsname: Hari Musim Panas
 ---
 
+Nenek lo progammer.
+
 Mandiri: Noromi
 
 {% if page.eps %}E{{ page.eps }} - {{ page.epsname }}{% elsif page.epsname %}Unduh{% endif %}
