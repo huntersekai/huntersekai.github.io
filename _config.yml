@@ -1,6 +1,6 @@
-site: A-1 Fansub
-url: https://a-1.fansub.id
-title: A-1 Fansub
+site: Hunter Sekai
+url: https://huntersekai.github.io
+title: Hunter Sekai
 description: Bebas Layaknya Awan~
 twitter:
   username: #yourusername
@@ -15,7 +15,7 @@ author:
 permalink: pretty
 timezone: Asia/Jakarta
 
-baseurl: "https://a-1.fansub.id"
+baseurl: "https://huntersekai.github.io"
 
 highlighter: none
 
@@ -71,4 +71,4 @@ disqus:
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
     shortname: a-1fansub
 
-url: https://a-1.fansub.id
+url: https://huntersekai.github.io
