@@ -1,11 +1,11 @@
 ---
 layout: manga
 tags: manga
-title: Shimotsuki-san Likes the Mob ~This Shy Girl is Only Sweet Towards Me~ - C3 ID Translation
+title: Shimotsuki-san Likes the Mob ~This Shy Girl is Only Sweet Towards Me~ - C4 ID Translation
 eps: 4
 epsname: Shimotsuki-san Menyukai Mob ~Gadis Pemalu Ini Hanya Terlihat Manis di Hadapanku~
 date: 2023-06-09 21:07:00 +0700
-coverPhoto: https://cdn.lewd.host/Si2rTYqK.png
+coverPhoto: https://cdn.lewd.host/WzyV0qWJ.png
 category: Shimotsuki-san Menyukai Mob
 category-link: Shimotsuki-san-Likes-the-Mob
 ---
